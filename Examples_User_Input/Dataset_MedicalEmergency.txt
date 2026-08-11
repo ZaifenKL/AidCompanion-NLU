@@ -304,4 +304,9 @@ id,grupo_edad,rol,estado,edad,estilo,usuario_input
 298,Errores,Testigo,Jalisco,34,Errores,"Mi novia se desmayo y esta convulsionando en el antro"
 299,Errores,Testigo,CDMX,20,Errores,"Mi roomie se tomo pastillas y no despierta, respira muy lento"
 300,Errores,Testigo,Quintana Roo,33,Errores,"Mi hermano volo de la moto y esta en el suelo con el brazo doblado"
+301,Cortas,Victima,Morelos,33,"Ayuda no puedo respirar"
+302,Cortas,Victima,Michoacan,40,"Dolor pecho fuerte"
+303,Cortas,Victima,Sonora,35,"Sangra mucho"
+304,Cortas,Victima,Sonora,40,"Está morado"
+305,Cortas,Victima,Sonora,55,"No siento las piernas"
 

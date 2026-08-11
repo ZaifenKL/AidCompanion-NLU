@@ -1,0 +1,64 @@
+1)Usuario menor o igual a 15 años
+edad,usuario_input
+
+7, Ayuda, me metí una canica a la nariz y ahora no puedo respirar, me duele mucho y siento que me voy a desmayar
+10, Tengo una convulsión, ya van como 5 minutos que tiemblo y no puedo parar, mi mamá no está, tengo miedo
+9, Me caí de la bicicleta en la bajada, me golpeé la cabeza y veo doble, me duele mucho y quiero vomitar
+4, Mi hermanito se comió un dulce, no puede respirar, ayuda, se esta poniendo morado
+12, Estoy en el río y me picó una mantarraya en el pie, no dejo de sangrar y me duele hasta la pierna, no puedo caminar
+6, Me tomé el líquido de la botella de abajo del lavabo y me arde la boca, no puedo tragar y me duele el pecho
+14,Estaba cortando con un cuchillo y me corté la mano, no para la sangre y veo blanco, me siento mareado
+8,Tengo asma y se me cerró la garganta, me puse el inhalador pero no funciona, no puedo respirar y tengo miedo de morirme
+11,Me caí de un árbol, me duele la espalda y no siento mis piernas
+5,Me cayó agua hirviendo encima, me duele, la piel se me está cayendo y no puedo respirar bien
+12, Mi abuelito se cayó en la regadera y no se mueve, tiene la cabeza sangrando y no respira, no sé qué hacer, estoy solo con él en la casa
+8,Mi mamá se tomó unas pastillas y ahora está tirada en el suelo, no despierta y hace ruidos raros al respirar, tengo miedo de llamar"
+14,"Mi papá se está peleando con mi hermano mayor y le clavó un cuchillo en el estómago, está sangrando mucho y mi hermano se está poniendo pálido"
+9,"Mi hermanita se metió a la alberca y no sale, está abajo del agua y no se mueve, ya van como 2 minutos"
+11,"Mi vecino se electrocutó arreglando un cable, está tirado y humea, no responde cuando le grito y tiembla raro"
+13,"Mi tía se está desmayando, tiene la cara toda hinchada y dice que no puede respirar, se comió algo en la fiesta y se puso roja"
+10,"Mi abuela se cayó de las escaleras, no se mueve y tiene un brazo doblado al revés, está inconsciente y sangra de la nariz"
+7,"Mi perro mordió a mi mamá en el brazo y no para de sangrar, ya se mojó toda la camisa, está pálida y dice que ve negro"
+15,"Mi primo se cayó de un segundo piso en la obra, tiene una varilla atravesada en la pierna, grita mucho y veo mucha sangre"
+6,"Mi papá estaba podando el árbol y se cortó el brazo con la motosierra, el brazo está casi suelto y sangra mucho, no deja de sangrar"
+1. Ayuda, mi papá se desmayó y no reacciona, tiene el rostro torcido y no habla. 
+4. Mi mamá tiene dolor en el pecho que le sube al brazo izquierdo, está sudando frío y dice que se va a morir. 
+9. Mi abuelo tiene diabetes y se inyectó demasiada insulina, ahora está tembloroso, confundido y casi no responde.
+
+2) Usuarios 16 a 24 años
+
+19,"Me dispararon en la pierna en la colonia, no para de sangrar y me estoy mareando, creo que me voy a desmayar"
+22, Iba manejando en la carretera y choqué, me duele el pecho y no puedo respirar bien, el volante me aplastó"
+18,"Me metí a nadar a la playa y una corriente me arrastró, casi me ahogo, ahora tengo tos con sangre y me duele todo"
+20,"Me cayó una lámina en la obra, me aplastó la pierna y no la siento, está doblada y veo el hueso"
+17,"Estaba en una fiesta y alguien le puso algo a mi bebida, me siento raro, no puedo controlar mi cuerpo y me tiembla todo"
+23,"Mi novia me dio una cachetada y me reventó el tímpano, tengo sangre en el oído y no escucho nada, me duele muchísimo"
+16,"Estaba jugando fútbol y choqué con el portero, me golpeé la cabeza y veo borroso, no recuerdo cómo llegué aquí"
+24,"Me resbalé en la regadera y me quebré la muñeca, el hueso se ve atravesado y sangra, no puedo mover los dedos"
+21,"Me picó un alacrán en el pie, ya se me está hinchando la garganta y me cuesta respirar, mi lengua se siente rara"
+18,"Me caí de una moto en la carretera, tengo raspado todo el brazo y veo la carne, no para de sangrar y me arde mucho"
+22,"Mi compa se cayó en la obra, está en el suelo y no se mueve, tiene la cabeza doblada raro y sangra de la nariz"
+19 Ibamos en la camioneta y chocamos, mi amigo no respira y tiene sangre en la boca, no sé si está vivo"
+23,"Estaba en el antro con mi novia y se desmayó, está convulsionando y echando espuma, todos están gritando y no sé qué hacer"
+20,"Mi roomie se tomó unas pastillas y ahora no despierta, respira muy lento y hace ruidos raros, no sé cuánto se tomó"
+18, Iba con mi hermano en la moto y una camioneta nos cerró, mi hermano voló y está en el suelo con el brazo doblado, sangra mucho"
+24,"Estábamos en la construcción y a mi compañero le cayó un tubo en la cabeza, está inconsciente y le sale sangre del oído, no reacciona"
+21,"Mi amigo se metió a nadar al río y no salió, ya van como 3 minutos, busco y no lo veo, creo que se ahogó"
+17,"En la fiesta mi cuate se puso muy mal, tomó mucho y ahora no responde, está pálido y vomita, no lo puedo despertar"
+22,"Mi primo estaba arreglando el carro y el gato se le vino encima, lo aplastó y ahora no puede respirar, está morado y tose sangre"
+19,"Mi vecina se está poniendo morada y no puede respirar, tiene la cara hinchada, se comió un camarón y dijo que le picaba la garganta
+
+2) Usuarios 25 a 40 años
+edad,usuario_input
+41, Me dio un dolor muy fuerte en el pecho que me sube al brazo y la mandíbula, estoy sudando frío y me cuesta respirar, no me puedo mover.
+29, Mi esposa me golpeó en la pelea, me cortó el brazo y no para de sangrar, ya se me está mojando toda la camisa y me mareo.
+34, Mi hermano estaba cargando unas vigas y se le cayeron en el pecho, no puede respirar y tose sangre, se está poniendo morado
+37, A mi vecino le dio un infarto en la calle, se agarró el pecho y se cayó, está sudando frío y no responde, su cara se ve gris
+
+2) Usuarios 40 +
+55. Me caí y me golpeé la cabeza con la mesa, ahora veo todo borroso y siento que voy a vomitar
+56. Traigo un dolor en la panza que no aguanto, como si me estuvieran retorciendo las tripas, ya hasta sangre estoy echando
+68, Me resbalé en el baño y no me puedo levantar me duele un montón, ya me está dando frío y me tiembla el cuerpo.
+55, Mi esposo estaba en el baño y se cayó, se golpeó la cabeza con el lavabo, está inconsciente y no reacciona, tiene un chichón y sangra
+56, Mi hermana se quejaba de un dolor en la panza y de repente se desmayó, está toda pálida y tiene sudor frío, no sé qué le pasó
+

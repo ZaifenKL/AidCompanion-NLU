@@ -1,0 +1,50 @@
+{"id":1,"rol":"Victima","edad":30,"estilo":"Neutral","usuario_input":"Llevo varias horas caminando bajo el sol, me duele la cabeza y tengo mucha sed","label":"environmental_condition"}
+{"id":2,"rol":"Victima","edad":35,"estilo":"Neutral","usuario_input":"Estoy en el cerro me dio mucho frío, tengo escalofríos y no puedo dejar de temblar","label":"environmental_condition"}
+{"id":3,"rol":"Victima","edad":28,"estilo":"Neutral","usuario_input":"Hace mucho calor y no he tomado agua, me siento muy cansado y con náuseas","label":"environmental_condition"}
+{"id":4,"rol":"Victima","edad":32,"estilo":"Neutral","usuario_input":"Subí al Nevado de Toluca y me mareé, me duele la cabeza y me cuesta respirar","label":"environmental_condition"}
+{"id":5,"rol":"Victima","edad":25,"estilo":"Neutral","usuario_input":"Estuve en la playa todo el día, tengo la piel quemada y me duele mucho","label":"environmental_condition"}
+{"id":6,"rol":"Victima","edad":40,"estilo":"Neutral","usuario_input":"Llevo horas trabajando en el sol, me siento débil y tengo calambres en las piernas","label":"environmental_condition"}
+{"id":7,"rol":"Victima","edad":29,"estilo":"Neutral","usuario_input":"Estuve caminando muchas horas tengo la piel roja y me duele la cabeza","label":"environmental_condition"}
+{"id":8,"rol":"Victima","edad":33,"estilo":"Neutral","usuario_input":"Me perdí en el cerro y pasé la noche sin abrigo, tengo mucho frío y no puedo mover bien los dedos ni las manos.","label":"environmental_condition"}
+{"id":9,"rol":"Victima","edad":26,"estilo":"Neutral","usuario_input":"Llevo todo el día en la obra hace mucho calor, me siento mareado y tengo ganas de vomitar","label":"environmental_condition"}
+{"id":10,"rol":"Victima","edad":34,"estilo":"Neutral","usuario_input":"Subí al Popocatépetl y me sentí mal, me duele la cabeza y me falta el aire","label":"environmental_condition"}
+{"id":11,"rol":"Victima","edad":31,"estilo":"Neutral","usuario_input":"Hace mucho calor y estoy sudando demasiado, me siento cansado y me punza la cabeza","label":"environmental_condition"}
+{"id":12,"rol":"Victima","edad":27,"estilo":"Neutral","usuario_input":"Estuve bajo la lluvia todo el día, ahora tengo escalofríos y me tiembla el cuerpo","label":"environmental_condition"}
+{"id":13,"rol":"Victima","edad":36,"estilo":"Neutral","usuario_input":"Caminé mucho bajo el sol y ahora me duele mucho la cabeza y tengo mucha sed","label":"environmental_condition"}
+{"id":14,"rol":"Victima","edad":24,"estilo":"Neutral","usuario_input":"Me quedé sin agua en el cerro, tengo la boca seca y me siento muy débil","label":"environmental_condition"}
+{"id":15,"rol":"Victima","edad":38,"estilo":"Emocional","usuario_input":"¡Llevo horas bajo el sol y me siento muy mal! Me duele la cabeza y tengo muchas náuseas","label":"environmental_condition"}
+{"id":16,"rol":"Victima","edad":29,"estilo":"Emocional","usuario_input":"¡No he tomado agua en todo el día! Me siento muy débil y me tiembla el cuerpo","label":"environmental_condition"}
+{"id":17,"rol":"Victima","edad":33,"estilo":"Emocional","usuario_input":"¡Tengo mucho frío! No puedo dejar de temblar y no siento bien mis manos","label":"environmental_condition"}
+{"id":18,"rol":"Victima","edad":31,"estilo":"Emocional","usuario_input":"¡Me duele la cabeza horrible! Llevo todo el día en el sol y me siento muy mareado","label":"environmental_condition"}
+{"id":19,"rol":"Victima","edad":27,"estilo":"Emocional","usuario_input":"¡Estoy sudando demasiado y no puedo respirar bien! El calor está insoportable","label":"environmental_condition"}
+{"id":20,"rol":"Victima","edad":35,"estilo":"Emocional","usuario_input":"¡Me dio un calor muy fuerte y casi me desmayo! Estoy mareado y me tiembla todo","label":"environmental_condition"}
+{"id":21,"rol":"Victima","edad":30,"estilo":"Emocional","usuario_input":"¡Tengo mucho frío y no puedo calentarme! Me tiembla todo el cuerpo, no sé qué hacer","label":"environmental_condition"}
+{"id":22,"rol":"Victima","edad":28,"estilo":"Caotico","usuario_input":"¡CALOR FUERTE DOLOR CABEZA NÁUSEA NO AGUANTO AYUDA!","label":"environmental_condition"}
+{"id":23,"rol":"Victima","edad":32,"estilo":"Caotico","usuario_input":"¡FRÍO EXTREMO TIEMBLO NO PARO DEDOS NO SIENTO AYUDA!","label":"environmental_condition"}
+{"id":24,"rol":"Victima","edad":26,"estilo":"Caotico","usuario_input":"¡DESHIDRATADO SED MUCHA DÉBIL NO CAMINO AYUDA!","label":"environmental_condition"}
+{"id":25,"rol":"Victima","edad":35,"estilo":"Caotico","usuario_input":"¡MAREADO CALOR VOMITAR NO PUEDO LEVANTARME AYUDA!","label":"environmental_condition"}
+{"id":26,"rol":"Victima","edad":29,"estilo":"Caotico","usuario_input":"¡PIEL QUEMADA DUELE MUCHO ROJA NO AGUANTO AYUDA!","label":"environmental_condition"}
+{"id":27,"rol":"Victima","edad":9,"estilo":"Infantil","usuario_input":"Estuve mucho tiempo en el sol y me duele la cabeza, tengo mucha sed y me siento mal","label":"environmental_condition"}
+{"id":28,"rol":"Victima","edad":10,"estilo":"Infantil","usuario_input":"Hizo mucho frío y me tiembla el cuerpo, no puedo calentarme, ayudame porfa","label":"environmental_condition"}
+{"id":29,"rol":"Victima","edad":8,"estilo":"Infantil","usuario_input":"Caminé mucho y no tomé agua, tengo la boca seca y me duele la cabeza","label":"environmental_condition"}
+{"id":30,"rol":"Victima","edad":11,"estilo":"Infantil","usuario_input":"Me dio calor en el recreo y me mareé, me duele la cabeza y la panza","label":"environmental_condition"}
+{"id":31,"rol":"Victima","edad":34,"estilo":"Formal","usuario_input":"Estuve expuesto al sol varias horas, ahora tengo dolor de cabeza fuerte y muchas náuseas","label":"environmental_condition"}
+{"id":32,"rol":"Victima","edad":38,"estilo":"Formal","usuario_input":"Tuve mucho frío en el cerro, no puedo controlar los escalofríos y mis manos están entumecidas","label":"environmental_condition"}
+{"id":33,"rol":"Victima","edad":30,"estilo":"Formal","usuario_input":"No tomé suficiente agua con el calor, me siento débil y tengo calambres en las piernas","label":"environmental_condition"}
+{"id":34,"rol":"Victima","edad":36,"estilo":"Formal","usuario_input":"Subí a la montaña y me empecé a sentir mal, me duele la cabeza y me falta el aire","label":"environmental_condition"}
+{"id":35,"rol":"Victima","edad":27,"estilo":"Slang","usuario_input":"Wey llevo todo el día en el sol y no tomé agua, me siento bien mal, me duele la cabeza","label":"environmental_condition"}
+{"id":36,"rol":"Victima","edad":29,"estilo":"Slang","usuario_input":"No mames hace un frío de la chingada, no puedo dejar de temblar y no siento las manos","label":"environmental_condition"}
+{"id":37,"rol":"Victima","edad":25,"estilo":"Errores","usuario_input":"Llevo oras en el sol y me duele la cabeza tengo muxa sed y me siento debil","label":"environmental_condition"}
+{"id":38,"rol":"Victima","edad":32,"estilo":"Neutral","usuario_input":"Hace mucho calor y me siento cansado, tengo dolor de cabeza y estoy sudando demasiado","label":"environmental_condition"}
+{"id":39,"rol":"Victima","edad":28,"estilo":"Neutral","usuario_input":"Estuve en el frío sin chamarra, ahora me tiembla el cuerpo y no siento bien los dedos","label":"environmental_condition"}
+{"id":40,"rol":"Victima","edad":34,"estilo":"Neutral","usuario_input":"Caminé todo el día bajo el sol, tengo la piel quemada y me duele mucho la cabeza","label":"environmental_condition"}
+{"id":41,"rol":"Testigo","edad":30,"estilo":"Neutral","usuario_input":"Vi a mi amigo desmayarse por el calor, estaba muy rojo y sudaba mucho","label":"environmental_condition"}
+{"id":42,"rol":"Testigo","edad":28,"estilo":"Neutral","usuario_input":"Mi hermano lleva horas en el frío y no puede dejar de temblar, se ve muy pálido","label":"environmental_condition"}
+{"id":43,"rol":"Testigo","edad":32,"estilo":"Neutral","usuario_input":"Mi compañero no ha tomado agua en todo el día, se ve muy cansado y dice que esta mareado","label":"environmental_condition"}
+{"id":44,"rol":"Testigo","edad":25,"estilo":"Neutral","usuario_input":"Vi a una persona que se mareó por el sol, estaba muy roja y no se podía parar","label":"environmental_condition"}
+{"id":45,"rol":"Testigo","edad":29,"estilo":"Emocional","usuario_input":"¡Mi amigo se desmayó por el calor! Está muy caliente y no reacciona, ¡ayuda!","label":"environmental_condition"}
+{"id":46,"rol":"Testigo","edad":31,"estilo":"Emocional","usuario_input":"¡Mi esposo lleva horas en el frío y no puede calentarse! Tiembla mucho y no siente sus manos","label":"environmental_condition"}
+{"id":47,"rol":"Testigo","edad":24,"estilo":"Caotico","usuario_input":"¡AMIGO CALOR DESMAYADO NO REACCIONA AYUDA RÁPIDO!","label":"environmental_condition"}
+{"id":48,"rol":"Testigo","edad":9,"estilo":"Infantil","usuario_input":"Mi hermana se mareó por el sol, estaba muy roja y se cayó, ayudame porfa","label":"environmental_condition"}
+{"id":49,"rol":"Testigo","edad":36,"estilo":"Formal","usuario_input":"Mi compañero se desmayó por el calor, está muy caliente y sudando mucho, no reacciona","label":"environmental_condition"}
+{"id":50,"rol":"Testigo","edad":33,"estilo":"Slang","usuario_input":"Wey mi compa se desmayó por el calor, esta bien rojo y no reacciona no mames","label":"environmental_condition"}

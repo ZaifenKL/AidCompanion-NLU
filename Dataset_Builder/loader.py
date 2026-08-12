@@ -22,6 +22,7 @@ def add_label_to_dataset(path,label):
     return df
 
 def label_all_dataset(read_path,save_path):
+    os.makedirs(save_path, exist_ok=True)
 
     for root, dirs, files in os.walk(read_path):
         for file in files:
@@ -31,18 +32,29 @@ def label_all_dataset(read_path,save_path):
                 full_path = os.path.join(root, file)
 
                 #Automatically extract the filename and use the label
-                base_name = re.sub(r'(?<!^)(?=[A-Z])', '_',file)
-                base_name = base_name.lower()
+                if file.endswith(".csv"):
+                    base_name = file.replace(".csv","")
+                elif file.endswith(".txt"):
+                    base_name = file.replace(".txt","")
 
-                base_name = base_name.replace("dataset_", "")
-                base_name = base_name.replace(".csv","")
-                base_name = base_name.replace(".txt","_")
+                base_name = base_name.replace("Dataset_","")
+
+                base_name = re.sub(r'(?<!^)(?=[A-Z])', '_',base_name)
+                base_name = base_name.lower()
 
                 #Now add the label to all the dataset
                 df = add_label_to_dataset(full_path,base_name)
+
                 #Convert to json and save
-                out_path = os.path.join(save_path,dirs,f"{base_name}.jsonl")
-                df.to_json(out_path,encoding='utf-8')
+                current_folder = os.path.basename(root)
+                out_path = os.path.join(save_path,current_folder)
+
+                # Make sure that the folder exists
+                os.makedirs(out_path, exist_ok=True)
+
+                out_path = os.path.join(out_path, f"{base_name}.jsonl")
+                df.to_json(out_path, orient="records", lines=True, force_ascii=False)
+
 
 #-----Sequence-----------
 if __name__ == "__main__":

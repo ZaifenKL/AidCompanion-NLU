@@ -1,0 +1,56 @@
+{"id":1,"rol":"Victima","edad":28,"estilo":"Neutral","usuario_input":"Me torcí el tobillo derecho jugando fútbol, puedo caminar pero me duele al apoyar el pie","label":"physical_injury"}
+{"id":2,"rol":"Victima","edad":32,"estilo":"Neutral","usuario_input":"Me caí de la bicicleta y me raspé la rodilla, está sangrando un poco pero no es profundo","label":"physical_injury"}
+{"id":3,"rol":"Victima","edad":25,"estilo":"Neutral","usuario_input":"Me golpeé la mano contra la puerta, tengo un moretón y me duele mover los dedos","label":"physical_injury"}
+{"id":4,"rol":"Victima","edad":30,"estilo":"Neutral","usuario_input":"Creo que me esguincé la muñeca levantando una caja pesada, está inflamada pero puedo moverla","label":"physical_injury"}
+{"id":5,"rol":"Victima","edad":27,"estilo":"Neutral","usuario_input":"Me corté con un vidrio en el dedo, es un corte pequeño pero no para de sangrar","label":"physical_injury"}
+{"id":6,"rol":"Victima","edad":35,"estilo":"Neutral","usuario_input":"Me torcí la rodilla bajando escaleras, me duele y no puedo estirar bien la pierna","label":"physical_injury"}
+{"id":7,"rol":"Victima","edad":29,"estilo":"Neutral","usuario_input":"Me caí en la calle y me raspé la palma de la mano, tiene arena y sangra un poquito","label":"physical_injury"}
+{"id":8,"rol":"Victima","edad":31,"estilo":"Neutral","usuario_input":"Me golpeé el codo contra la mesa, tengo un chichón y no puedo doblar bien el brazo","label":"physical_injury"}
+{"id":9,"rol":"Victima","edad":26,"estilo":"Neutral","usuario_input":"Me doblé el dedo gordo del pie jugando, está morado y me duele al caminar","label":"physical_injury"}
+{"id":10,"rol":"Victima","edad":33,"estilo":"Neutral","usuario_input":"Me caí de las escaleras y me golpeé la espalda, tengo moretones y me duele al moverme","label":"physical_injury"}
+{"id":11,"rol":"Victima","edad":24,"estilo":"Neutral","usuario_input":"Me corté la mano con una lata no para de sangrar","label":"physical_injury"}
+{"id":12,"rol":"Victima","edad":29,"estilo":"Neutral","usuario_input":"Me torcí el hombro cargando una bolsa pesada, me duele levantar el brazo","label":"physical_injury"}
+{"id":13,"rol":"Victima","edad":34,"estilo":"Neutral","usuario_input":"Me golpeé la cabeza con el marco de la puerta me duele mucho","label":"physical_injury"}
+{"id":14,"rol":"Victima","edad":22,"estilo":"Neutral","usuario_input":"Me resbalé en el baño y me golpeé la cadera, tengo moretón y me duele al caminar","label":"physical_injury"}
+{"id":15,"rol":"Victima","edad":38,"estilo":"Emocional","usuario_input":"Tengo miedo ¡Me caí de la bicicleta y me raspé todo el brazo! Me duele muchísimo, está sangrando","label":"physical_injury"}
+{"id":16,"rol":"Victima","edad":27,"estilo":"Emocional","usuario_input":"Ayudame ¡Me torcí el tobillo y no puedo caminar! Me duele horrible, tengo miedo de que esté roto","label":"physical_injury"}
+{"id":17,"rol":"Victima","edad":15,"estilo":"Emocional","usuario_input":"Siento que me voy a morir ¡Me corté el dedo con un cuchillo y no para de sangrar! Estoy muy asustada y me duele mucho","label":"physical_injury"}
+{"id":18,"rol":"Victima","edad":25,"estilo":"Emocional","usuario_input":"¡Me esguincé la muñeca y está muy hinchada! No puedo mover los dedos, me duele muchísimo ayuda","label":"physical_injury"}
+{"id":19,"rol":"Victima","edad":29,"estilo":"Emocional","usuario_input":"Ayudame porfavor ¡Me golpeé el codo muy fuerte y no puedo doblar el brazo! Me duele horrible, tengo miedo","label":"physical_injury"}
+{"id":20,"rol":"Victima","edad":32,"estilo":"Emocional","usuario_input":"¡Me caí en la calle y me raspé la rodilla bien feo! Sangra mucho y me arde, ¡ayuda!","label":"physical_injury"}
+{"id":21,"rol":"Victima","edad":26,"estilo":"Emocional","usuario_input":"¡Me torcí el hombro y no puedo levantar el brazo! Me duele muchísimo, tengo mucho miedo","label":"physical_injury"}
+{"id":22,"rol":"Victima","edad":23,"estilo":"Caotico","usuario_input":"DUELE ¡ME CAÍ Y ME GOLPEÉ LA RODILLA SANGRÉ NO PUEDO CAMINAR AYUDA DUELE!","label":"physical_injury"}
+{"id":23,"rol":"Victima","edad":28,"estilo":"Caotico","usuario_input":"DUELE AYUDA ¡ME CORTÉ DEDO SANGRE NO PARA DUELE NO MUEVO AYUDA RÁPIDO!","label":"physical_injury"}
+{"id":24,"rol":"Victima","edad":25,"estilo":"Caotico","usuario_input":"AYUDA AYUDA ¡TORCIÓN TOBILLO INFLAMADO DUELE NO CAMINO AYUDA AYUDA!","label":"physical_injury"}
+{"id":25,"rol":"Victima","edad":31,"estilo":"Caotico","usuario_input":"¡GOLPE CABEZA DUELE VEO BORROSO NO ME CAIGO AYUDA!","label":"physical_injury"}
+{"id":26,"rol":"Victima","edad":29,"estilo":"Caotico","usuario_input":"MIEDO ¡BRAZO RASGADO SANGRANTE DUELE MUCHO NO MUEVO AYUDA!","label":"physical_injury"}
+{"id":27,"rol":"Victima","edad":8,"estilo":"Infantil","usuario_input":"Me caí de la bici y me raspé la rodilla, me duele y me está sangrando, ayudame porfa","label":"physical_injury"}
+{"id":28,"rol":"Victima","edad":10,"estilo":"Infantil","usuario_input":"Me torcí el dedo jugando, está morado y me duele, no puedo moverlo bien","label":"physical_injury"}
+{"id":29,"rol":"Victima","edad":9,"estilo":"Infantil","usuario_input":"Me golpeé la cabeza con la puerta, me duele y tengo un chichón gigante","label":"physical_injury"}
+{"id":30,"rol":"Victima","edad":11,"estilo":"Infantil","usuario_input":"Me corté el dedo con una lata, sangra y me duele mucho, tengo miedo","label":"physical_injury"}
+{"id":31,"rol":"Victima","edad":35,"estilo":"Formal","usuario_input":"Me torcí el tobillo jugando fútbol, está inflamado y me duele mucho al tocarlo","label":"physical_injury"}
+{"id":32,"rol":"Victima","edad":40,"estilo":"Formal","usuario_input":"Me corté el dedo índice y me está sangrado, qué hago?","label":"physical_injury"}
+{"id":33,"rol":"Victima","edad":38,"estilo":"Slang","usuario_input":"Me metí un santo tranquazo en la rodilla tengo un moretón y no puedo doblar bien la pierna","label":"physical_injury"}
+{"id":34,"rol":"Victima","edad":32,"estilo":"Slang","usuario_input":"Wey me torcí el tobillo jugando fut, no puedo caminar bien está hinchado","label":"physical_injury"}
+{"id":35,"rol":"Victima","edad":27,"estilo":"Slang","usuario_input":"No mames no mames, me caí de la moto y me raspé el brazo, está sangrando y me arde horrible","label":"physical_injury"}
+{"id":36,"rol":"Victima","edad":30,"estilo":"Errores","usuario_input":"Me caí de la bici y me raspé la rodilla, me duele mucho y me está sangrando un poquito","label":"physical_injury"}
+{"id":37,"rol":"Victima","edad":22,"estilo":"Neutral","usuario_input":"Me golpeé la espinilla con el borde de la cama, tengo moretón y me duele un poco.","label":"physical_injury"}
+{"id":38,"rol":"Victima","edad":26,"estilo":"Neutral","usuario_input":"Me torcí el cuello durmiendo me duele girar la cabeza y tengo el cuello tieso","label":"physical_injury"}
+{"id":39,"rol":"Victima","edad":28,"estilo":"Neutral","usuario_input":"Me corté el pulgar con una navaja, es un corte pequeño pero profundo y me está sangrando","label":"physical_injury"}
+{"id":40,"rol":"Victima","edad":34,"estilo":"Neutral","usuario_input":"Me resbalé en el parque y me golpeé la muñeca, está inflamada pero puedo mover los dedos","label":"physical_injury"}
+{"id":41,"rol":"Testigo","edad":30,"estilo":"Neutral","usuario_input":"Mi amigo se torció el tobillo jugando, está hinchado y no puede caminar","label":"physical_injury"}
+{"id":42,"rol":"Testigo","edad":28,"estilo":"Neutral","usuario_input":"Mi hermano se cayó de la bicicleta y se raspó el brazo, sangra un poco pero está consciente","label":"physical_injury"}
+{"id":43,"rol":"Testigo","edad":32,"estilo":"Neutral","usuario_input":"Ayuda mi compañero se golpeó la mano con una herramienta, tiene un moretón y no puede mover los dedos","label":"physical_injury"}
+{"id":44,"rol":"Testigo","edad":25,"estilo":"Neutral","usuario_input":"Mi prima se cortó el dedo con un vidrio, es un corte pequeño pero no deja de sangrar","label":"physical_injury"}
+{"id":45,"rol":"Testigo","edad":29,"estilo":"Neutral","usuario_input":"Un señor se cayó en la calle y se golpeó la rodilla, no puede levantarse solo","label":"physical_injury"}
+{"id":46,"rol":"Testigo","edad":35,"estilo":"Neutral","usuario_input":"Mi esposa se torció la muñeca levantando una caja, está hinchada y le duele moverla","label":"physical_injury"}
+{"id":47,"rol":"Testigo","edad":27,"estilo":"Emocional","usuario_input":"¡Mi amigo se golpeó la cabeza muy fuerte! Está sangrando y no sabe dónde está, ¡ayuda!","label":"physical_injury"}
+{"id":48,"rol":"Testigo","edad":31,"estilo":"Emocional","usuario_input":"¡Mi hermano se cortó la mano y no para de sangrar! Está muy pálido y me dice que se mareó","label":"physical_injury"}
+{"id":49,"rol":"Testigo","edad":29,"estilo":"Emocional","usuario_input":"¡Mi compañera se cayó de la bicicleta y se raspó todo el brazo! Está sangrando mucho, ¡tiene dolor!","label":"physical_injury"}
+{"id":50,"rol":"Testigo","edad":24,"estilo":"Emocional","usuario_input":"¡Mi novio se torció el tobillo y no puede caminar! Está muy hinchado y le duele mucho, ¡estoy asustada!","label":"physical_injury"}
+{"id":51,"rol":"Testigo","edad":26,"estilo":"Caotico","usuario_input":"¡AMIGO CAÍDA CABEZA SANGRE NO SABE DÓNDE ESTÁ AYUDA RÁPIDO!","label":"physical_injury"}
+{"id":52,"rol":"Testigo","edad":9,"estilo":"Infantil","usuario_input":"Mi hermanito se cayó y se golpeó la rodilla, sangra poquito y llora, ayudame porfavor","label":"physical_injury"}
+{"id":53,"rol":"Testigo","edad":38,"estilo":"Formal","usuario_input":"Mi amigo se golpeó el brazo contra una tabla, tiene un moretón y le duele moverlo","label":"physical_injury"}
+{"id":54,"rol":"Testigo","edad":35,"estilo":"Formal","usuario_input":"Mi amigo se cayó y se raspó la rodilla, sangra un poco y no puede caminar bien","label":"physical_injury"}
+{"id":55,"rol":"Testigo","edad":24,"estilo":"Slang","usuario_input":"Wey, vi a mi compa caerse de la bici, se raspó bien feo el brazo y está sangrando, no mames","label":"physical_injury"}
+{"id":56,"rol":"Testigo","edad":28,"estilo":"Errores","usuario_input":"Mi amigo se cayo y se golpeo la rodilla sangra un pokito y se queja mucho de dolor","label":"physical_injury"}

@@ -1,0 +1,100 @@
+{"id":1,"rol":"Victima","edad":"28","estilo":"Neutral","usuario_input":"Me perdí en el cerro ya no encuentro el sendero y está empezando a oscurecer","label":"survival_situation"}
+{"id":2,"rol":"Victima","edad":"32","estilo":"Neutral","usuario_input":"No traigo agua y llevo horas caminando, la botella está vacía y tengo mucha sed","label":"survival_situation"}
+{"id":3,"rol":"Victima","edad":"25","estilo":"Neutral","usuario_input":"Se está haciendo de noche y no encuentro el camino de regreso al campamento","label":"survival_situation"}
+{"id":4,"rol":"Victima","edad":"30","estilo":"Neutral","usuario_input":"Me estoy quedando sin batería y no sé cómo llegar a la carretera","label":"survival_situation"}
+{"id":5,"rol":"Victima","edad":"27","estilo":"Neutral","usuario_input":"La tormenta está llegando y no tengo dónde refugiarme","label":"survival_situation"}
+{"id":6,"rol":"Victima","edad":"35","estilo":"Neutral","usuario_input":"Perdí el sendero marcado llevo como 2 horas dando vueltas sin encontrar la salida","label":"survival_situation"}
+{"id":7,"rol":"Victima","edad":"29","estilo":"Neutral","usuario_input":"No hay señal en el cerro y no puedo pedir ayuda, el agua se me está acabando","label":"survival_situation"}
+{"id":8,"rol":"Victima","edad":"33","estilo":"Neutral","usuario_input":"Llevo varias horas perdido, ya casi anochece y no traigo linterna","label":"survival_situation"}
+{"id":9,"rol":"Victima","edad":"26","estilo":"Neutral","usuario_input":"El camino se cerró por un derrumbe, no puedo seguir y no sé qué hacer","label":"survival_situation"}
+{"id":10,"rol":"Victima","edad":"34","estilo":"Neutral","usuario_input":"Me quedé sin agua y el sol está muy fuerte, no sé si pueda llegar a la salida","label":"survival_situation"}
+{"id":11,"rol":"Victima","edad":"31","estilo":"Neutral","usuario_input":"Estoy atrapado en la montaña por la tormenta, no puedo bajar ni subir","label":"survival_situation"}
+{"id":12,"rol":"Victima","edad":"27","estilo":"Neutral","usuario_input":"La niebla está muy espesa y no veo el sendero me estoy desorientando","label":"survival_situation"}
+{"id":13,"rol":"Victima","edad":"36","estilo":"Neutral","usuario_input":"Se me acabó la comida y todavía me falta mucho para llegar a la civilización","label":"survival_situation"}
+{"id":14,"rol":"Victima","edad":"24","estilo":"Neutral","usuario_input":"El río creció y no puedo cruzarlo, estoy atrapado en esta orilla","label":"survival_situation"}
+{"id":15,"rol":"Victima","edad":"38","estilo":"Emocional","usuario_input":"¡Me perdí en el cerro y está oscureciendo! Tengo mucho miedo, no sé qué hacer","label":"survival_situation"}
+{"id":16,"rol":"Victima","edad":"29","estilo":"Emocional","usuario_input":"¡Se me acabó el agua! Estoy desesperado, el sol está muy fuerte y no tengo señal","label":"survival_situation"}
+{"id":17,"rol":"Victima","edad":"33","estilo":"Emocional","usuario_input":"¡No encuentro el camino de regreso! Estoy asustado, ya está oscureciendo y no traje linterna","label":"survival_situation"}
+{"id":18,"rol":"Victima","edad":"31","estilo":"Emocional","usuario_input":"¡La tormenta me atrapó en el cerro! No tengo dónde resguardarme, tengo mucho miedo","label":"survival_situation"}
+{"id":19,"rol":"Victima","edad":"27","estilo":"Emocional","usuario_input":"¡Perdí el sendero y ya casi anochece! Estoy desesperado, no sé si pueda salir de aquí","label":"survival_situation"}
+{"id":20,"rol":"Victima","edad":"35","estilo":"Emocional","usuario_input":"¡Se me acabó el agua y llevo horas perdido! Tengo mucha sed y me siento muy débil","label":"survival_situation"}
+{"id":21,"rol":"Victima","edad":"30","estilo":"Emocional","usuario_input":"¡El río creció y no puedo cruzarlo! Estoy atrapado, no sé qué hacer y está oscureciendo","label":"survival_situation"}
+{"id":22,"rol":"Victima","edad":"28","estilo":"Caotico","usuario_input":"¡PERDIDO CERRO OSCURECE NO SEÑAL AYUDA AYUDA!","label":"survival_situation"}
+{"id":23,"rol":"Victima","edad":"32","estilo":"Caotico","usuario_input":"¡AGUA SE ACABÓ SED NO CAMINO NO SALIDA AYUDA!","label":"survival_situation"}
+{"id":24,"rol":"Victima","edad":"26","estilo":"Caotico","usuario_input":"¡TORMENTA LLEGA NO REFUGIO ATRAPADO AYUDA RÁPIDO!","label":"survival_situation"}
+{"id":25,"rol":"Victima","edad":"35","estilo":"Caotico","usuario_input":"¡NIEBLA ESPESA NO VEO SENDERO DESORIENTADO AYUDA!","label":"survival_situation"}
+{"id":26,"rol":"Victima","edad":"29","estilo":"Caotico","usuario_input":"¡RÍO CRECIDO ATRAPADO NO CRUZO OSCURECE AYUDA!","label":"survival_situation"}
+{"id":27,"rol":"Victima","edad":"9","estilo":"Infantil","usuario_input":"Me perdí en el cerro con mi papa, no encuentro el camino y tengo miedo porque está oscuro","label":"survival_situation"}
+{"id":28,"rol":"Victima","edad":"10","estilo":"Infantil","usuario_input":"Se me acabó el agua y tengo mucha sed, no sé dónde estoy, ayudame porfavor","label":"survival_situation"}
+{"id":29,"rol":"Victima","edad":"8","estilo":"Infantil","usuario_input":"Está lloviendo mucho y no tengo dónde esconderme, tengo frío y tengo miedo","label":"survival_situation"}
+{"id":30,"rol":"Victima","edad":"11","estilo":"Infantil","usuario_input":"Me perdí del grupo y no encuentro el sendero, ya está oscureciendo y tengo miedo","label":"survival_situation"}
+{"id":31,"rol":"Victima","edad":"34","estilo":"Formal","usuario_input":"Me perdí en el cerro y ya está oscureciendo, no traje linterna y ya casi no tengo señal en el teléfono","label":"survival_situation"}
+{"id":32,"rol":"Victima","edad":"38","estilo":"Formal","usuario_input":"Llevo varias horas sin agua y el sol está muy fuerte, me siento muy débil y no encuentro la salida","label":"survival_situation"}
+{"id":33,"rol":"Victima","edad":"30","estilo":"Formal","usuario_input":"La tormenta me atrapó y no tengo dónde protegerme, el agua está subiendo y no puedo avanzar","label":"survival_situation"}
+{"id":34,"rol":"Victima","edad":"36","estilo":"Formal","usuario_input":"El camino está bloqueado por un derrumbe, no puedo regresar ni seguir adelante","label":"survival_situation"}
+{"id":35,"rol":"Victima","edad":"27","estilo":"Formal","usuario_input":"La niebla no me deja ver el sendero, llevo horas perdido y el agua se está acabando","label":"survival_situation"}
+{"id":36,"rol":"Victima","edad":"32","estilo":"Slang","usuario_input":"Wey, me perdí en el cerro y ya está oscureciendo, no traje ni linterna, estoy bien asustado","label":"survival_situation"}
+{"id":37,"rol":"Victima","edad":"29","estilo":"Slang","usuario_input":"No mames, se me acabó el agua y llevo horas caminando, no veo salida por ningún lado","label":"survival_situation"}
+{"id":38,"rol":"Victima","edad":"25","estilo":"Errores","usuario_input":"Me perdi en el cerro y ya esta osucereciendo, no tengo señal y el agua se me acabo","label":"survival_situation"}
+{"id":39,"rol":"Victima","edad":"32","estilo":"Neutral","usuario_input":"La tormenta me sorprendió en el cerro, el agua está subiendo y no puedo cruzar el río","label":"survival_situation"}
+{"id":40,"rol":"Victima","edad":"28","estilo":"Neutral","usuario_input":"Se me acabó la batería del celular y no sé dónde estoy, llevo horas caminando","label":"survival_situation"}
+{"id":41,"rol":"Testigo","edad":"30","estilo":"Neutral","usuario_input":"Estoy perdido en el cerro con un grupo de personas, ya casi no tenemos agua y está oscureciendo","label":"survival_situation"}
+{"id":42,"rol":"Testigo","edad":"28","estilo":"Neutral","usuario_input":"Mi amigo se separó del grupo en el cerro, ya no lo encuentro y creo que su teléfono no tiene señal","label":"survival_situation"}
+{"id":43,"rol":"Testigo","edad":"32","estilo":"Neutral","usuario_input":"Un compañero se quedó atrapado por la tormenta, no puede bajar y no tiene refugio","label":"survival_situation"}
+{"id":44,"rol":"Testigo","edad":"25","estilo":"Emocional","usuario_input":"¡Mi amigo se perdió en el cerro! Está oscureciendo y no tiene agua ni señal, ¡tengo mucho miedo!","label":"survival_situation"}
+{"id":45,"rol":"Testigo","edad":"9","estilo":"Infantil","usuario_input":"Mi hermanito se perdió en el cerro, no lo encuentro y ya está oscuro, tengo miedo, ayudame","label":"survival_situation"}
+{"id":46,"rol":"Testigo","edad":"24","estilo":"Slang","usuario_input":"Wey mi compa se perdió en el cerro, ya está oscureciendo y no tiene señal no mames","label":"survival_situation"}
+{"id":47,"rol":"Testigo","edad":"30","estilo":"Neutral","usuario_input":"El grupo está atrapado por el río crecido, no pueden cruzarlo y está empezando a llover","label":"survival_situation"}
+{"id":48,"rol":"Testigo","edad":"34","estilo":"Neutral","usuario_input":"Hay una tormenta muy fuerte y varios senderistas no han regresado, no tienen señal ni linternas","label":"survival_situation"}
+{"id":49,"rol":"Testigo","edad":"29","estilo":"Emocional","usuario_input":"¡Mi novio se perdió en el cerro! Lleva horas sin agua y el teléfono no tiene batería, ¡ayuda!","label":"survival_situation"}
+{"id":50,"rol":"Testigo","edad":"31","estilo":"Neutral","usuario_input":"Un amigo se quedó sin agua y no encuentra el camino de regreso, ya anocheció","label":"survival_situation"}
+{"id":51,"rol":"Testigo","edad":"Neutral","estilo":"Me torcí el tobillo en el cerro, no puedo caminar, no tengo agua ni señal y ya anocheció","usuario_input":null,"label":"survival_situation"}
+{"id":52,"rol":"Victima","edad":"34","estilo":"Neutral","usuario_input":"Estoy en el Cerro del Tepozteco y empezó a llover muy fuerte, el sendero está resbaloso y no puedo bajar, hay piedras cayendo","label":"survival_situation"}
+{"id":53,"rol":"Victima","edad":"29","estilo":"Emocional","usuario_input":"¡Voy en el Cerro del Tepozteco y se está deslizando la tierra! El camino está bloqueado por lodo y piedras, no puedo seguir ni regresar","label":"survival_situation"}
+{"id":54,"rol":"Victima","edad":"31","estilo":"Caotico","usuario_input":"¡LLUVIA FUERTE TEPOZTLAN SENDERO RESBALOSO DESLAVE NO BAJO AYUDA!","label":"survival_situation"}
+{"id":55,"rol":"Victima","edad":"28","estilo":"Neutral","usuario_input":"Subí al Cerro del Bachoco y me desorienté con la neblina, ya no veo el sendero y está empezando a oscurecer","label":"survival_situation"}
+{"id":56,"rol":"Victima","edad":"25","estilo":"Slang","usuario_input":"Wey, en el Cerro del Bachoco me perdí con la niebla, no veo ni madres y ya está oscureciendo, no traje ni linterna","label":"survival_situation"}
+{"id":57,"rol":"Victima","edad":"30","estilo":"Neutral","usuario_input":"Estoy en el Desierto de los Leones y el camino se cerró por un árbol caído, no puedo pasar y ya está lloviendo","label":"survival_situation"}
+{"id":58,"rol":"Victima","edad":"27","estilo":"Emocional","usuario_input":"¡Me perdí en el Desierto de los Leones! Llevo horas caminando y no encuentro la salida, el teléfono ya no tiene batería","label":"survival_situation"}
+{"id":59,"rol":"Victima","edad":"32","estilo":"Neutral","usuario_input":"En el sendero del Iztaccíhuatl, la tormenta de nieve nos sorprendió, no vemos el camino y el frío está muy fuerte","label":"survival_situation"}
+{"id":60,"rol":"Victima","edad":"35","estilo":"Caotico","usuario_input":"¡TORMENTA NIEVE IZTA NO VEO SENDERO FRÍO EXTREMO AYUDA!","label":"survival_situation"}
+{"id":61,"rol":"Victima","edad":"29","estilo":"Formal","usuario_input":"Estoy en el Iztaccíhuatl y la visibilidad es casi nula por la tormenta, el frío está poniendo en riesgo a mi grupo","label":"survival_situation"}
+{"id":62,"rol":"Victima","edad":"33","estilo":"Neutral","usuario_input":"Subiendo al Nevado de Toluca, el camino está cubierto de hielo, no puedo avanzar ni regresar sin resbalarme","label":"survival_situation"}
+{"id":63,"rol":"Victima","edad":"28","estilo":"Emocional","usuario_input":"¡El Nevado de Toluca está congelado! Resbalé varias veces y no puedo bajar, el frío es insoportable","label":"survival_situation"}
+{"id":64,"rol":"Victima","edad":"30","estilo":"Neutral","usuario_input":"En el Pico de Orizaba, una tormenta eléctrica nos atrapó, no tenemos dónde resguardarnos y el rayo cayó cerca","label":"survival_situation"}
+{"id":65,"rol":"Victima","edad":"26","estilo":"Slang","usuario_input":"No mames, en el Pico de Orizaba cayó un rayo a 50 metros, estamos bien expuestos y no hay refugio","label":"survival_situation"}
+{"id":66,"rol":"Victima","edad":"34","estilo":"Neutral","usuario_input":"En el sendero de la Sierra de Guerrero, encontré una zona con deslave, no puedo pasar y el río está creciendo","label":"survival_situation"}
+{"id":67,"rol":"Victima","edad":"27","estilo":"Emocional","usuario_input":"¡Voy en la Sierra Gorda y me quedé sin agua! El sol está bien fuerte, me siento mareado y no encuentro el camino","label":"survival_situation"}
+{"id":68,"rol":"Victima","edad":"31","estilo":"Neutral","usuario_input":"En la Barranca del Cobre, el sendero se derrumbó por las lluvias, estoy atrapado entre la pared y el precipicio","label":"survival_situation"}
+{"id":69,"rol":"Victima","edad":"29","estilo":"Caotico","usuario_input":"¡BARRANCA COBRE DERRUMBE SENDERO ATRAPADO PRECIPICIO AYUDA!","label":"survival_situation"}
+{"id":70,"rol":"Victima","edad":"24","estilo":"Neutral","usuario_input":"El río creció en el Desierto de los Leones y no puedo cruzarlo, estoy atrapado en esta orilla y ya está oscureciendo","label":"survival_situation"}
+{"id":71,"rol":"Victima","edad":"22","estilo":"Infantil","usuario_input":"Me perdí en el bosque, ya está oscuro y no encuentro a mi familia, tengo mucho miedo y frío","label":"survival_situation"}
+{"id":72,"rol":"Victima","edad":"28","estilo":"Emocional","usuario_input":"¡El cerro del Tepozteco tiene deslaves por la lluvia! Estoy en una zona sin señal y no sé cómo bajar","label":"survival_situation"}
+{"id":73,"rol":"Victima","edad":"26","estilo":"Slang","usuario_input":"Wey, en el Tepozteco hay un deslave bien culero, no puedo bajar y ya se está haciendo de noche","label":"survival_situation"}
+{"id":74,"rol":"Victima","edad":"30","estilo":"Formal","usuario_input":"En el Desierto de los Leones el camino principal está bloqueado por un árbol de gran tamaño, no puedo continuar","label":"survival_situation"}
+{"id":75,"rol":"Victima","edad":"32","estilo":"Neutral","usuario_input":"En el Nevado de Toluca, la niebla es tan espesa que no distingo el sendero, llevo 3 horas perdido","label":"survival_situation"}
+{"id":76,"rol":"Victima","edad":"27","estilo":"Errores","usuario_input":"Nevado Toluca niebla espesa no veo sendero oras perdido tengo muxo frio","label":"survival_situation"}
+{"id":77,"rol":"Victima","edad":"34","estilo":"Emocional","usuario_input":"¡El Iztaccíhuatl está cubierto de hielo y todos los senderos están congelados! No podemos bajar","label":"survival_situation"}
+{"id":78,"rol":"Victima","edad":"28","estilo":"Neutral","usuario_input":"Una tormenta eléctrica en el Ajusco me sorprendió, estoy en una zona abierta sin refugio","label":"survival_situation"}
+{"id":79,"rol":"Victima","edad":"25","estilo":"Slang","usuario_input":"No mames, en el Ajusco está cayendo un tormentón bien cabrón, no hay dónde esconderse","label":"survival_situation"}
+{"id":80,"rol":"Victima","edad":"25","estilo":"Infantil","usuario_input":"Estoy en el cerro con mi papá y él se lastimó la pierna, no puede caminar y está oscureciendo, tengo miedo","label":"survival_situation"}
+{"id":81,"rol":"Victima","edad":"34","estilo":"Emocional","usuario_input":"¡Llevo horas perdido en las montañas de Colorado, la nieve está hasta la cintura y no encuentro el sendero! El teléfono está por apagarse, tengo mucho frío","label":"survival_situation"}
+{"id":82,"rol":"Victima","edad":"29","estilo":"Neutral","usuario_input":"Soy un excursionista internacional en Canadá, seguí una ruta que vi en una aplicación y ahora estoy perdido, empapado y con hipotermia, el sol ya se está poniendo","label":"survival_situation"}
+{"id":83,"rol":"Victima","edad":"32","estilo":"Caotico","usuario_input":"¡CAÍ POR UN ACANTILADO EN EL MONTE WILLIAMSON, TENGO LA PIERNA ROTA, SIN COMIDA Y SIN AGUA A 4,100 METROS DE ALTURA, AYUDA!","label":"survival_situation"}
+{"id":84,"rol":"Victima","edad":"35","estilo":"Slang","usuario_input":"Wey, seguí una ruta de una app en Canadá y terminé en un terreno bien culero con acantilados, llevo horas perdido y estoy empapado, no mames","label":"survival_situation"}
+{"id":85,"rol":"Victima","edad":"42","estilo":"Formal","usuario_input":"Pasé la noche en un barranco en Tennessee, perdido y con hipotermia, solo llevaba playera y shorts, la temperatura bajó a 4°C","label":"survival_situation"}
+{"id":86,"rol":"Victima","edad":"38","estilo":"Neutral","usuario_input":"Me caí en el Monte Williamson, tengo una fractura expuesta en la pierna, una tormenta eléctrica me alcanzó en el acantilado y no tengo mi mochila con comida ni agua","label":"survival_situation"}
+{"id":87,"rol":"Victima","edad":"34","estilo":"Caotico","usuario_input":"¡VIENTO PATAGONIA 120 KM\/H TIRÓ CAMPAMENTO TOLDA ROTA NO REFUGIO AYUDA!","label":"survival_situation"}
+{"id":88,"rol":"Victima","edad":"40","estilo":"Emocional","usuario_input":"¡Mi compañero se lastimó la rodilla en la montaña! No puede caminar, el sol está bajando y no tenemos agua suficiente! Ayudanos","label":"survival_situation"}
+{"id":89,"rol":"Victima","edad":"27","estilo":"Neutral","usuario_input":"Estoy subiendo el Kilimanjaro y me dio un fuerte mal de altura, no puedo continuar y bajar solo es muy difícil, el guía se adelantó","label":"survival_situation"}
+{"id":90,"rol":"Testigo","edad":"27","estilo":"Neutral","usuario_input":"Vamos tres subiendo el Kilimanjaro, mi compañero se quedó atrás con mal de altura, tenemos que bajar juntos pero no puede caminar bien","label":"survival_situation"}
+{"id":91,"rol":"Victima","edad":"37","estilo":"Neutral","usuario_input":"Estoy en el campo base del Everest y me dio un dolor de cabeza muy fuerte, tengo náuseas y me falta el aire, no puedo caminar bien","label":"survival_situation"}
+{"id":92,"rol":"Victima","edad":"41","estilo":"Emocional","usuario_input":"¡Subiendo los Andes y me siento fatal! La cabeza me explota, todo me da vueltas y no puedo respirar, creo que es el mal de altura","label":"survival_situation"}
+{"id":93,"rol":"Victima","edad":"34","estilo":"Caotico","usuario_input":"¡MAL DE ALTURA ALPES DOLOR CABEZA VIOMITAR FALTA AIRE NO CAMINO AYUDA!","label":"survival_situation"}
+{"id":94,"rol":"Victima","edad":"29","estilo":"Slang","usuario_input":"Wey, en los Pirineos me pegó bien mal la altura, no puedo respirar, me duele la cabeza un chingo y todo me da vueltas","label":"survival_situation"}
+{"id":95,"rol":"Testigo","edad":"45","estilo":"Formal","usuario_input":"Mi compañero presenta síntomas de mal de altura: náuseas y dolor de cabeza, no puede continuar la expedición","label":"survival_situation"}
+{"id":96,"rol":"Testigo","edad":"39","estilo":"Emocional","usuario_input":"¡Mi amigo en los Alpes está muy mal! Tiene un dolor de cabeza insoportable, vomitó varias veces y está desorientado, no sabe dónde está","label":"survival_situation"}
+{"id":97,"rol":"Victima","edad":"30","estilo":"Emocional","usuario_input":"¡Estoy en el Iztaccíhuatl me siento fatal! Estoy mareado, con náuseas y dolor de cabeza, no puedo bajar solo","label":"survival_situation"}
+{"id":98,"rol":"Testigo","edad":"35","estilo":"Neutral","usuario_input":"Mi compañero en el Pico de Orizaba está desorientado y vomitando, claramente es mal de altura, tenemos que bajar ya","label":"survival_situation"}
+{"id":99,"rol":"Testigo","edad":"39","estilo":"Neutral","usuario_input":"Mi amigo en los Alpes está muy confundido, no reconoce el sendero y tiene alucinaciones","label":"survival_situation"}
+{"id":100,"rol":"Testigo","edad":"35","estilo":"Slang","usuario_input":"Wey estamos en la montaña, mi compa está bien mal, no sabe ni dónde está, dice que ve cosas y se tropieza solo, la altura le está pegando bien cabrón","label":"survival_situation"}

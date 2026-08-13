@@ -1,4 +1,4 @@
-id,rol,edad,estilo,usuario_input
+id,rol,edad,estilo,text
 1,Victima,29,Neutral,"Me picó un alacrán en el pie mientras caminaba, siento un ardor fuerte y se me está hinchando la pierna"
 2,Victima,34,Neutral,"Una serpiente me mordió la mano en el sendero, no sé si es venenosa pero me duele mucho y está sangrando"
 3,Victima,27,Neutral,"Una araña me picó en la pierna mientras dormía, tengo una roncha grande y me duele mucho"
@@ -14,18 +14,18 @@ id,rol,edad,estilo,usuario_input
 13,Victima,34,Neutral,"Una serpiente coral me mordió en el dedo, no puedo mover bien la mano y me siento mareado"
 14,Victima,27,Neutral,"Un perro me mordió la pierna en el parque, la herida es profunda y no para de sangrar"
 15,Victima,30,Neutral,"Una araña violinista me picó en la pierna, la piel se está poniendo negra y me duele mucho"
-16,Victima,34,Emocional,"¡Una serpiente me mordió en la mano y no sé si es venenosa! Me duele muchísimo y se me está hinchando el brazo"
-17,Victima,28,Emocional,"¡Un perro me persiguió y me mordió la pierna! La herida está sangrando mucho y tengo miedo de que esté infectada"
+16,Victima,34,Emocional,¡Una serpiente me mordió en la mano y no sé si es venenosa! Me duele muchísimo y se me está hinchando el brazo
+17,Victima,28,Emocional,¡Un perro me persiguió y me mordió la pierna! La herida está sangrando mucho y tengo miedo de que esté infectada
 18,Victima,32,Emocional,"¡Me picó una abeja en la cara y no puedo respirar bien! Tengo miedo de ser alérgica, ¡ayuda!"
-19,Victima,26,Emocional,"¡Un alacrán me picó en la espalda y siento que me voy a desmayar! El dolor es insoportable"
-20,Victima,29,Emocional,"¡Vi una serpiente y me mordió en el pie antes de que pudiera correr! Estoy sangrando mucho y tengo miedo"
-21,Victima,31,Emocional,"¡Una araña me picó en el brazo y la piel se está poniendo negra! Me duele horrible y me siento mareado"
+19,Victima,26,Emocional,¡Un alacrán me picó en la espalda y siento que me voy a desmayar! El dolor es insoportable
+20,Victima,29,Emocional,¡Vi una serpiente y me mordió en el pie antes de que pudiera correr! Estoy sangrando mucho y tengo miedo
+21,Victima,31,Emocional,¡Una araña me picó en el brazo y la piel se está poniendo negra! Me duele horrible y me siento mareado
 22,Victima,33,Emocional,"¡Un jabalí me atacó en el cerro! Tengo una herida profunda en la pierna y no puedo caminar, ¡ayuda!"
-23,Victima,27,Emocional,"¡Una mantarraya me picó y no para de sangrar! Me duele muchísimo y no puedo caminar"
-24,Victima,30,Caotico,"¡SERPIENTE MORDIÓ MANO VENENO SUBE NO RESPONDO AYUDA!"
-25,Victima,28,Caotico,"¡ALACRÁN PICÓ PIE ARDOR HINCHAZÓN PIERNA AYUDA AYUDA!"
-26,Victima,25,Caotico,"¡ARAÑA PICÓ PIERNA PIEL NEGRA DUELE NO CAMINO AYUDA!"
-27,Victima,32,Caotico,"¡PUMA ENCERRADO MIRÁNDOME FIJO NO ME MUEVO AYUDA!"
+23,Victima,27,Emocional,¡Una mantarraya me picó y no para de sangrar! Me duele muchísimo y no puedo caminar
+24,Victima,30,Caotico,¡SERPIENTE MORDIÓ MANO VENENO SUBE NO RESPONDO AYUDA!
+25,Victima,28,Caotico,¡ALACRÁN PICÓ PIE ARDOR HINCHAZÓN PIERNA AYUDA AYUDA!
+26,Victima,25,Caotico,¡ARAÑA PICÓ PIERNA PIEL NEGRA DUELE NO CAMINO AYUDA!
+27,Victima,32,Caotico,¡PUMA ENCERRADO MIRÁNDOME FIJO NO ME MUEVO AYUDA!
 28,Victima,9,Infantil,"Una serpiente me mordió el pie en el campo y me duele mucho, tengo miedo, ayudame porfa"
 29,Victima,10,Infantil,"Un perro me mordió la mano y sangra mucho, me duele y tengo miedo de los perros"
 30,Victima,8,Infantil,"Una abeja me picó en el brazo y me duele mucho, se me está poniendo rojo y grande"
@@ -45,7 +45,7 @@ id,rol,edad,estilo,usuario_input
 44,Testigo,29,Neutral,"Vi a un turista ser picado por una mantarraya en la playa, su pie está sangrando y no puede caminar"
 45,Testigo,27,Neutral,"Mi prima fue mordida por una araña, la herida se está poniendo negra y le duele mucho"
 46,Testigo,35,Emocional,"¡Una serpiente mordió a mi amigo! Su brazo se está hinchando y está muy pálido, ¡ayuda!"
-47,Testigo,31,Emocional,"¡Un jabalí atacó a mi compañero en el bosque! Tiene una herida profunda en la pierna y no puede caminar"
-48,Testigo,28,Caotico,"¡SERPIENTE MORDIÓ AMIGO BRAZO HINCHADO NO RESPONDE AYUDA!"
+47,Testigo,31,Emocional,¡Un jabalí atacó a mi compañero en el bosque! Tiene una herida profunda en la pierna y no puede caminar
+48,Testigo,28,Caotico,¡SERPIENTE MORDIÓ AMIGO BRAZO HINCHADO NO RESPONDE AYUDA!
 49,Testigo,9,Infantil,"Un alacrán le pico a mi hermanito, se puso muy pálido y no puede caminar, tengo miedo"
 50,Testigo,33,Slang,"Wey una serpiente le pico a mi amigo en el cerro, el brazo se le puso morado y no siente nada, no mames"

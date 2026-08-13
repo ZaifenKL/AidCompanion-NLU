@@ -5,7 +5,7 @@ import pandas as pd
 #----Constant Values---------------
 dataset_raw = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Dataset_Raw"
 out_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Dataset_Processed"
-relevant_columns = ["user_input","text","label"]
+relevant_columns = ["text","label"]
 
 #-----Functions---------------------
 
@@ -105,8 +105,10 @@ def label_all_dataset(read_path,save_path,relevant_columns):
 
 #-----Sequence-----------
 if __name__ == "__main__":
-    rename_column_in_all(dataset_raw,"user_input","text")
-    #label_all_dataset(dataset_raw,out_path,relevant_columns)
+    #Renamed column "usuario_input" to "text"
+    rename_column_in_all(dataset_raw,"usuario_input","text")
+    #Added "text" to relevant columns to create clean and simple jsonl
+    label_all_dataset(dataset_raw,out_path,relevant_columns)
 
 
 

@@ -1,54 +1,54 @@
-{"id":1,"rol":"Victima","edad":28,"estilo":"Neutral","usuario_input":"Me siento muy mal, no sé qué me pasa","label":"unknown"}
-{"id":2,"rol":"Victima","edad":32,"estilo":"Neutral","usuario_input":"Ayuda, algo está pasando con mi papá","label":"unknown"}
-{"id":3,"rol":"Victima","edad":25,"estilo":"Neutral","usuario_input":"No me siento bien, tengo miedo","label":"unknown"}
-{"id":4,"rol":"Victima","edad":30,"estilo":"Neutral","usuario_input":"Mi mamá no se siente bien, no sé qué hacer","label":"unknown"}
-{"id":5,"rol":"Victima","edad":27,"estilo":"Neutral","usuario_input":"Algo pasó, no sé cómo explicarlo","label":"unknown"}
-{"id":6,"rol":"Victima","edad":35,"estilo":"Neutral","usuario_input":"Necesito ayuda, pero no sé con quién hablar","label":"unknown"}
-{"id":7,"rol":"Victima","edad":29,"estilo":"Neutral","usuario_input":"Me siento extraño pero no sé qué es","label":"unknown"}
-{"id":8,"rol":"Victima","edad":33,"estilo":"Neutral","usuario_input":"Mi hermano se puso raro, no sé qué pasó","label":"unknown"}
-{"id":9,"rol":"Victima","edad":26,"estilo":"Neutral","usuario_input":"Me pasó algo, pero no sé cómo decirlo","label":"unknown"}
-{"id":10,"rol":"Victima","edad":34,"estilo":"Neutral","usuario_input":"Alguien ayúdeme, no sé qué está ocurriendo","label":"unknown"}
-{"id":11,"rol":"Victima","edad":31,"estilo":"Neutral","usuario_input":"Estoy preocupado, no sé qué está pasando","label":"unknown"}
-{"id":12,"rol":"Victima","edad":27,"estilo":"Neutral","usuario_input":"Mi hijo está actuando extraño, no sé si es grave","label":"unknown"}
-{"id":13,"rol":"Victima","edad":36,"estilo":"Neutral","usuario_input":"No entiendo lo que está pasando","label":"unknown"}
-{"id":14,"rol":"Victima","edad":24,"estilo":"Neutral","usuario_input":"Me siento extraño, necesito ayuda","label":"unknown"}
-{"id":15,"rol":"Victima","edad":38,"estilo":"Emocional","usuario_input":"¡No sé qué está pasando! Estoy muy asustado","label":"unknown"}
-{"id":16,"rol":"Victima","edad":29,"estilo":"Emocional","usuario_input":"¡Ayuda! No sé qué hacer, esto es muy extraño","label":"unknown"}
-{"id":17,"rol":"Victima","edad":33,"estilo":"Emocional","usuario_input":"¡Mi mamá no se siente bien y no sé por qué!","label":"unknown"}
-{"id":18,"rol":"Victima","edad":31,"estilo":"Emocional","usuario_input":"¡Estoy muy preocupado! No sé qué está ocurriendo","label":"unknown"}
-{"id":19,"rol":"Victima","edad":27,"estilo":"Emocional","usuario_input":"¡Algo malo está pasando pero no sé qué!","label":"unknown"}
-{"id":20,"rol":"Victima","edad":35,"estilo":"Emocional","usuario_input":"¡No sé qué hacer, esto es muy extraño!","label":"unknown"}
-{"id":21,"rol":"Victima","edad":30,"estilo":"Emocional","usuario_input":"¡Mi papá está muy raro, tengo miedo y no sé qué pasa!","label":"unknown"}
-{"id":22,"rol":"Victima","edad":28,"estilo":"Caotico","usuario_input":"¡NO SÉ QUÉ PASÓ NO ENTIENDO AYUDA!","label":"unknown"}
-{"id":23,"rol":"Victima","edad":32,"estilo":"Caotico","usuario_input":"¡EXTRAÑO NO SÉ QUÉ HACER AYUDA AYUDA!","label":"unknown"}
-{"id":24,"rol":"Victima","edad":26,"estilo":"Caotico","usuario_input":"¡NO ENTIENDO QUÉ PASA NO SÉ QUÉ HACER!","label":"unknown"}
-{"id":25,"rol":"Victima","edad":35,"estilo":"Caotico","usuario_input":"¡ALGO PASA NO SÉ EXPLICAR AYUDA!","label":"unknown"}
-{"id":26,"rol":"Victima","edad":9,"estilo":"Infantil","usuario_input":"Algo raro está pasando, no sé qué es, tengo miedo","label":"unknown"}
-{"id":27,"rol":"Victima","edad":10,"estilo":"Infantil","usuario_input":"Mi hermana se puso rara, no sé qué le pasa, ayudame","label":"unknown"}
-{"id":28,"rol":"Victima","edad":8,"estilo":"Infantil","usuario_input":"No sé qué está pasando, tengo miedo, llamen a alguien","label":"unknown"}
-{"id":29,"rol":"Victima","edad":11,"estilo":"Infantil","usuario_input":"Algo malo pasó, no sé qué hacer, ayudame porfa","label":"unknown"}
-{"id":30,"rol":"Victima","edad":34,"estilo":"Formal","usuario_input":"Me siento raro","label":"unknown"}
-{"id":31,"rol":"Victima","edad":38,"estilo":"Formal","usuario_input":"Algo está mal porfavor ayuda ","label":"unknown"}
-{"id":32,"rol":"Victima","edad":30,"estilo":"Formal","usuario_input":"Necesito ayuda, pero no sé que me pasa","label":"unknown"}
-{"id":33,"rol":"Victima","edad":36,"estilo":"Formal","usuario_input":"Necesito tu ayuda","label":"unknown"}
-{"id":34,"rol":"Victima","edad":27,"estilo":"Slang","usuario_input":"Wey no sé qué pasó, pero algo está raro","label":"unknown"}
-{"id":35,"rol":"Victima","edad":29,"estilo":"Slang","usuario_input":"No mames no entiendo qué está pasando necesito tu ayuda","label":"unknown"}
-{"id":36,"rol":"Victima","edad":25,"estilo":"Errores","usuario_input":"No se que pasa, esrtoy confundido y tengo miedo","label":"unknown"}
-{"id":37,"rol":"Victima","edad":32,"estilo":"Neutral","usuario_input":"Mi esposa está rara, no sé qué le pasa","label":"unknown"}
-{"id":38,"rol":"Victima","edad":28,"estilo":"Neutral","usuario_input":"Algo me preocupa, pero no sé explicar qué","label":"unknown"}
-{"id":39,"rol":"Victima","edad":34,"estilo":"Neutral","usuario_input":"No entiendo qué está pasando con mi cuerpo","label":"unknown"}
-{"id":40,"rol":"Victima","edad":30,"estilo":"Neutral","usuario_input":"Me estoy sitiendo un poco extraño","label":"unknown"}
-{"id":41,"rol":"Testigo","edad":28,"estilo":"Neutral","usuario_input":"Mi amigo se puso raro de repente, no sé qué pasó","label":"unknown"}
-{"id":42,"rol":"Testigo","edad":32,"estilo":"Neutral","usuario_input":"Algo le pasó a mi hermano, pero no sé qué","label":"unknown"}
-{"id":43,"rol":"Testigo","edad":25,"estilo":"Neutral","usuario_input":"No sé qué pasó, pero mi papá está muy extraño","label":"unknown"}
-{"id":44,"rol":"Testigo","edad":29,"estilo":"Neutral","usuario_input":"Mi mamá se ve mal, no sé qué tiene","label":"unknown"}
-{"id":45,"rol":"Testigo","edad":35,"estilo":"Emocional","usuario_input":"¡Mi amigo se ve muy mal algo tiene!","label":"unknown"}
-{"id":46,"rol":"Testigo","edad":27,"estilo":"Caotico","usuario_input":"¡NO SÉ QUÉ PASÓ PERO ALGO PASÓ AYUDA!","label":"unknown"}
-{"id":47,"rol":"Testigo","edad":10,"estilo":"Infantil","usuario_input":"Mi hermanito se puso raro, no sé qué le pasa, tengo miedo","label":"unknown"}
-{"id":48,"rol":"Testigo","edad":36,"estilo":"Formal","usuario_input":"Mi amiga se siente mal no sé que pasa","label":"unknown"}
-{"id":49,"rol":"Testigo","edad":33,"estilo":"Slang","usuario_input":"Wey, no sé qué pasó pero algo está mal","label":"unknown"}
-{"id":50,"rol":"Testigo","edad":28,"estilo":"Errores","usuario_input":"No se que paso, pero algo extraño pasa","label":"unknown"}
-{"id":51,"rol":"Testigo","edad":30,"estilo":"Neutral","usuario_input":"No se que pasó pero mi amigo se siente mal","label":"unknown"}
-{"id":52,"rol":"Testigo","edad":16,"estilo":"Neutral","usuario_input":"Mi amigo está pálido y se ve un poco mal","label":"unknown"}
-{"id":53,"rol":"Testigo","edad":15,"estilo":"Neutral","usuario_input":"No sé que pasa mi amiga está tirada","label":"unknown"}
-{"id":54,"rol":"Testigo","edad":18,"estilo":"Neutral","usuario_input":"Algo le pasa a mi hermana","label":"unknown"}
+{"text":"Me siento muy mal, no sé qué me pasa","label":"unknown"}
+{"text":"Ayuda, algo está pasando con mi papá","label":"unknown"}
+{"text":"No me siento bien, tengo miedo","label":"unknown"}
+{"text":"Mi mamá no se siente bien, no sé qué hacer","label":"unknown"}
+{"text":"Algo pasó, no sé cómo explicarlo","label":"unknown"}
+{"text":"Necesito ayuda, pero no sé con quién hablar","label":"unknown"}
+{"text":"Me siento extraño pero no sé qué es","label":"unknown"}
+{"text":"Mi hermano se puso raro, no sé qué pasó","label":"unknown"}
+{"text":"Me pasó algo, pero no sé cómo decirlo","label":"unknown"}
+{"text":"Alguien ayúdeme, no sé qué está ocurriendo","label":"unknown"}
+{"text":"Estoy preocupado, no sé qué está pasando","label":"unknown"}
+{"text":"Mi hijo está actuando extraño, no sé si es grave","label":"unknown"}
+{"text":"No entiendo lo que está pasando","label":"unknown"}
+{"text":"Me siento extraño, necesito ayuda","label":"unknown"}
+{"text":"¡No sé qué está pasando! Estoy muy asustado","label":"unknown"}
+{"text":"¡Ayuda! No sé qué hacer, esto es muy extraño","label":"unknown"}
+{"text":"¡Mi mamá no se siente bien y no sé por qué!","label":"unknown"}
+{"text":"¡Estoy muy preocupado! No sé qué está ocurriendo","label":"unknown"}
+{"text":"¡Algo malo está pasando pero no sé qué!","label":"unknown"}
+{"text":"¡No sé qué hacer, esto es muy extraño!","label":"unknown"}
+{"text":"¡Mi papá está muy raro, tengo miedo y no sé qué pasa!","label":"unknown"}
+{"text":"¡NO SÉ QUÉ PASÓ NO ENTIENDO AYUDA!","label":"unknown"}
+{"text":"¡EXTRAÑO NO SÉ QUÉ HACER AYUDA AYUDA!","label":"unknown"}
+{"text":"¡NO ENTIENDO QUÉ PASA NO SÉ QUÉ HACER!","label":"unknown"}
+{"text":"¡ALGO PASA NO SÉ EXPLICAR AYUDA!","label":"unknown"}
+{"text":"Algo raro está pasando, no sé qué es, tengo miedo","label":"unknown"}
+{"text":"Mi hermana se puso rara, no sé qué le pasa, ayudame","label":"unknown"}
+{"text":"No sé qué está pasando, tengo miedo, llamen a alguien","label":"unknown"}
+{"text":"Algo malo pasó, no sé qué hacer, ayudame porfa","label":"unknown"}
+{"text":"Me siento raro","label":"unknown"}
+{"text":"Algo está mal porfavor ayuda ","label":"unknown"}
+{"text":"Necesito ayuda, pero no sé que me pasa","label":"unknown"}
+{"text":"Necesito tu ayuda","label":"unknown"}
+{"text":"Wey no sé qué pasó, pero algo está raro","label":"unknown"}
+{"text":"No mames no entiendo qué está pasando necesito tu ayuda","label":"unknown"}
+{"text":"No se que pasa, esrtoy confundido y tengo miedo","label":"unknown"}
+{"text":"Mi esposa está rara, no sé qué le pasa","label":"unknown"}
+{"text":"Algo me preocupa, pero no sé explicar qué","label":"unknown"}
+{"text":"No entiendo qué está pasando con mi cuerpo","label":"unknown"}
+{"text":"Me estoy sitiendo un poco extraño","label":"unknown"}
+{"text":"Mi amigo se puso raro de repente, no sé qué pasó","label":"unknown"}
+{"text":"Algo le pasó a mi hermano, pero no sé qué","label":"unknown"}
+{"text":"No sé qué pasó, pero mi papá está muy extraño","label":"unknown"}
+{"text":"Mi mamá se ve mal, no sé qué tiene","label":"unknown"}
+{"text":"¡Mi amigo se ve muy mal algo tiene!","label":"unknown"}
+{"text":"¡NO SÉ QUÉ PASÓ PERO ALGO PASÓ AYUDA!","label":"unknown"}
+{"text":"Mi hermanito se puso raro, no sé qué le pasa, tengo miedo","label":"unknown"}
+{"text":"Mi amiga se siente mal no sé que pasa","label":"unknown"}
+{"text":"Wey, no sé qué pasó pero algo está mal","label":"unknown"}
+{"text":"No se que paso, pero algo extraño pasa","label":"unknown"}
+{"text":"No se que pasó pero mi amigo se siente mal","label":"unknown"}
+{"text":"Mi amigo está pálido y se ve un poco mal","label":"unknown"}
+{"text":"No sé que pasa mi amiga está tirada","label":"unknown"}
+{"text":"Algo le pasa a mi hermana","label":"unknown"}

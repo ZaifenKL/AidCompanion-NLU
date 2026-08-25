@@ -6,29 +6,44 @@ import json
 #----Constant Values---------------
 dataset_raw = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Dataset_Raw"
 jsonl_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Raw"
-out_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Dataset_Cleaned"
+out_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Cleaned"
 
 #-----Functions---------------------
 def clean_text(text):
-    # Remove leading/trailing spaces
-    text = text.strip()
 
-    # Replace multiple spaces with one
+    # Remove emojis
+    # Eliminar emojis (versión más completa)
+    emoji_pattern = re.compile(
+        "["
+        "\U0001F600-\U0001F64F"  # emoticonos
+        "\U0001F300-\U0001F5FF"  # símbolos y pictogramas
+        "\U0001F680-\U0001F6FF"  # transporte y mapas
+        "\U0001F700-\U0001F77F"  # alquimia
+        "\U0001F780-\U0001F7FF"  # geometría
+        "\U0001F800-\U0001F8FF"  # flechas suplementarias
+        "\U0001F900-\U0001F9FF"  # símbolos suplementarios
+        "\U0001FA00-\U0001FA6F"  # ajedrez y juegos
+        "\U0001FA70-\U0001FAFF"  # objetos suplementarios
+        "\U00002702-\U000027B0"  # dingbats
+        "\U000024C2-\U0001F251"  # caracteres encerrados
+        "]+",
+        flags=re.UNICODE
+    )
+    text = emoji_pattern.sub(r'', text)
+
+    # Remove punctuaction and multiple spaces
     text = re.sub(r'\s+', ' ', text)
-
-    # Replace multiple commas with one
     text = re.sub(r',+', ',', text)
-
-    # Remove spaces before punctuation
-    text = re.sub(r'\s+([,.!?])', r'\1', text)
-
-    #Remove consecutive or multiple dots replace with one
     text = re.sub(r'\.{2,}', '.', text)
-
-    # Remove repeated colons (::, :::, etc.)
     text = re.sub(r':{2,}', '', text)
 
-    text = re.sub(r'[\U00010000-\U0010ffff]', '', text)
+    # 3. Normalizar espacios antes de puntuación
+    text = re.sub(r'\s+([,.!?])', r'\1', text)
+
+    # 4. (Opcional) Eliminar puntuación no relevante
+    text = re.sub(r'[^\w\s-]', '', text)
+
+    text = text.lower().strip()
 
     return text
 

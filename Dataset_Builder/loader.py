@@ -4,7 +4,7 @@ import re
 import pandas as pd
 #----Constant Values---------------
 dataset_raw = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Dataset_Raw"
-out_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Dataset_Processed"
+out_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Raw"
 relevant_columns = ["text","label"]
 
 #-----Functions---------------------
@@ -18,8 +18,6 @@ def rename_column(path, old_name, new_name):
     # Load type
     if ext == ".csv":
         df = pd.read_csv(path)
-    elif ext == ".txt":
-        df = pd.read_csv(path, sep=",")
     elif ext == ".jsonl":
         df = pd.read_json(path, lines=True)
     else:
@@ -37,8 +35,7 @@ def rename_column(path, old_name, new_name):
         # Save the same format
         if ext == ".csv":
             df.to_csv(path, index=False)
-        elif ext == ".txt":
-            df.to_csv(path, sep=",", index=False)
+
         elif ext == ".jsonl":
             df.to_json(path, orient="records", lines=True, force_ascii=False)
 
@@ -51,6 +48,7 @@ def rename_column_in_all(path, old_name, new_name):
         for file in files:
             full_path = os.path.join(root, file)
             rename_column(full_path,  old_name,new_name)
+
     print("=== Finished")
 
 def add_label_to_dataset(path,label):
@@ -68,11 +66,12 @@ def add_label_to_dataset(path,label):
     return df
 
 def label_all_dataset(read_path,save_path,relevant_columns):
+
     os.makedirs(save_path, exist_ok=True)
 
     for root, dirs, files in os.walk(read_path):
         for file in files:
-            if file.endswith(".csv") or file.endswith(".txt"):
+            if file.endswith(".csv") :
 
                 #Full path to the file
                 full_path = os.path.join(root, file)
@@ -80,8 +79,6 @@ def label_all_dataset(read_path,save_path,relevant_columns):
                 #Automatically extract the filename and use the label
                 if file.endswith(".csv"):
                     base_name = file.replace(".csv","")
-                elif file.endswith(".txt"):
-                    base_name = file.replace(".txt","")
 
                 base_name = base_name.replace("Dataset_","")
 

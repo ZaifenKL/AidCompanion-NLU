@@ -1,5 +1,5 @@
 id,rol,edad,estilo,text
-1,Victima,29,Neutral,"Me picó un alacrán en el pie mientras caminaba, siento un ardor fuerte y se me está hinchando la pierna"
+1,Victima,29,Neutral,"Me 🫂💖 picó un alacrán en el pie mientras caminaba, siento un ardor fuerte y se me está hinchando la pierna"
 2,Victima,34,Neutral,"Una serpiente me mordió la mano en el sendero, no sé si es venenosa pero me duele mucho y está sangrando"
 3,Victima,27,Neutral,"Una araña me picó en la pierna mientras dormía, tengo una roncha grande y me duele mucho"
 4,Victima,32,Neutral,"Un perro callejero me mordió cuando pasaba, tengo una herida profunda y está sangrando"
@@ -41,11 +41,11 @@ id,rol,edad,estilo,text
 40,Victima,34,Neutral,"Una garrapata me picó en la cabeza, tengo una roncha grande y me duele mucho"
 41,Testigo,32,Neutral,"Vi a mi amigo ser mordido por una serpiente en el sendero, la herida sangra y su brazo se está hinchando"
 42,Testigo,30,Neutral,"Mi hermano fue picado por un alacrán, no puede caminar y se está poniendo pálido"
-43,Testigo,34,Neutral,"Mi compañero fue atacado por un perro, tiene una herida profunda en la pierna y no para de sangrar"
-44,Testigo,29,Neutral,"Vi a un turista ser picado por una mantarraya en la playa, su pie está sangrando y no puede caminar"
-45,Testigo,27,Neutral,"Mi prima fue mordida por una araña, la herida se está poniendo negra y le duele mucho"
-46,Testigo,35,Emocional,"¡Una serpiente mordió a mi amigo! Su brazo se está hinchando y está muy pálido, ¡ayuda!"
-47,Testigo,31,Emocional,¡Un jabalí atacó a mi compañero en el bosque! Tiene una herida profunda en la pierna y no puede caminar
-48,Testigo,28,Caotico,¡SERPIENTE MORDIÓ AMIGO BRAZO HINCHADO NO RESPONDE AYUDA!
+43,Testigo,34,Neutral,"Mi compañero ...fue atacado por un perro, tiene una herida profunda en la pierna y no para de sangrar"
+44,Testigo,29,Neutral,"Vi a un:: turista ser picado por una mantarraya en la playa, su pie está sangrando y no puede caminar"
+45,Testigo,27,Neutral,"😱😭😰Mi prima fue mordida por una araña, la herida se está poniendo negra y le duele mucho"
+46,Testigo,35,Emocional,"   ¡Una serpiente👻💀🤡👹💋😂🤣🥲🚌🚑🚑🚑🎉🧸🧸🌡🎴🕜🕜🃏🤷🏻‍♂️🤷🏻‍♂️🤷🏼🤷🏾‍♀️🤦🏿‍♀️🧏🏾‍♀️🙍🏿 mordió a mi amigo! Su brazo se está hinchando y está muy pálido, ¡ayuda!"
+47,Testigo,31,Emocional,"¡Un     jabalí atacó a    mi compañero en el bosque!️🌡️🌡️🪒🚱〽️❎🆖📣🔕🀄 Tiene una herida profunda en la pierna y no puede caminar
+48,Testigo,28,Caotico,"¡SERPIENTE😱😭😰 MORDIÓ AMIGO,,,, BRAZO HINCHADO NO RESPONDE AYUDA🦊🐦‍⬛🚅! |
 49,Testigo,9,Infantil,"Un alacrán le pico a mi hermanito, se puso muy pálido y no puede caminar, tengo miedo"
-50,Testigo,33,Slang,"Wey una serpiente le pico a mi amigo en el cerro, el brazo se le puso morado y no siente nada, no mames"
+50,Testigo,33,Slang,"👻💀🤡👹💋😂🤣🥲😱😭😰🦊🐦‍⬛🚅🚌🚑🚑🚑🎉🧸🧸🌡️🌡️🌡️🪒🚱〽️❎🆖📣🔕🀄🎴🕜🕜🃏🤷🏻‍♂️🤷🏻‍♂️🤷🏼🤷🏾‍♀️🤦🏿‍♀️🧏🏾‍♀️🙍🏿Wey una serpiente le pico a mi amigo en el cerro, el brazo se le puso morado y no siente nada, no mames"

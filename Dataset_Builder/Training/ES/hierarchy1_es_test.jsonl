@@ -1,0 +1,78 @@
+{"text": "vamos tres subiendo el kilimanjaro mi compañero se quedó atrás con mal de altura tenemos que bajar juntos pero no puede caminar bien", "label": "survival_situation"}
+{"text": "en el sendero del iztaccíhuatl la tormenta de nieve nos sorprendió no vemos el camino y el frío está muy fuerte", "label": "survival_situation"}
+{"text": "el río creció y no puedo cruzarlo estoy atrapado en esta orilla", "label": "survival_situation"}
+{"text": "me picó un alacrán se me hincha la garganta y no puedo respirar qué miedo wey", "label": "medical_emergency"}
+{"text": "sufrí una picadura de alacrán con síntomas de neurotoxicidad requiero evaluación médica inmediata", "label": "dangerous_fauna"}
+{"text": "mi vecina se está poniendo morada no puede respirar wey se comió un camarón y se le hinchó la cara qué tengo que hacer", "label": "medical_emergency"}
+{"text": "hace mucho calor y me siento cansado tengo dolor de cabeza y estoy sudando demasiado", "label": "environmental_condition"}
+{"text": "no mames en el ajusco está cayendo un tormentón bien cabrón no hay dónde esconderse", "label": "survival_situation"}
+{"text": "llevo todo el día en la obra hace mucho calor me siento mareado y tengo ganas de vomitar", "label": "environmental_condition"}
+{"text": "no mames hace un frío de la chingada no puedo dejar de temblar y no siento las manos", "label": "environmental_condition"}
+{"text": "mi cuate se metió al río y no salió wey ya van 3 minutos creo que se ahogó", "label": "medical_emergency"}
+{"text": "algo malo pasó no sé qué hacer ayudame porfa", "label": "unknown"}
+{"text": "una araña me picó en la pierna la herida presenta necrosis y dolor intenso requiero atención médica", "label": "dangerous_fauna"}
+{"text": "mi hermana se mareó por el sol estaba muy roja y se cayó ayudame porfa", "label": "environmental_condition"}
+{"text": "el gato aplasto a mi primo no puede respirar y esta morado", "label": "medical_emergency"}
+{"text": "el gato aplastó a mi primo no puede respirar y está morado", "label": "medical_emergency"}
+{"text": "ayudame porfavor me golpeé el codo muy fuerte y no puedo doblar el brazo me duele horrible tengo miedo", "label": "physical_injury"}
+{"text": "caí por un acantilado en el monte williamson tengo la pierna rota sin comida y sin agua a 4100 metros de altura ayuda", "label": "survival_situation"}
+{"text": "ayudame mi novia se desmayó está convulsionando y echando espuma no sé qué hacer", "label": "medical_emergency"}
+{"text": "hace mucho calor y no he tomado agua me siento muy cansado y con náuseas", "label": "environmental_condition"}
+{"text": "un perro me mordió la pierna en el parque la herida es profunda y no para de sangrar", "label": "dangerous_fauna"}
+{"text": "me siento extraño pero no sé qué es", "label": "unknown"}
+{"text": "un alacrán le pico a mi hermanito se puso muy pálido y no puede caminar tengo miedo", "label": "dangerous_fauna"}
+{"text": "me dispararon en la pierna en la colonia no para de sangrar y creo que me voy a desmayar", "label": "medical_emergency"}
+{"text": "me pico un alacran en el pie se me hincha la garganta", "label": "medical_emergency"}
+{"text": "subiendo los andes y me siento fatal la cabeza me explota todo me da vueltas y no puedo respirar creo que es el mal de altura", "label": "survival_situation"}
+{"text": "no mames me cayó una lámina en la pierna no la siento y veo el hueso me duele muchísimo", "label": "medical_emergency"}
+{"text": "mi amigo del copiloto no respira despues del choque", "label": "medical_emergency"}
+{"text": "me cayó un block en la cabeza estoy sangrando un chingo y creo que me voy a desmayar wey", "label": "medical_emergency"}
+{"text": "wey en los pirineos me pegó bien mal la altura no puedo respirar me duele la cabeza un chingo y todo me da vueltas", "label": "survival_situation"}
+{"text": "algo pasa no sé explicar ayuda", "label": "unknown"}
+{"text": "mi hermano se cayó de la bicicleta y se raspó el brazo sangra un poco pero está consciente", "label": "physical_injury"}
+{"text": "mi esposa está rara no sé qué le pasa", "label": "unknown"}
+{"text": "iba manejando y un camion me choco de frente el volante me aplasto el pecho", "label": "medical_emergency"}
+{"text": "no sé que pasa mi amiga está tirada", "label": "unknown"}
+{"text": "en el pico de orizaba una tormenta eléctrica nos atrapó no tenemos dónde resguardarnos y el rayo cayó cerca", "label": "survival_situation"}
+{"text": "serpiente mordió mano veneno sube no respondo ayuda", "label": "dangerous_fauna"}
+{"text": "un alacrán me picó en la espalda cuando me acosté siento ardor y se me está entumeciendo el brazo", "label": "dangerous_fauna"}
+{"text": "ayuda no sé qué hacer esto es muy extraño", "label": "unknown"}
+{"text": "wey no sé qué pasó pero algo está mal", "label": "unknown"}
+{"text": "ayudame porfavor mi hermano se tomó toda una botella de tequila y ahora no despierta está pálido respira raro y no lo puedo mover", "label": "medical_emergency"}
+{"text": "me caí de la moto y veo la carne del brazo no para de sangrar me duele cabrón", "label": "medical_emergency"}
+{"text": "me siento raro", "label": "unknown"}
+{"text": "me torcí el tobillo en el cerro no puedo caminar no tengo agua ni señal y ya anocheció", "label": "survival_situation"}
+{"text": "me picó una mantarraya en la playa no dejo de sangrar y me duele la pierna", "label": "medical_emergency"}
+{"text": "sangre mano no para veo borroso mareado ayuda rápido", "label": "medical_emergency"}
+{"text": "voy en la sierra gorda y me quedé sin agua el sol está bien fuerte me siento mareado y no encuentro el camino", "label": "survival_situation"}
+{"text": "wey llevo todo el día en el sol y no tomé agua me siento bien mal me duele la cabeza", "label": "environmental_condition"}
+{"text": "vi una serpiente y me mordió en el pie antes de que pudiera correr estoy sangrando mucho y tengo miedo", "label": "dangerous_fauna"}
+{"text": "niebla espesa no veo sendero desorientado ayuda", "label": "survival_situation"}
+{"text": "me resbale en la regadera y me quiebre la muñeca", "label": "medical_emergency"}
+{"text": "estoy sudando demasiado y no puedo respirar bien el calor está insoportable", "label": "environmental_condition"}
+{"text": "mi roomie se tomó pastillas y no despierta respira muy lento no sé que hacer", "label": "medical_emergency"}
+{"text": "se está haciendo de noche y no encuentro el camino de regreso al campamento", "label": "survival_situation"}
+{"text": "hermano moto sangre brazo doblado ayuda", "label": "medical_emergency"}
+{"text": "no entiendo qué está pasando con mi cuerpo", "label": "unknown"}
+{"text": "vecina morada cara hinchada ayuda", "label": "medical_emergency"}
+{"text": "mi hermano voló de la moto tiene el brazo doblado y sangra", "label": "medical_emergency"}
+{"text": "mi morra se desmayó y está convulsionando wey no sé qué hacer culero", "label": "medical_emergency"}
+{"text": "me duele el pecho bien feo como si alguien me estubiera apuñalando no puedo respirar", "label": "medical_emergency"}
+{"text": "tormenta llega no refugio atrapado ayuda rápido", "label": "survival_situation"}
+{"text": "mi compañero se lastimó la rodilla en la montaña no puede caminar el sol está bajando y no tenemos agua suficiente ayudanos", "label": "survival_situation"}
+{"text": "tengo miedo choqué en la carretera me duele el pecho y no puedo respirar", "label": "medical_emergency"}
+{"text": "me dio un dolor bien culero en la panza como si me explotara algo", "label": "medical_emergency"}
+{"text": "estuve expuesto al sol varias horas ahora tengo dolor de cabeza fuerte y muchas náuseas", "label": "environmental_condition"}
+{"text": "el nevado de toluca está congelado resbalé varias veces y no puedo bajar el frío es insoportable", "label": "survival_situation"}
+{"text": "me voy a morir no paro de sangrar y me siento mareado creo que me voy a desmayar me dispararon", "label": "medical_emergency"}
+{"text": "me cayó un block en la cabeza estoy sangrando cabrón y siento que me voy a desmayar ayuda", "label": "medical_emergency"}
+{"text": "alguien le puso algo a mi bebida en la fiesta no controlo mi cuerpo", "label": "medical_emergency"}
+{"text": "perdí el sendero marcado llevo como 2 horas dando vueltas sin encontrar la salida", "label": "survival_situation"}
+{"text": "mi amigo se metió al río y no salió ya van como 3 minutos", "label": "medical_emergency"}
+{"text": "mi hermano voló de la moto y está en el suelo con el brazo doblado", "label": "medical_emergency"}
+{"text": "mi hermano volo de la moto y esta en el suelo con el brazo doblado", "label": "medical_emergency"}
+{"text": "estuve en el frío sin chamarra ahora me tiembla el cuerpo y no siento bien los dedos", "label": "environmental_condition"}
+{"text": "no tomé suficiente agua con el calor me siento débil y tengo calambres en las piernas", "label": "environmental_condition"}
+{"text": "una avispa me picó en el ojo está muy hinchado y no puedo abrirlo bien", "label": "dangerous_fauna"}
+{"text": "me metí a nadar a la playa y una corriente me arrastro casi me ahogo", "label": "medical_emergency"}
+{"text": "araña picó pierna piel negra duele no camino ayuda", "label": "dangerous_fauna"}

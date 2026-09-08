@@ -48,4 +48,160 @@ id|rol|edad|estilo|text
 47|Testigo|31|Emocional|Un jabalí atacó a mi compañero en el bosque Tiene una herida profunda en la pierna y no puede caminar
 48|Testigo|28|Caotico|SERPIENTE MORDIÓ AMIGO BRAZO HINCHADO NO RESPONDE AYUDA
 49|Testigo|9|Infantil|Un alacrán le pico a mi hermanito se puso muy pálido y no puede caminar tengo miedo
-50|Testigo|33|Slang|Wey una serpiente le pico a mi amigo en el cerro el brazo se le puso morado y no siente nada no mames
+50|Testigo|33|Slang|Wey una serpiente le pico a mi amigo en el cerro el brazo se le puso morado y no siente nada
+51|Victima|34|Neutral|Un puma me atacó por la espalda en el sendero, tengo heridas profundas en el hombro
+52|Victima|28|Emocional|¡Hay un puma acechándonos! Se quedó quieto mirándonos fijo, no sabemos si atacar o correr, estamos paralizados
+53|Testigo|32|Neutral|Vi a un puma cruzar el camino y luego se quedó mirando a unos excursionistas, se escuchaban ruidos
+54|Victima|25|Slang|Wey, me encontré a un puma en el cerro y se me quedó viendo 
+55|Victima|30|Caotico|¡PUMA EN EL SENDERO SE ACERCA NO PODEMOS HUIR AYUDA RÁPIDO!
+56|Victima|40|Formal|Nos encontramos un puma en el sendero y nos esta siguiendo
+57|Victima|22|Neutral|Un oso se acercó al campamento y comenzó a destrozar la tienda, tuvimos que huir
+58|Victima|27|Emocional|¡Un oso está husmeando alrededor de nuestra tienda! No podemos salir, está muy cerca
+59|Victima|35|Slang|Wey un oso nos robó la comida mientras acampábamos
+60|Testigo|29|Neutral|Un oso atacó a un excursionista en el sendero, lo vi todo desde lejos, fue horrible
+61|Victima|45|Neutral|Un oso polar se acercó a la carpa, no pudimos hacer nada, tuvimos que refugiarnos en el auto
+62|Victima|33|Emocional|¡Un oso polar está merodeando el campamento! No podemos salir, es muy peligroso
+63|Victima|28|Slang|No mames, un oso polar nos estuvo siguiendo por horas, no nos dejaba avanzar
+64|Victima|38|Formal|He sufrido un ataque de un oso durante una expedición estoy sangrando mucho 
+65|Victima|26|Caotico|¡OSO ATACÓ EN EL CAMPAMENTO HERIDAS EN EL BRAZO AYUDA!
+66|Victima|34|Neutral|Un tiburón me mordió la pierna mientras surfeaba, no sentí dolor al principio pero ahora sangra mucho
+67|Victima|29|Emocional|¡Un tiburón está rodeando nuestra tabla! No podemos remar hacia la orilla, tengo mucho miedo
+68|Victima|24|Slang|Wey, un tiburón me mordió la pierna en la playa
+69|Victima|32|Neutral|Un cocodrilo me arrastró al agua mientras cruzaba un río, logré soltarme pero tengo heridas profundas
+70|Victima|28|Emocional|¡Un cocodrilo atacó nuestra lancha! Estamos volcando y no podemos salir del agua
+71|Victima|45|Slang|Wey, un cocodrilo se llevó a mi perro mientras caminábamos por el río
+72|Victima|30|Neutral|Un caimán nos persiguió en el pantano, tuvimos que subirnos a un árbol para escapar
+73|Victima|34|Caotico|¡COCODRILO NOS PERSIGUE EN EL RÍO ATRAPADOS AYUDA!
+74|Victima|40|Formal|He sido atacado por un cocodrilo mientras nadaba un río me duele el abdomen
+75|Victima|27|Neutral|Una manada de lobos nos rodeó en el bosque
+76|Victima|32|Emocional|¡Lobos aullando muy cerca del campamento! No podemos dormir, están rodeando la tienda
+77|Victima|35|Slang|No mames, un lobo nos siguió todo el camino de regreso, no nos quitaba la mirada
+78|Victima|25|Neutral|Un jabalí me embistió mientras caminaba, tengo una herida abierta en la pierna
+79|Victima|29|Emocional|¡Un jabalí salvaje nos atacó en el campo! Está muy agresivo y no podemos huir
+80|Victima|33|Slang|Wey un jabalí nos embistió y nos rompió la carpa qué hacemos
+81|Victima|45|Neutral|Un alce me atacó y me hirió en el pecho, tuve que refugiarme detrás de un árbol
+82|Victima|28|Emocional|¡Un alce está embistiendo el coche! No podemos salir, estamos atrapados
+83|Victima|34|Caotico|¡ALCE EMBISTIÓ COCHE ATRAPADOS AYUDA RÁPIDO!
+84|Victima|30|Formal|He sufrido un ataque de un alce durante una caminata, me duele mucho el pecho y las costillas
+85|Victima|22|Neutral|Un bisonte cargó contra mí, logré esquivarlo pero tengo moretones en el costado
+86|Victima|27|Emocional|¡Un bisonte nos impide el paso! Está en medio del sendero y no podemos pasar
+87|Victima|32|Slang|No mames, un bisonte nos persiguió por el campo 
+88|Testigo|29|Neutral|Un león marino atacó a mi amigo cuando nadaba, le mordió la pierna y lo arrastró
+89|Victima|34|Emocional|¡Un león marino me mordió la mano! ayuda
+90|Victima|40|Caotico|¡LEÓN MARINO ME ARRASTRÓ AL AGUA NO PUEDO SALIR AYUDA!
+100|Victima|28|Neutral|Una medusa me picó en el brazo, el dolor es insoportable y tengo una bola enorme
+101|Victima|32|Emocional|¡Una meduga me picó en el pecho! Me cuesta respirar y me siento muy mareado
+102|Victima|25|Slang|No mames, una medusa me picó y sentí que me moría, el dolor era fatal
+103|Victima|38|Formal|Me pico una medusa 
+104|Victima|34|Neutral|Una mantarraya me picó el pie, el dolor es tan intenso que no puedo apoyar la pierna
+105|Victima|29|Emocional|¡Una mantarraya me picó y el dolor no se va! No puedo caminar
+106|Victima|40|Slang|Wey, una mantarraya me picó mientras caminaba en la orilla, qué dolor tan culero
+107|Victima|27|Neutral|Un jabalí me embistió mientras acampaba, la herida es superficial pero duele mucho
+108|Victima|33|Emocional|¡Un elefante está destrozando el campamento! No tenemos dónde escondernos
+109|Victima|45|Caotico|¡ELEFANTE DESTROZÓ CAMPAMENTO ATRAPADOS AYUDA!
+
+110|Victima|36|Neutral|Un jabalí me pegó en la pierna cuando salía del río me abrio la pierna y no deja de sangrar
+111|Victima|29|Emocional|¡Una manada de jabalíes está rodeando nuestra carpa! No podemos salir, se escuchan gruñidos
+112|Victima|22|Slang|Un toro me embistió y volé como 3 metros, me duele la espalda no me puedo mover
+113|Victima|38|Formal|Un toro me pegó y sali volando me duele mucho la cabeza y me sangra la nariz
+114|Victima|45|Neutral|Un alce me persiguió por el bosque tuve que esconderme detrás de unas rocas
+115|Victima|31|Emocional|¡Un alce enorme está parado en medio del sendero! No nos deja pasar y resopla fuerte
+116|Victima|26|Slang|
+117|Victima|40|Caotico|¡ALCE EMBISTIÓ CARRO VENTANA ROTA ATRAPADOS AYUDA!
+118|Victima|33|Neutral|Un bisonte se paró frente a nosotros y comenzó a golpear el suelo 
+119|Victima|28|Emocional|¡Un bisonte cargó contra nuestro coche! El capó quedó abollado y tenemos miedo de salir
+120|Victima|35|Neutral|Un toro me embistió en el corral, me golpeó en el pecho y caí al suelo, me duele mucho respirar
+121|Victima|42|Formal|Un toro me atacó en la plaza! Me embistió y tengo una herida abierta en la pierna, no puedo caminar
+122|Victima|27|Neutral|Una vaca me pisó la pierna mientras ordeñaba, me duele mucho y no puedo apoyar el pie
+123|Victima|34|Emocional|La vaca me pateó en la cadera y me tiró al suelo! Me duele y no puedo levantarme
+124|Victima|29|Slang|Un caballo me mordió el brazo cuando le daba de comer, tengo una marca profunda y sangra me duele muy culero
+125|Victima|37|Neutral|¡El caballo se me espantó y me arrastró por el campo! Me lastimé la mano y no puedo cerrarla
+126|Victima|24|Slang|No mames ayudame un burro me mordió la espalda y me tiró al suelo, quedé bien moreteado
+127|Victima|32|Caotico|¡HIPOPÓTAMO VOLCÓ BOTE EN EL RÍO NO LLEGAMOS A LA ORILLA AYUDA!
+128|Victima|43|Caotico|¡CERDO ME MORDIÓ LA PIERNA SANGRA MUCHO AYUDA RÁPIDO!
+129|Victima|30|Neutral|Una oveja me embistió y caí al suelo, me golpeé la cabeza y veo borroso
+130|Victima|26|Emocional|¡Un elefante está embistiendo nuestro vehículo! El techo está abollado, vamos a morir
+131|Victima|35|Neutral|Una cabra me cabeceó en el estómago y me dejó sin aire, me duele mucho
+132|Victima|28|Slang|Un gallo me picoteó la pierna y me dejó sangrando, me duele cabron
+133|Victima|41|Emocional|¡Un rinoceronte está a punto de embestirnos! No podemos huir, está muy cerca
+134|Victima|36|Neutral|Una jauría de perros salvajes nos acorraló en el campo, tuvimos que subirnos a un árbol
+135|Victima|29|Emocional|¡Los perros salvajes están devorando nuestras provisiones! Estamos rodeados y no podemos bajar del auto
+136|Victima|33|Slang|Wey un mono me mordio la pierna que hago
+137|Victima|44|Formal|Me persigue una jauría de perros salvajes ayuda
+138|Victima|31|Neutral|Un mono me arrebató la mochila y me arañó el brazo, me esta sangrando
+139|Victima|27|Emocional|¡Una horda de monos nos está atacando en el campamento! Tiran piedras y nos quieren morder
+140|Victima|38|Slang|Wey, un mono se me subió encima y me agarró del pelo, no me soltaba, me hizo algunos rasguños
+141|Victima|23|Neutral|Un gorila me embistió tengo moretones en el pecho y el brazo
+142|Victima|30|Emocional|¡Un gorila me agarró del brazo y me lanzó contra el suelo! No puedo mover el hombro
+143|Victima|45|Neutral|Un murciélago me mordió la mano mientras dormía, tengo una pequeña herida 
+144|Victima|29|Emocional|¡Un murciélago voló dentro de la tienda y me mordió la pierna! Tengo miedo de tener rabia
+145|Victima|33|Slang|No mames wey un murciélago me mordió la mano y ahora me duele la cabeza qué tengo que hacer
+146|Victima|40|Formal|Me mordio un murciélago durante la noche
+147|Victima|27|Neutral|Un mapache me persiguió y me mordió el tobillo estoy muy asustado
+148|Victima|35|Emocional|¡Un mapache me atacó en el campamento! Está espumando y me mordió la mano
+149|Victima|22|Slang|Wey un mapache me saltó encima y me arañó la pierna, qué pedo qué hago
+150|Victima|32|Neutral|Un zorro se acercó a nuestra carpa y anda merodeando no sabemos que hacer
+151|Victima|39|Emocional|¡Un zorro estaba dentro de nuestra tienda! Gruñía y no nos dejaba entrar
+152|Victima|28|Caotico|¡ZORRO DENTRO DE LA TIENDA AGRESIVO NO PODEMOS ENTRAR AYUDA!
+153|Victima|46|Neutral|Un castor me mordió la mano mientras intentaba fotografiar su presa
+154|Victima|25|Emocional|¡Una nutria me persiguió por el muelle y me mordió el pie! Está sangrando
+155|Victima|41|Neutral|Una foca me mordió la mano cuando intenté alimentarla en el muelle
+156|Victima|29|Emocional|¡Un caballo se asustó y me pisó el pie! No puedo caminar, está muy hinchado y morado
+157|Victima|34|Neutral|Un caballo arrastro a mi cuñado ahora está sangrando de la cabeza
+158|Victima|37|Neutral|Una yegua se puso nerviosa y me mordió el brazo mientras le ponía el cabestro, tengo una herida profunda
+159|Victima|28|Slang|Wey, el burro se enojó y me dio una patada en la pierna, no puedo caminar bien
+160|Victima|44|Caotico|¡ANIMAL BLOQUEA EL PASO ATRAPADOS AYUDA RÁPIDO!
+161|Victima|26|Neutral|Una cabra me embistió por detrás mientras cargaba un costal, me caí y me golpeé la cabeza contra la pared me duele mucho
+162|Victima|33|Emocional|¡Una iguana me arañó la cara con la cola! Tengo una cortada en la mejilla
+163|Victima|30|Slang|Un cerdo me mordió la mano cuando intentaba alimentarlo, la herida es profunda y me esta sangrando mucho
+164|Victima|39|Formal|He sufrido una mordedura de iguana, presento una herida cortante en el antebrazo
+165|Victima|27|Neutral|Un camaleón me mordió el dedo en el jardín, la herida es pequeña pero se infectó
+166|Victima|22|Emocional|¡Una tarántula me picó en la espalda! Me arde mucho y me siento mareado
+167|Victima|35|Neutral|Un escorpión me picó en la mano mientras recogía leña, el dolor sube por el brazo
+168|Victima|31|Emocional|¡Un escorpión me picó en la pierna y ya no la siento! El veneno está subiendo rápido
+169|Victima|28|Slang|No mames wey un ciempiés me picó en el pie y se me hinchó la pata, me duele bien culero
+170|Victima|43|Neutral|Un ciempiés me mordió en el cuello mientras dormía, tengo una bola 
+171|Victima|25|Emocional|¡Una avispa me picó en la lengua! Se me está hinchando la boca y no puedo hablar
+172|Victima|37|Neutral|Un enjambre de abejas nos atacó tenemos múltiples picaduras en todo el cuerpo
+173|Victima|32|Emocional|¡Me picaron más de 20 abejas! Estoy mareado y me cuesta respirar soy alérgico
+174|Victima|29|Caotico|¡ENJAMBRE DE ABEJAS NOS ATACÓ PICADURAS EN TODO EL CUERPO AYUDA!
+175|Victima|40|Slang|No mames, el cerdo se me puso agresivo y me mordió la mano, qué dolor tan culero
+176|Victima|34|Neutral|Una avispa me picó en la cabeza, ahora tengo dolor de cabeza y visión borrosa
+177|Victima|28|Emocional|¡Una avispa me picó en el ojo! No puedo abrirlo, está muy hinchado y me duele mucho
+178|Victima|36|Neutral|Una garrapata me picó en el cuello me la quite pero tengo fiebre y escalofríos
+179|Victima|23|Emocional|¡Tengo una garrapata incrustada en mi espalda! No puedo alcanzarla y me da miedo
+180|Victima|39|Slang|Wey, tengo una garrapata en la pierna que no sale, ya se me está poniendo la piel roja
+181|Victima|45|Neutral|Una araña lobo me picó en el pie, la herida está enrojecida y me duele al caminar
+182|Victima|33|Emocional|¡Una araña me picó en el brazo y ahora tengo calentura! Me tiembla todo el cuerpo
+183|Victima|27|Slang|No mames una araña se escondió en mi zapato y me picó, ahora no siento bien la pierna
+184|Victima|30|Neutral|Un pulpo me mordió en el brazo mientras buceaba, dejó una marca redonda y duele
+185|Victima|40|Emocional|¡Un pulpo me atacó en el agua! Me enredó el brazo y no podía respirar del susto
+186|Victima|25|Neutral|Pise un erizo tengo múltiples púas clavadas y dolor intenso
+187|Victima|32|Emocional|¡Un pez león me picó la mano mientras buceaba! El dolor es insoportable y la mano se está poniendo morada
+188|Victima|29|Caotico|¡PEZ LEÓN PICÓ MANO MORADA DUELE MUCHO AYUDA RÁPIDO!
+189|Victima|41|Formal|He sufrido una picadura de un pez leon presento edema y decoloración en la extremidad
+190|Victima|26|Neutral|Un caracol cono me picó en la playa sentí un pinchazo y ahora mi brazo está entumecido
+191|Victima|35|Emocional|¡Un caracol me picó y no puedo mover el brazo! El veneno me está subiendo
+192|Victima|24|Slang|Wey un caracol me picó y no sentí nada hasta que me empezó a arder bien cabrón
+193|Victima|38|Neutral|Un cocodrilo de agua salada nos persiguió en la lancha, tuvimos que acelerar a fondo
+194|Victima|31|Emocional|¡Un cocodrilo saltó del agua y casi atrapa a mi amigo! Estamos en la orilla y no podemos acercarnos
+195|Victima|22|Neutral|Un gallo me picoteó la pierna y tengo una herida que sangra, me preocupa que se infecte
+196|Victima|44|Neutral|Un puma estaba en el árbol sobre nosotros, bajó la cabeza y se quedó viéndonos
+197|Victima|28|Emocional|¡Un puma se paró en medio del camino y nos rugió! No sabemos si correr o quedarnos quietos
+198|Victima|34|Slang|Wey, en el sendero nos encontramos con un puma, se quedó viéndonos y luego se fue lento
+199|Victima|39|Emocional|¡El toro rompió la cerca y está suelto! Ya embistió a mi esposo y lo tiró al piso, necesito ayuda
+200|Victima|27|Caotico|¡PUMA NOS SIGUE EN EL SENDERO MUCHO MIEDO AYUDA AYUDA!
+201|Victima|33|Neutral|Un lince me mordió la mano cuando intenté acariciarlo, la herida es profunda
+202|Victima|26|Emocional|¡El toro rompió la cerca y está suelto! Ya embistió a mi esposo y lo tiró al piso, necesito ayuda
+203|Victima|30|Slang|Wey, un lince me atacó por la espalda, no lo vi venir, me dejó bien rasguñado
+204|Victima|35|Neutral|Un ciervo me embistió en el bosque, tengo un moretón en el costado y me duele al respirar
+205|Victima|42|Emocional|¡Un ciervo se paró frente al coche y no se mueve! No podemos pasar y está muy cerca
+206|Victima|30|Caotico|¡CABALLO ARRASTRÓ RASPADURAS SANGRADO CABEZA AYUDA AYUDA!
+207|Victima|37|Emocional|¡Un oso negro está en la cocina de la cabaña! Destrozó la nevera y no podemos entrar
+208|Victima|25|Slang|Wey, un oso negro entró a la cabaña y se comió toda la comida no sabemos que hacer
+209|Victima|28|Emocional|¡El burro me persiguió y me mordió la mano! Está sangrando mucho y no paro de sangrar
+210|Victima|29|Neutral|Un zorro  me mordió la pierna cuando intenté ahuyentarlo de la basura
+211|Victima|35|Emocional|¡Un zorro se metió a la tienda y me mordió la mano! Está sangrando y me preocupa la rabia
+212|Victima|24|Slang|Wey un zorro se llevó mi zapato y me mordió el pie no mames no se que hacer me duele
+
+

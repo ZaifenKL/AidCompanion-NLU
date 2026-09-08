@@ -52,7 +52,7 @@ id|rol|edad|estilo|text
 51|Testigo|29|Neutral|Me torcí el tobillo en el cerro no puedo caminar no tengo agua ni señal y ya anocheció
 52|Victima|34|Neutral|Estoy en el Cerro del Tepozteco y empezó a llover muy fuerte el sendero está resbaloso y no puedo bajar hay piedras cayendo
 53|Victima|29|Emocional|Voy en el Cerro del Tepozteco y se está deslizando la tierra El camino está bloqueado por lodo y piedras no puedo seguir ni regresar
-54|Victima|31|Caotico|LLUVIA FUERTE TEPOZTLAN SENDERO RESBALOSO DESLAVE NO BAJO AYUDA
+54|Victima|31|Caotico|LLUVIA FUERTE SENDERO RESBALOSO DESLAVE NO BAJO AYUDA
 55|Victima|28|Neutral|Subí al Cerro del Bachoco y me desorienté con la neblina ya no veo el sendero y está empezando a oscurecer
 56|Victima|25|Slang|Wey en el Cerro del Bachoco me perdí con la niebla no veo ni madres y ya está oscureciendo no traje ni linterna
 57|Victima|30|Neutral|Estoy en el Desierto de los Leones y el camino se cerró por un árbol caído no puedo pasar y ya está lloviendo
@@ -67,7 +67,7 @@ id|rol|edad|estilo|text
 66|Victima|34|Neutral|En el sendero de la Sierra de Guerrero encontré una zona con deslave no puedo pasar y el río está creciendo
 67|Victima|27|Emocional|Voy en la Sierra Gorda y me quedé sin agua El sol está bien fuerte me siento mareado y no encuentro el camino
 68|Victima|31|Neutral|En la Barranca del Cobre el sendero se derrumbó por las lluvias estoy atrapado entre la pared y el precipicio
-69|Victima|29|Caotico|BARRANCA COBRE DERRUMBE SENDERO ATRAPADO PRECIPICIO AYUDA
+69|Victima|29|Caotico|BARRANCA DERRUMBE SENDERO ATRAPADO PRECIPICIO AYUDA
 70|Victima|24|Neutral|El río creció en el Desierto de los Leones y no puedo cruzarlo estoy atrapado en esta orilla y ya está oscureciendo
 71|Victima|22|Infantil|Me perdí en el bosque ya está oscuro y no encuentro a mi familia tengo mucho miedo y frío
 72|Victima|28|Emocional|El cerro del Tepozteco tiene deslaves por la lluvia Estoy en una zona sin señal y no sé cómo bajar
@@ -80,22 +80,128 @@ id|rol|edad|estilo|text
 79|Victima|25|Slang|No mames en el Ajusco está cayendo un tormentón bien cabrón no hay dónde esconderse
 80|Victima|25|Infantil|Estoy en el cerro con mi papá y él se lastimó la pierna no puede caminar y está oscureciendo tengo miedo
 81|Victima|34|Emocional|Llevo horas perdido en las montañas de Colorado la nieve está hasta la cintura y no encuentro el sendero El teléfono está por apagarse tengo mucho frío
-82|Victima|29|Neutral|Soy un excursionista internacional en Canadá seguí una ruta que vi en una aplicación y ahora estoy perdido empapado y con hipotermia el sol ya se está poniendo
-83|Victima|32|Caotico|CAÍ POR UN ACANTILADO EN EL MONTE WILLIAMSON TENGO LA PIERNA ROTA SIN COMIDA Y SIN AGUA A 4100 METROS DE ALTURA AYUDA
-84|Victima|35|Slang|Wey seguí una ruta de una app en Canadá y terminé en un terreno bien culero con acantilados llevo horas perdido y estoy empapado no mames
+82|Victima|29|Neutral|Soy un excursionista seguí una ruta que vi en una aplicación y ahora estoy perdido empapado y con hipotermia el sol ya se está poniendo
+83|Victima|32|Caotico|CAÍ POR UN ACANTILADO EN EL MONTE TENGO LA PIERNA ROTA SIN COMIDA Y SIN AGUA A 4100 METROS DE ALTURA AYUDA
+84|Victima|35|Slang|Wey seguí una ruta de una app y terminé en un terreno bien culero con acantilados llevo horas perdido y estoy empapado no mames
 85|Victima|42|Formal|Pasé la noche en un barranco en Tennessee perdido y con hipotermia solo llevaba playera y shorts la temperatura bajó a 4 grados
 86|Victima|38|Neutral|Me caí en el Monte Williamson tengo una fractura expuesta en la pierna una tormenta eléctrica me alcanzó en el acantilado y no tengo mi mochila con comida ni agua
-87|Victima|34|Caotico|VIENTO PATAGONIA 120 KMH TIRÓ CAMPAMENTO TOLDA ROTA NO REFUGIO AYUDA
+87|Victima|34|Caotico|VIENTO PATAGONIA TIRÓ CAMPAMENTO TOLDA ROTA NO REFUGIO AYUDA
 88|Victima|40|Emocional|Mi compañero se lastimó la rodilla en la montaña No puede caminar el sol está bajando y no tenemos agua suficiente Ayudanos
 89|Victima|27|Neutral|Estoy subiendo el Kilimanjaro y me dio un fuerte mal de altura no puedo continuar y bajar solo es muy difícil el guía se adelantó
 90|Testigo|27|Neutral|Vamos tres subiendo el Kilimanjaro mi compañero se quedó atrás con mal de altura tenemos que bajar juntos pero no puede caminar bien
 91|Victima|37|Neutral|Estoy en el campo base del Everest y me dio un dolor de cabeza muy fuerte tengo náuseas y me falta el aire no puedo caminar bien
 92|Victima|41|Emocional|Subiendo los Andes y me siento fatal La cabeza me explota todo me da vueltas y no puedo respirar creo que es el mal de altura
-93|Victima|34|Caotico|MAL DE ALTURA ALPES DOLOR CABEZA VIOMITAR FALTA AIRE NO CAMINO AYUDA
-94|Victima|29|Slang|Wey en los Pirineos me pegó bien mal la altura no puedo respirar me duele la cabeza un chingo y todo me da vueltas
-95|Testigo|45|Formal|Mi compañero presenta síntomas de mal de altura náuseas y dolor de cabeza no puede continuar la expedición
-96|Testigo|39|Emocional|Mi amigo en los Alpes está muy mal Tiene un dolor de cabeza insoportable vomitó varias veces y está desorientado no sabe dónde está
+93|Victima|34|Caotico|MUCHO FRIO DOLOR CABEZA VOMITAR FALTA AIRE NO CAMINO AYUDA
+94|Victima|29|Slang|Wey estoy en las montañas me pegó bien mal la altura no puedo respirar me duele la cabeza un chingo y todo me da vueltas
+95|Testigo|45|Formal|Mi compañero se empezo a sentir mal tiene náuseas y dolor de cabeza no puede continuar la expedición
+96|Testigo|39|Emocional|Mi amigo stá muy mal Tiene un dolor de cabeza insoportable vomitó varias veces y está desorientado no sabe dónde está
 97|Victima|30|Emocional|Estoy en el Iztaccíhuatl me siento fatal Estoy mareado con náuseas y dolor de cabeza no puedo bajar solo
 98|Testigo|35|Neutral|Mi compañero en el Pico de Orizaba está desorientado y vomitando claramente es mal de altura tenemos que bajar ya
 99|Testigo|39|Neutral|Mi amigo en los Alpes está muy confundido no reconoce el sendero y tiene alucinaciones
 100|Testigo|35|Slang|Wey estamos en la montaña mi compa está bien mal no sabe ni dónde está dice que ve cosas y se tropieza solo la altura le está pegando bien cabrón
+101|Victima|45|Neutral|Llevo más de 6 horas perdido en el bosque, ya no distingo el sendero y el sol se está ocultando
+102|Victima|28|Emocional|¡Me perdí en el bosque y se está haciendo de noche! No traje linterna, ni comida, ni agua, tengo mucho miedo
+103|Victima|30|Slang|Wey me perdí en el monte y ya no encuentro la salida, no tengo señal y se está oscureciendo
+104|Victima|55|Formal|Me encuentro extraviado en una zona boscosa sin señal telefónica cada vez se ve menos
+105|Victima|22|Caotico|¡PERDIDO EN EL BOSQUE SIN SEÑAL OSCURECE AYUDA AYUDA!
+106|Victima|33|Neutral|Llevo horas sin agua y no encuentro una fuente cercana, tengo mucha sed y me duele la cabeza
+107|Victima|27|Emocional|¡Se me acabó el agua y el sol está muy fuerte! Me siento mareado y no sé cuánto pueda seguir caminando
+108|Victima|35|Slang|No mames, se me acabó el agua en el cerro y el sol está bien cabrón, me siento mal
+109|Victima|48|Formal|He agotado mi reserva de agua y me encuentro en una zona desértica con temperaturas superiores a 40 grados
+110|Victima|26|Caotico|¡SIN AGUA DESIERTO MUCHO SOL NO PUEDO SEGUIR AYUDA!
+111|Victima|31|Neutral|Mi teléfono se esta quedando sin bateria y no sé cómo llegar a la carretera, estoy completamente desorientado
+112|Victima|29|Emocional|¡El teléfono se apagó y no tengo señal! No sé dónde estoy y el camino se está borrando
+113|Victima|24|Slang|Wey perdi mi GPS y no tengo ni idea de dónde estoy, llevo horas caminando
+114|Victima|52|Formal|He perdido la comunicación con mi grupo y no encuentro el camino
+115|Victima|20|Infantil|Me perdi y no sé cómo llegar a casa, tengo miedo
+116|Victima|40|Neutral|El camino que estaba siguiendo se derrumbó por el deslave y no tengo forma de regresar o seguir avanzando
+117|Victima|34|Emocional|¡El sendero principal está bloqueado por un deslave y estamos atrapados entre la pared y el precipicio! No podemos movernos
+118|Victima|38|Slang|No mames el camino se cayó por el deslave y estamos atorados entre la roca y el barranco
+119|Victima|50|Formal|El camino de acceso ha sido obstruido por un desprendimiento de tierra, impidiendo el avance o retroceso
+120|Victima|29|Caotico|¡DESLAVE BLOQUEÓ EL PASO ATRAPADOS SIN PODER MOVER AYUDA RÁPIDO!
+121|Victima|33|Neutral|Un árbol enorme cayó sobre el camino y no podemos pasar, estamos bloqueados en el sendero
+122|Victima|27|Emocional|¡Un árbol gigante cayó y cerró el paso! No podemos ir ni adelante ni atrás, estamos atrapados
+123|Victima|42|Slang|Wey, un árbol se vino abajo y nos dejó encerrados en el camino, qué pinche mala suerte
+124|Victima|46|Neutral|La niebla es tan espesa que no veo ni a 2 metros, estoy completamente desorientado y no reconozco el sendero
+125|Victima|25|Emocional|¡La niebla nos envolvió y no vemos el sendero! No sabemos hacia dónde ir y el frío está aumentando
+126|Victima|31|Caotico|¡NIEBLA ESPESA NO VEO NADA DESORIENTADO AYUDA AYUDA!
+127|Victima|54|Formal|Todo se lleno de niebla y no sabemos como regresar
+128|Victima|32|Neutral|La tormenta de nieve nos sorprendió en el paso montañoso, la visibilidad es nula y la temperatura está bajando
+129|Victima|28|Emocional|¡Una tormenta de nieve nos atrapó en la montaña! No encontramos refugio y el frío es insoportable
+130|Victima|35|Slang|No mames la tormenta de nieve nos agarró en el cerro, no vemos nada y nos estamos congelando
+131|Victima|41|Formal|Nos encontramos en medio de una tormenta de nieve con visibilidad reducida a cero y temperaturas bajo cero
+132|Victima|23|Infantil|Está nevando muy fuerte y no puedo ver el camino, tengo mucho frío y miedo
+133|Victima|36|Neutral|El viento está tan fuerte que no podemos avanzar, la tormenta nos obligó a detenernos en medio del sendero
+134|Victima|30|Emocional|¡El viento es tan fuerte que casi nos tumba! No podemos caminar y estamos expuestos a la tormenta
+135|Victima|44|Slang|Wey el viento está bien cabrón, no podemos ni pararnos, pinche tormenta nos agarró
+136|Victima|49|Neutral|El río creció de forma repentina y cortó nuestro camino de regreso, estamos atrapados en esta orilla
+137|Victima|26|Emocional|¡El río se desbordó y estamos atrapados! No podemos cruzarlo y el agua sigue subiendo
+138|Victima|29|Neutral|Una tormenta eléctrica nos sorprendió en el sendero y no hay refugio cerca, los rayos estan cayendo muy cerca de nosotros
+139|Victima|24|Emocional|¡Los rayos están cayendo muy cerca! Estamos en una zona abierta y no tenemos dónde escondernos
+140|Victima|37|Slang|No mames se vino un aeronaso y empezaron a caer rayos no hay ni un pinche árbol donde esconderse
+141|Victima|42|Neutral|El camino de acceso está cubierto de hielo no podemos bajar ni subir sin resbalar
+142|Victima|31|Emocional|¡El sendero está congelado! No podemos dar un paso sin resbalarnos, estamos atrapados en la montaña
+143|Victima|28|Emocional|¡Me torcí el tobillo y no puedo caminar! Estoy a 2 horas de la salida y está oscureciendo, tengo miedo
+144|Victima|39|Slang|Wey me doblé la pata y no puedo caminar, estoy atorado en el cerro y ya se está haciendo de noche
+145|Victima|53|Formal|Me lastime el tobillo no puedo caminar y me encuentro aislado en la montaña
+146|Victima|25|Caotico|¡TORCEDURA DE TOBILLO NO PUEDO CAMINAR ATRAPADO EN EL CERRO AYUDA!
+147|Victima|38|Neutral|Llevo tres días sin comida, solo he podido beber agua de un arroyo, me siento muy débil
+148|Victima|32|Emocional|¡Llevo 3 días sin comer! Solo bebo agua del río y ya no tengo fuerzas para caminar
+149|Victima|26|Caotico|¡SIN COMIDA 3 DÍAS DÉBIL NO CAMINO AYUDA!
+150|Victima|45|Formal|Me perdi y he estado sin alimentos durante tres días, ya no puedo seguir
+151|Victima|22|Infantil|Me perdi y me quede sin agua y sin comida no puedo seguir
+152|Victima|34|Emocional|¡Me caí por un barranco y me rompí la pierna! No puedo caminar, no tengo señal y está oscureciendo
+153|Victima|33|Neutral|No usé gafas en la nieve y ahora no veo nada me duele mucho los ojos
+154|Victima|29|Emocional|¡No puedo abrir los ojos! Me ardían y ahora no veo nada, el reflejo del sol en la nieve me dejó ciego
+155|Victima|28|Caotico|¡NO VEO NADA NIEVE DOLOR EN OJOS AYUDA NO PUEDO CAMINAR!
+156|Victima|30|Neutral|El sol en la montaña me quemó los ojos veo manchas y cada vez veo menos
+157|Victima|27|Emocional|¡No veo ni a dos metros! El reflejo del sol en la nieve me dejó ciego y estoy en medio de la montaña
+158|Victima|32|Caotico|¡OJOS ARDIENDO NO VEO SENDERO SOL AYUDA RÁPIDO!
+159|Victima|41|Neutral|Llevo horas con dolor en los ojos, me lloran los ojos y se me nublan
+160|Victima|24|Slang|No mames, se me olvidaron las gafas y el sol en la nieve me frió los ojos, ya casi no veo
+161|Victima|22|Slang|Wey el sol en la nieve me dejó bien jodido, no veo ni madres y me arde la cara
+162|Victima|29|Errores|No traje gafas y el sol en la nieve me dejo ciego no veo nada me duelen muxo los ojos
+163|Victima|28|Emocional|¡Una avalancha nos cayó encima! Mi amigo quedó enterrado y yo no puedo sacarlo, la nieve es demasiado pesada
+164|Victima|40|Neutral|El barco se hundió en medio del océano llevo dos días agarrado a un trozo de madera sin agua ni comida
+165|Victima|35|Emocional|¡El barco se partió en dos! Estamos en el agua, no veo la costa y mi esposo no sale
+166|Victima|28|Caotico|¡NAUFRAGIO EN ALTA MAR SIN BOTE SIN AGUA A LA DERIVA AYUDA!
+167|Testigo|32|Neutral|Vi cómo el barco se hundió en segundos, la gente saltaba al agua y las olas se los llevaban
+168|Victima|38|Emocional|¡Llevo 5 días a la deriva sin agua! El sol me está quemando y no veo ningún barco
+169|Victima|44|Neutral|El barco se hundió durante la tormenta, estoy en una balsa con otras 5 personas y se nos acaba el agua
+170|Victima|34|Neutral|Una piedra se desprendió de la montaña y me cayó en el hombro, no puedo mover el brazo y está muy hinchado
+171|Victima|29|Emocional|¡Una roca enorme cayó desde arriba y le pegó a mi amigo en la cabeza! Está sangrando mucho y no responde
+172|Testigo|32|Neutral|Vi cómo una roca se desprendió y golpeó a mi compañero en la pierna, no puede moverla y tiene mucho dolor
+173|Victima|28|Caotico|¡ROCA CAYÓ SOBRE MI PECHO NO RESPIRO BIEN DUELE MUCHO AYUDA RÁPIDO!
+174|Victima|27|Emocional|¡Una roca me cayó en la mano y me aplastó los dedos! No puedo moverlos y sangran mucho
+175|Victima|35|Neutral|El terremoto derrumbó la casa, quedé atrapado entre los escombros y no puedo moverme
+176|Victima|41|Emocional|¡El piso se abrió y mi esposa cayó al sótano! No la escucho, necesito ayuda para sacarla
+177|Victima|28|Caotico|¡TERREMOTO EDIFICIO CAYÓ ATRAPADO SIN SALIDA AYUDA AYUDA!
+178|Victima|50|Formal|Temblo y se destruyo todo estoy atrapado y sin comunicacion
+179|Victima|33|Slang|Wey el temblor nos despertó y el techo se nos vino encima, estamos encerrados en el baño
+180|Victima|34|Neutral|Bebí agua del río y ahora tengo fiebre y diarrea, no puedo seguir caminando
+181|Victima|27|Emocional|¡El agua del manantial me cayó mal! Llevo horas vomitando y me siento muy débil
+182|Victima|40|Caotico|¡AGUA CONTAMINADA FIEBRE DIARREA NO PUEDO CAMINAR AYUDA!
+183|Victima|31|Formal|Nos quedamos sin agua en el camino y tomamos agua de un charco mis amigos no dejan de vomitar y uno tiene fiebre
+184|Victima|25|Slang|Wey, el agua del río sabía a tierra y ahora estoy bien jodido, no paro de vomitar me siento mal
+185|Victima|38|Emocional|¡El filtro se rompió y tuvimos que beber agua del arroyo! Ahora todos tenemos calentura
+186|Victima|29|Neutral|El agua que llevaba se acabó y tuve que beber de una laguna, ahora tengo escalofríos y me siento muy mal
+185|Victima|33|Caotico|¡AGUA SUCIA ME ENFERMÉ NO TENGO FUERZA PARA CAMINAR AYUDA!
+186|Victima|45|Slang|No mames tomé agua de un pozo y ahora estoy bien mal, con dolor de panza bien cabrón
+187|Victima|26|Errores|Tome agua del arroyo y me senti mal despues de un dia tengo mucha sed y me tiembla el cuerpo
+188|Victima|36|Neutral|Llevo horas en el frío sin guantes, mis dedos están blancos y no los siento
+189|Victima|29|Emocional|¡No puedo mover los dedos de los pies! Están morados y no los siento, tengo miedo
+190|Victima|42|Caotico|¡CONGELAMIENTO DEDOS MANOS NO SIENTO DOLOR AYUDA RÁPIDO!
+191|Victima|50|Formal|Estuve mucho tiempo en el frio y no siento los dedos ayuda
+192|Victima|28|Slang|Wey mis manos están bien frías y no las siento, se me están poniendo blancas tengo mucho dolor
+193|Victima|34|Emocional|¡Mis dedos de los pies se pusieron negros! No puedo caminar y el dolor es insoportable
+194|Victima|31|Neutral|Mis orejas están duras y no las siento
+195|Victima|38|Caotico|¡MANOS CONGELADAS NO PUEDO AGARRAR NADA PIEL DURA AYUDA AYUDA!
+196|Victima|27|Slang|No mames, me quité las botas y los dedos están bien feos, morados y no los siento
+197|Victima|33|Infantil|Mis manos están muy frías y no las siento, tengo miedo de que se caigan los dedos
+
+
+
+
+
+
+

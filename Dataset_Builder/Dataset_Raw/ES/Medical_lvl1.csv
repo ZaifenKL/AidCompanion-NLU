@@ -1,0 +1,401 @@
+id|rol|edad|estilo|categoria_x|text
+1|Victima|28|Neutral|ataque_cardiaco|Me duele mucho el pecho como si alguien me estuviera apuñalando no puedo respirar
+2|Victima|32|Neutral|trauma|Iba manejando y un camión me chocó de frente el volante me aplastó el pecho
+3|Victima|27|Neutral|trauma|Me caí de la moto en la carretera tengo raspado todo el brazo y veo la carne
+4|Victima|30|Neutral|trauma|Me cayó una lámina en la obra me aplastó la pierna y no la siento
+5|Victima|29|Neutral|hemorragia_grave|Me picó una mantarraya en la playa no dejo de sangrar y me duele la pierna
+6|Victima|33|Neutral|intoxicacion|Me dio un dolor en la panza bien gacho como si me explotara algo
+7|Victima|26|Neutral|hemorragia_grave|Me corté la mano con una sierra no para de sangrar y me estoy mareando
+8|Victima|31|Neutral|trauma|Me resbalé en el baño y me quebré la muñeca el hueso se ve atravesado
+9|Victima|28|Neutral|herida_balazo|Me dispararon en la pierna en la colonia no para de sangrar y creo que me voy a desmayar
+10|Victima|34|Neutral|trauma|Me cayó un block en la cabeza me duele muy fuerte y estoy sangrando un chingo
+11|Victima|29|Neutral|hemorragia_grave|Tuve una pelea con mi esposa me golpeó y me cortó el brazo y no para de sangrar
+12|Victima|35|Neutral|ataque_cardiaco|Me dio un dolor muy fuerte en el pecho que me sube al brazo y la mandíbula
+13|Victima|30|Neutral|trauma|Iba en mi moto y un coche no me vio me estrellé contra la puerta
+14|Victima|27|Neutral|ataque_cardiaco|Estaba en mi casa y de repente me dio un dolor bien cabrón en el pecho
+15|Victima|33|Neutral|trauma|Me cayó una tabla con clavos en la pierna se me atravesó y no deja de sangrar
+16|Victima|31|Neutral|trauma|Iba manejando y se me metió un tráiler me estampé contra el muro me duele todo el cuerpo
+17|Victima|28|Neutral|hemorragia_grave|Estaba cortando con un cuchillo y me corté no para la sangre y veo blanco
+18|Victima|32|Neutral|trauma|Me caí de un segundo piso en la obra me duele la espalda y no siento mis piernas
+19|Victima|29|Neutral|anafilaxia|Me picó un alacrán en el pie se me está hinchando la garganta
+20|Victima|34|Neutral|intoxicacion|Traigo un dolor en la panza que no aguanto como si me estuvieran retorciendo las tripas
+21|Victima|27|Emocional|ataque_cardiaco|Ayuda necesito ir al hospital Me duele el pecho bien culero no puedo respirar siento que me voy a morir
+22|Victima|32|Emocional|trauma|No mames Choqué con un tráiler no siento las piernas y veo borroso tengo mucho miedo
+23|Victima|30|Emocional|trauma|Me caí de la moto y veo la carne del brazo No para de sangrar me duele cabrón
+24|Victima|28|Emocional|herida_balazo|Me voy a morir No paro de sangrar y me siento mareado creo que me voy a desmayar Me dispararon
+25|Victima|33|Emocional|hemorragia_grave|Me picó una mantarraya y no dejo de sangrar tengo mucho dolor ayuda
+26|Victima|29|Emocional|intoxicacion|Creo que me voy a morir Me duele la panza horrible No me puedo parar y estoy sudando frío me duele todo
+27|Victima|31|Emocional|hemorragia_grave|Necesito ayuda Me corté la mano y no para la sangre Veo todo blanco tengo mucho miedo
+28|Victima|34|Emocional|trauma|Ayúdame porfavor me quebré la muñeca El hueso se ve atravesado y sangra no puedo mover los dedos
+29|Victima|27|Emocional|trauma|Me cayó un block en la cabeza Estoy sangrando cabrón y siento que me voy a desmayar ayuda
+30|Victima|32|Emocional|hemorragia_grave|Necesito ayuda Mi esposa me cortó el brazo con un cuchillo No para de sangrar veo borroso
+31|Victima|35|Caotico|ataque_cardiaco|AYUDAME AYUDAME DOLOR PECHO NO RESPIRAR APUÑALANDO AYUDA RÁPIDO
+32|Victima|28|Caotico|trauma|NO MAMES TRÁILER ESTAMPÉ PIERNAS BORROSO AYUDAME
+33|Victima|31|Caotico|trauma|ME MORIR MOTO VOLÉ CARNE BRAZO SANGRE NO PARA AYUDA RÁPIDO
+34|Victima|33|Caotico|herida_balazo|DISPARO PIERNA SANGRE MAREADO DESMAYAR AYUDA AYUDA
+35|Victima|29|Caotico|hemorragia_grave|NECESITO AYUDA MANTARRAYA PIE SANGRE DUELE PIERNA AYUDA AYUDA
+36|Victima|30|Caotico|intoxicacion|PANZA EXPLOTA DOLOR FUERTE SUDOR FRÍO AYUDA AYUDA
+37|Victima|34|Caotico|hemorragia_grave|SANGRE MANO NO PARA VEO BORROSO MAREADO AYUDA RÁPIDO
+38|Victima|27|Caotico|trauma|MUÑECA QUEBRADA HUESO SANGRE DEDOS NO MUEVO AYUDA
+39|Victima|32|Caotico|trauma|HOPSITAL CABEZA SANGRE CHINGO DESMAYAR AYUDA AYUDA
+40|Victima|28|Caotico|hemorragia_grave|NECESITO AYUDA CUCHILLO BRAZO SANGRE NO PARA MAREADO AYUDA AYUDA
+41|Testigo|32|Neutral|trauma|Mi compa se cayó del andamio está en el suelo y no se mueve
+42|Testigo|28|Neutral|trauma|Mi amigo del copiloto no respira después del choque
+43|Testigo|30|Neutral|convulsion|Mi novia se desmayó y está convulsionando en el antro no sé que hacer
+44|Testigo|33|Neutral|intoxicacion|Mi roomie se tomó pastillas y no despierta respira muy lento no sé que hacer
+45|Testigo|29|Neutral|trauma|Mi hermano voló de la moto y está en el suelo con el brazo doblado
+46|Testigo|34|Neutral|trauma|A mi compañero le cayó un tubo en la cabeza y está inconsciente
+47|Testigo|27|Neutral|ahogamiento|Mi amigo se metió al río y no salió ya van como 3 minutos
+48|Testigo|31|Neutral|intoxicacion|Mi cuate tomó mucho y no responde está pálido y vomita
+49|Testigo|28|Neutral|ataque_cardiaco|Siento como si me estuvieran acuchillando tengo mucho dolor el pecho y me duele el estómago necesito ir al hospital
+50|Testigo|35|Neutral|anafilaxia|Mi vecina se está poniendo morada por un camarón que comió
+51|Testigo|34|Emocional|trauma|Mi carnal se cayó del segundo piso No respira y tiene sangre en la boca estoy desesperado
+52|Testigo|29|Emocional|trauma|Mi morra quedó prensada en el coche No responde y tiene un fierro en la pierna ayudame güey
+53|Testigo|31|Emocional|derrame_cerebral|Mi jefe se desmayó en la oficina No respira y está pálido tengo mucho miedo
+54|Testigo|27|Emocional|trauma|Mi cuate se cayó con la barra en el cuello Está morado y no respira está grave
+55|Testigo|33|Emocional|intoxicacion|Mi roomie no despierta Está tieso y no respira no sé qué pedo llamen a una ambulancia
+56|Testigo|30|Emocional|trauma|Mi compa se cayó en la obra Sangra de la nariz y no se mueve estoy muy asustado
+57|Testigo|35|Emocional|trauma|Mi amigo no respira Tiene sangre en la boca después del choque no sé si está vivo
+58|Testigo|28|Emocional|convulsion|Ayudame Mi novia se desmayó Está convulsionando y echando espuma no sé qué hacer
+59|Testigo|32|Emocional|intoxicacion|Mi roomie no despierta Respira muy lento y hace ruidos raros se va a morir tengo mucho miedo
+60|Testigo|34|Emocional|trauma|Mi hermano voló de la moto Tiene el brazo doblado y sangra mucho ayuda
+61|Testigo|29|Caotico|trauma|CARNAL SEGUNDO PISO NO RESPIRA SANGRE AYUDA AYUDA
+62|Testigo|31|Caotico|trauma|MORRA PRENSADA FIERRO PIERNA NO RESPONDE WE
+63|Testigo|28|Caotico|derrame_cerebral|JEFE DESMAYADO NO RESPIRA PÁLIDO AYUDA AYUDA
+64|Testigo|33|Caotico|trauma|CARNAL BARRA CUELLO CULERO MORADO NO RESPIRA AYUDA
+65|Testigo|30|Caotico|intoxicacion|SE MORIR ROOMIE TIESO NO RESPIRA AMBULANCIA AYUDA
+66|Testigo|35|Caotico|trauma|COMPA OBRA SANGRE NARIZ NO MUEVE AYUDA
+67|Testigo|27|Caotico|trauma|AMIGO NO RESPIRA SANGRE BOCA AYUDAME AYUDA
+68|Testigo|32|Caotico|convulsion|NOVIA CONVULSIONA ESPUMA NO SÉ AYUDAME
+69|Testigo|29|Caotico|intoxicacion|PORFAVOR ROOMIE NO DESPIERTA RESPIRA LENTO
+70|Testigo|34|Caotico|trauma|HOSPITAL HERMANO MOTO SANGRE BRAZO DOBLADO AYUDA
+71|Victima|30|Formal|ataque_cardiaco|Siento un dolor intenso en el pecho no puedo respirar
+72|Victima|33|Formal|ataque_cardiaco|Tengo mucho dolor siento presión en el pecho no puedo respirar
+73|Victima|28|Formal|trauma|Mi primo se cayó de la moto estaba bien y se desamayó de pronto no responde
+74|Victima|31|Formal|anafilaxia|Me comí un camarón en la playa y se me empezó a hinchar la garganta y la cara no puedo respirar bien y siento que me hormiguea el cuerpo
+75|Victima|29|Formal|anafilaxia|Me picó una abeja y siento que se me está cerrando la garganta me hormiguea todo el cuerpo y me duele mucho el pecho
+76|Testigo|34|Formal|intoxicacion|Mi hijo comió algo se empezó a hinchar ahora tiene mucho dolor en el pecho y no para de vomitar qué hago
+77|Victima|27|Formal|hemorragia_grave|Me corté la mano con el cuchillo siento que no puedo respirar bien y la sangre no para
+78|Testigo|32|Slang|trauma|No mames mi primo se clavó un vidrio en el brazo y no para de sangrar está blanco qué hago
+79|Testigo|30|Formal|trauma|Mi compañero se cayó y se golpeó la cabeza esta sangrando mucho se puso pálido y perdió el conocimiento
+80|Victima|35|Formal|intoxicacion|Mi amigo tomó demasiado alcohol en la fiesta ahora está inconsciente no responde cuando le hablo y respira muy lento
+81|Victima|29|Slang|herida_balazo|Me chingaron me dieron un balazo en la pata y no deja de sangrar ya estoy viendo borroso güey ayúdame
+82|Victima|32|Slang|trauma|No mames se me metió un tráiler y me estampé no siento las patas y veo bien borroso me voy a morir
+83|Victima|28|Slang|trauma|Me caí de la moto y veo la carne del brazo está bien culero no para de sangrar duele
+84|Victima|30|Slang|herida_balazo|Me dieron un balazo en la pierna no deja de sangrar y ya me estoy mareando wey me duele
+85|Victima|33|Slang|hemorragia_grave|Me picó una mantarraya y no deja de sangrar me duele bien gacho la pierna no puedo caminar
+86|Victima|29|Slang|intoxicacion|Wey me duele la panza bien cabrón como si me acuchillaran estoy sudando frío y no me puedo parar
+87|Victima|31|Slang|hemorragia_grave|güey me corté la mano y no para la sangre veo puntitos y me estoy mareando está bien gacho no sé que hacer güey
+88|Victima|34|Slang|trauma|Me quebré la muñeca el hueso se ve y sangra no puedo mover los dedos está bien culero
+89|Victima|27|Slang|trauma|Me cayó un block en la cabeza estoy sangrando un chingo y creo que me voy a desmayar wey
+90|Victima|32|Slang|hemorragia_grave|Mi vieja me cortó el brazo con un cuchillo no para de sangrar y me estoy mareando
+91|Victima|28|Errores|ataque_cardiaco|Me duele el pecho bien feo como si alguien me estubiera apuñalando no puedo respirar
+92|Victima|33|Errores|trauma|iba manejando y un camion me choco de frente el volante me aplasto el pecho
+93|Victima|30|Errores|trauma|Me caí de la moto en la carretera tengo raspado todo el brazo y veo la carnee
+94|Victima|29|Errores|trauma|Me cayó una lamina en la obra me aplasto la pierna y no la siento
+95|Victima|34|Errores|hemorragia_grave|Me pico una mantarraya en la playa no dejo de sangrar y me duele hasta la pierna
+96|Victima|27|Errores|intoxicacion|Me dio un dolor bien culero en la panza como si me explotara algo
+97|Victima|31|Errores|hemorragia_grave|Me corte la mano con una sierra no para de sangrar y me estoy mareando
+98|Victima|32|Errores|trauma|me resbale en el baño y me quebre la muñeca el hueso se ve atrabesado
+99|Victima|28|Errores|herida_balazo|me dispararon en la pierna en la colonia no para de sangrar y me boy a desmayar
+100|Victima|35|Errores|trauma|Me cayó un block en la cabeza me duele bien feo y estoy sangrando un chingo
+101|Testigo|30|Slang|trauma|Mi compa se cayó del andamio y no se mueve wey está bien grave le está sangrando mucho la nariz
+102|Testigo|33|Slang|trauma|Mi carnal voló en el choque no respira y tiene sangre en la boca qué pedo güey que hago
+103|Testigo|29|Slang|convulsion|Mi morra se desmayó y está convulsionando wey no sé qué hacer culero
+104|Testigo|31|Slang|intoxicacion|Tengo miedo Mi roomie no despierta wey respira bien lento y hace ruidos raros
+105|Testigo|34|Slang|trauma|Mi hermano voló de la moto y está en el suelo con el brazo doblado sangra un chingo
+106|Testigo|28|Slang|trauma|A mi compa le cayó un tubo en la cabeza está inconsciente y está sangrando del oído
+107|Testigo|32|Slang|ahogamiento|Mi cuate se metió al río y no salió wey ya van 3 minutos creo que se ahogó
+108|Testigo|30|Slang|intoxicacion|Mi compa tomó mucho y no responde está pálido y vomita no lo puedo despertar qué pedo qué hago
+109|Testigo|33|Emocional|intoxicacion|Ayudame porfavor Mi hermano se tomó toda una botella de tequila y ahora no despierta está pálido respira raro y no lo puedo mover
+110|Testigo|29|Slang|anafilaxia|Mi vecina se está poniendo morada no puede respirar wey se comió un camarón y se le hinchó la cara qué tengo que hacer
+111|Testigo|31|Errores|trauma|Mi compa se cayó del andamio esta en el suelo y no se mueve
+112|Testigo|28|Errores|trauma|Mi amigo del copiloto no respira despues del choque
+113|Testigo|34|Errores|convulsion|Mi novia se desmayo y esta convulsionando en el antro no se que hacer
+114|Testigo|30|Errores|intoxicacion|Mi roomie se tomo pastillas y no despierta respira muy lento
+115|Testigo|33|Errores|trauma|Mi hermano volo de la moto y esta en el suelo con el brazo doblado
+116|Testigo|29|Errores|trauma|A mi compañero le cayo un tubo en la cabeza y esta inconsciente
+117|Testigo|32|Errores|ahogamiento|Ayuda Mi amigo se metio al rio y no salio ya van como 3 minutos
+118|Testigo|31|Errores|intoxicacion|Mi cuate tomo mucho y no responde esta palido y vomita que hago
+119|Testigo|35|Errores|atragantamiento|El gato aplasto a mi primo no puede respirar y esta morado
+120|Testigo|27|Errores|anafilaxia|Porfavor ayudame mi vecina se esta poniendo morada por un camaron que comio
+121|Victima|19|Neutral|herida_balazo|Me dispararon en la pierna en la colonia no para de sangrar y me estoy mareando
+122|Testigo|22|Neutral|trauma|Un carro chocó una persona está inconsciente no respira y a otro le duele el pecho
+123|Victima|18|Neutral|ahogamiento|Una corriente arrastró a mi amigo mientras nadaba en la playa tiene tos y le cuesta trabajo respirar
+124|Victima|20|Neutral|trauma|Me cayó una lámina en la obra me aplastó la pierna y no la siento
+125|Victima|17|Neutral|intoxicacion|Alguien le puso algo a mi bebida en la fiesta no controlo mi cuerpo
+126|Testigo|23|Neutral|intoxicacion|Creo que alguien le puso algo a la bebida de mi amigo en la fiesta Ahora no controla su cuerpo y no responde tengo mucho miedo
+127|Victima|16|Neutral|trauma|Choqué jugando fútbol me golpeé la cabeza y veo borroso
+128|Victima|24|Neutral|trauma|Me resbalé en la regadera y me quebré la muñeca
+129|Victima|21|Neutral|anafilaxia|Me picó un alacrán en el pie se me hincha la garganta
+130|Victima|18|Neutral|trauma|Me caí de una moto en la carretera tengo raspado todo el brazo
+131|Victima|19|Emocional|herida_balazo|Ayudame Me dispararon No para de sangrar y me mareo creo que me voy a desmayar
+132|Victima|22|Emocional|trauma|Tengo miedo Choqué en la carretera Me duele el pecho y no puedo respirar
+133|Victima|18|Emocional|ahogamiento|Creo que necesito ir al hospital Wey casi me ahogo en la playa me cuesta trabajo respirar me voy a morir
+134|Victima|20|Emocional|trauma|No mames Me cayó una lámina en la pierna No la siento y veo el hueso me duele muchísimo
+135|Victima|17|Emocional|intoxicacion|Alguien le puso algo a mi bebida No controlo mi cuerpo y me tiembla todo tengo miedo
+136|Victima|23|Emocional|trauma|Me reventaron el tímpano Sangra y no escucho nada me duele muchísimo
+137|Victima|16|Emocional|trauma|Wey choqué jugando fútbol Veo borroso y no recuerdo nada me duele la cabeza
+138|Victima|24|Emocional|trauma|Me quebré la muñeca El hueso se ve y sangra no puedo mover los dedos
+139|Victima|21|Emocional|anafilaxia|Me duele mucho ayudame me picó un alacrán Se me hincha la garganta y no puedo respirar tengo miedo
+140|Victima|18|Emocional|trauma|Me caí de la moto Veo la carne del brazo y no para de sangrar me arde mucho
+141|Victima|19|Caotico|herida_balazo|DISPARO PIERNA SANGRE MAREADO DESMAYAR AYUDA AYUDA
+142|Victima|22|Caotico|trauma|CHOQUE CARreTERA DUELE PECHO NO RESPIRO AYUDA
+143|Victima|18|Caotico|ahogamiento|AHOGO PLAYA TOS SANGRE DUELE TODO AYUDA
+144|Victima|20|Caotico|trauma|LÁMINA PIERNA HUESO SANGRE AYUDA AYUDA
+145|Victima|17|Caotico|intoxicacion|BEBIDA ALGUIEN ALGO NO CONTROLAR TIEMBLO AYUDA
+146|Victima|23|Caotico|trauma|TÍMPANO ROTO SANGRE OÍDO NO ESCUCHO AYUDA
+147|Victima|16|Caotico|trauma|FÚTBOL GOLPE CABEZA BORROSO NO RECUERDO AYUDA
+148|Victima|24|Caotico|trauma|MUÑECA QUEBRADA HUESO SANGRE DEDOS AYUDA
+149|Victima|21|Caotico|anafilaxia|ALACRÁN PIE GARGANTA HINCHADA NO RESPIRAR AYUDA
+150|Victima|18|Caotico|trauma|MOTO CARNE BRAZO SANGRE NO PARA AYUDA
+151|Victima|19|Slang|herida_balazo|Me chingaron me dieron un balazo en la pata y no deja de sangrar ya me estoy desmayando güey
+152|Victima|22|Slang|trauma|No mames choqué bien feo en la carretera el volante me aplastó el pecho wey
+153|Victima|18|Slang|ahogamiento|Casi me ahogo en la playa tos con sangre y me duele todo qué mal pedo
+154|Victima|20|Slang|trauma|Me cayó una lámina en la chamba me aplastó la pata la tengo doblada y veo el hueso
+155|Victima|17|Slang|intoxicacion|En la peda alguien le puso algo a mi chela no controlo mi cuerpo y tiemblo bien cabrón
+156|Victima|23|Slang|trauma|Mi morra me dio una cachetada y me reventó el oído tengo sangre y no escucho nada
+157|Victima|16|Slang|trauma|Estaba jugando fútbol y choqué veo borroso y no recuerdo nada está bien feo
+158|Victima|24|Slang|trauma|Me resbalé en la regadera y me quebré la muñeca el hueso se ve está bien culero
+159|Victima|21|Slang|anafilaxia|Me picó un alacrán se me hincha la garganta y no puedo respirar qué miedo wey
+160|Victima|18|Slang|trauma|Me caí de la moto y veo la carne del brazo no para de sangrar está bien gacho
+161|Testigo|22|Neutral|trauma|Mi compa se cayó en la obra sangra de la nariz y no se mueve
+162|Testigo|19|Neutral|trauma|Mi amigo no respira después del choque tiene sangre en la boca
+163|Testigo|23|Neutral|convulsion|Mi novia se desmayó en el antro y está convulsionando
+164|Testigo|20|Neutral|intoxicacion|Mi roomie se tomó pastillas y no despierta respira lento
+165|Testigo|18|Neutral|trauma|Mi hermano voló de la moto tiene el brazo doblado y sangra
+166|Testigo|24|Neutral|trauma|A mi compañero le cayó un tubo en la cabeza
+167|Testigo|21|Neutral|ahogamiento|Mi amigo se metió al río y no salió ya van 3 minutos
+168|Testigo|17|Neutral|intoxicacion|Mi cuate tomó mucho y no responde está pálido y vomita
+169|Testigo|22|Neutral|atragantamiento|El gato aplastó a mi primo no puede respirar y está morado
+170|Testigo|19|Neutral|anafilaxia|Mi vecina se está poniendo morada y no puede respirar
+171|Testigo|22|Emocional|trauma|Mi compa se cayó en la obra Sangra de la nariz y no se mueve estoy muy asustado
+172|Testigo|19|Emocional|trauma|Mi amigo no respira Tiene sangre en la boca después del choque no sé si está vivo
+173|Testigo|23|Emocional|convulsion|Mi novia se desmayó Está convulsionando y echando espuma no sé qué hacer
+174|Testigo|20|Emocional|intoxicacion|Mi roomie no despierta Respira muy lento y hace ruidos raros tengo mucho miedo
+175|Testigo|18|Emocional|trauma|Mi hermano voló de la moto Tiene el brazo doblado y sangra mucho ayuda
+176|Testigo|24|Emocional|trauma|A mi compañero le cayó un tubo Está inconsciente y sangra del oído no reacciona
+177|Testigo|21|Emocional|ahogamiento|Mi amigo se ahogó en el río No sale ya van 3 minutos no lo encuentro
+178|Testigo|17|Emocional|intoxicacion|Mi cuate no responde Tomó mucho y está pálido vomita y no lo despierto
+179|Testigo|22|Emocional|atragantamiento|El gato aplastó a mi primo No puede respirar y está morado tose sangre
+180|Testigo|19|Emocional|anafilaxia|Mi vecina no respira Tiene la cara hinchada y se puso morada se comió un camarón
+181|Testigo|22|Caotico|trauma|COMPA OBRA SANGRE NARIZ NO MUEVE AYUDA AYUDA
+182|Testigo|19|Caotico|trauma|AMIGO NO RESPIRA SANGRE BOCA AYUDA AYUDA
+183|Testigo|23|Caotico|convulsion|NOVIA CONVULSIONA ESPUMA NO SÉ AYUDA
+184|Testigo|20|Caotico|intoxicacion|ROOMIE NO DESPIERTA RESPIRA LENTO AYUDA
+185|Testigo|18|Caotico|trauma|HERMANO MOTO SANGRE BRAZO DOBLADO AYUDA
+186|Testigo|24|Caotico|trauma|TUBO CABEZA SANGRE OÍDO NO REACCIONA AYUDA
+187|Testigo|21|Caotico|ahogamiento|RÍO AMIGO NO SALE 3 MINUTOS AYUDA AYUDA
+188|Testigo|17|Caotico|intoxicacion|CUATE VOMITA PÁLIDO NO RESPONDE AYUDA
+189|Testigo|22|Caotico|atragantamiento|PRIMO GATO MORADO NO RESPIRA AYUDA
+190|Testigo|19|Caotico|anafilaxia|VECINA MORADA CARA HINCHADA AYUDA
+191|Testigo|22|Slang|trauma|Mi compa se cayó en la obra wey sangra de la nariz y no se mueve está bien grave
+192|Testigo|19|Slang|trauma|Mi amigo no respira después del choque tiene sangre en la boca qué pedo güey
+193|Testigo|23|Slang|convulsion|Mi novia se desmayó en el antro y está convulsionando no sé qué hacer wey
+194|Testigo|20|Slang|intoxicacion|Mi roomie se tomó pastillas y no despierta respira bien lento qué miedo güey
+195|Testigo|18|Slang|trauma|Mi hermano voló de la moto tiene el brazo doblado y sangra un chingo está bien culero
+196|Testigo|24|Slang|trauma|A mi compa le cayó un tubo en la cabeza y no reacciona wey está canijo
+197|Testigo|21|Slang|ahogamiento|Mi cuate se metió al río y no salió ya van 3 minutos creo que se ahogó qué mal pedo
+198|Testigo|17|Slang|intoxicacion|Mi compa tomó mucho y no responde está pálido y vomita no lo puedo despertar güey
+199|Testigo|22|Slang|atragantamiento|güey güey güey el aplastó a mi primo no puede respirar y se esta poniendo morado
+200|Testigo|19|Slang|anafilaxia|Mi vecina se está poniendo morada wey se comió un camarón y se le hinchó la cara
+201|Victima|19|Errores|herida_balazo|Me dispararon en la pierna no para de sangrar y me estoy mareando
+202|Victima|22|Errores|trauma|Voy manejando en la carretera y choque me duele el pecho y no puedo respirar
+203|Victima|18|Errores|ahogamiento|Me metí a nadar a la playa y una corriente me arrastro casi me ahogo
+204|Victima|20|Errores|trauma|Me cayo una lamina en la obra me aplasto la pierna y no la siento
+205|Victima|17|Errores|intoxicacion|Alguien le puso algo a mi bebida en la fiesta no controlo mi cuerpo
+206|Victima|23|Errores|trauma|Mi novia me revento el timpano tengo sangre en el oido y no escucho
+207|Victima|16|Errores|trauma|Choque jugando futbol me golpee la cabeza y veo borroso
+208|Victima|24|Errores|trauma|Me resbale en la regadera y me quiebre la muñeca
+209|Victima|21|Errores|anafilaxia|Me pico un alacran en el pie se me hincha la garganta
+210|Victima|18|Errores|trauma|Me cai de una moto en la carretera tengo raspado todo el brazo
+211|Victima|45|Neutral|trauma|Me caí de una escalera de 3 metros y me fracturé la muñeca no puedo mover la mano
+212|Victima|38|Emocional|derrame_cerebral|Mi esposo no puede hablar y tiene la boca torcida creo que está teniendo un derrame
+213|Victima|22|Slang|herida_balazo|Wey me alcanzó una bala en el hombro no para de sangrar y me estoy mareando
+214|Victima|50|Neutral|congelamiento|Llevo 6 horas en el frío mis dedos están negros y no los siento
+215|Victima|33|Caotico|hemorragia_grave|ME CORTÉ LA PIERNA Y NO PARA DE SANGRAR AYUDA AYUDA
+216|Victima|27|Emocional|anafilaxia|Me picó una abeja en el cuello y no puedo respirar se me está cerrando la garganta
+217|Victima|41|Neutral|intoxicacion|Mi hijo se tomó el líquido de abajo del lavabo está vomitando y no responde
+218|Victima|29|Slang|atragantamiento|No mames mi morro se atoró con una canica y no respira qué hago
+219|Victima|55|Formal|ataque_cardiaco|Me duele el pecho y siento que me falta el aire el dolor me sube al brazo izquierdo
+220|Victima|19|Caotico|ahogamiento|CASI ME AHOGO EN LA PLAYA TOSO SANGRE Y NO PUEDO RESPIRAR AYUDA
+221|Victima|62|Neutral|ataque_cardiaco|Me duele el pecho y se me sube al brazo izquierdo no puedo respirar bien
+222|Victima|58|Emocional|derrame_cerebral|Mi papá no puede mover un lado de la cara y no habla bien necesito ayuda
+223|Victima|47|Neutral|hemorragia_grave|Me corté la pierna con una motosierra no para de sangrar y me estoy mareando
+224|Victima|34|Slang|trauma|No mames me caí de la moto y me raspé todo el brazo veo la carne está bien culero
+225|Victima|29|Caotico|convulsion|NO PUEDO PARAR DE TEMBLAR CONVULSIONES AYUDA AYUDA
+226|Victima|44|Formal|anafilaxia|Me picó una avispa y la garganta se me está cerrando requiero atención inmediata
+227|Victima|51|Neutral|intoxicacion|Mi esposa tomó unas pastillas y no despierta respira muy lento no sé qué hacer
+228|Victima|25|Slang|atragantamiento|Wey me atoré con un hueso no puedo respirar me pongo morado
+229|Victima|67|Formal|ataque_cardiaco|Dolor intenso en el pecho con irradiación al brazo izquierdo y sudoración fría
+230|Victima|32|Caotico|ahogamiento|ME AHOGUÉ EN EL RÍO TOSO SANGRE Y NO PUEDO RESPIRAR AYUDA
+231|Victima|36|Neutral|trauma|Choqué en la carretera el volante me aplastó el pecho y no puedo respirar
+232|Victima|43|Emocional|derrame_cerebral|Mi mamá no puede hablar y tiene la boca torcida está tirada en el suelo
+233|Victima|28|Slang|herida_balazo|Me chingaron me dieron un balazo en la espalda no para de sangrar
+234|Victima|54|Neutral|congelamiento|Llevo horas en la nieve mis dedos están blancos y no los siento
+235|Victima|31|Caotico|hemorragia_grave|ME CORTÉ LA MANO Y NO PARA DE SANGRAR VEO BLANCO AYUDA
+236|Victima|39|Emocional|anafilaxia|Me comí un camarón y se me está hinchando la garganta no puedo respirar
+237|Victima|46|Neutral|intoxicacion|Mi hijo se tomó el líquido de abajo del lavabo no responde y está vomitando
+238|Victima|24|Slang|atragantamiento|Wey mi sobrino se atoró con un dulce y no respira
+239|Victima|63|Formal|ataque_cardiaco|Dolor opresivo en el pecho que se extiende al brazo y mandíbula
+240|Victima|21|Caotico|ahogamiento|CASI ME AHOGO EN EL MAR TOSO SANGRE AYUDA
+241|Victima|40|Neutral|trauma|Me caí de un andamio de 4 metros y me fracturé la pierna no puedo caminar
+242|Victima|37|Emocional|derrame_cerebral|Mi tío no puede mover la mitad del cuerpo y no habla
+243|Victima|26|Slang|herida_balazo|Wey me dieron un balazo en la pierna no deja de sangrar
+244|Victima|52|Neutral|congelamiento|Mis dedos de los pies están morados y no los siento
+245|Victima|35|Caotico|hemorragia_grave|ME CORTÉ EL BRAZO CON UN VIDRIO NO PARA DE SANGRAR
+246|Victima|42|Emocional|anafilaxia|Me picó una abeja y se me está cerrando la garganta tengo miedo
+247|Victima|49|Neutral|intoxicacion|Mi hermana tomó demasiadas pastillas y no despierta
+248|Victima|23|Slang|atragantamiento|No mames mi compa se atoró con un hueso y no respira
+249|Victima|68|Formal|ataque_cardiaco|Dolor en el pecho acompañado de náuseas y sudoración
+250|Victima|30|Caotico|ahogamiento|CASI ME AHOGO EN LA ALBERCA TOSO SANGRE
+251|Victima|33|Neutral|trauma|Me cayó una tabla con clavos en la pierna se me atravesó y no deja de sangrar
+252|Victima|44|Emocional|derrame_cerebral|Mi esposa no puede hablar y tiene la boca torcida
+253|Victima|29|Slang|herida_balazo|Me dieron un balazo en la pierna wey no para de sangrar
+254|Victima|56|Neutral|congelamiento|Mis manos están blancas y no las siento por el frío
+255|Victima|32|Caotico|hemorragia_grave|ME CORTÉ LA PIERNA CON UNA SIERRA SANGRE AYUDA
+256|Victima|41|Emocional|anafilaxia|Me picó una avispa y no puedo respirar se me cierra la garganta
+257|Victima|48|Neutral|intoxicacion|Mi mamá se tomó unas pastillas y no responde
+258|Victima|27|Slang|atragantamiento|Wey mi niño se atoró con un juguete no respira
+259|Victima|65|Formal|ataque_cardiaco|Dolor torácico con irradiación al brazo izquierdo y dificultad respiratoria
+260|Victima|22|Caotico|ahogamiento|ME AHOGUÉ EN EL MAR NO PUEDO RESPIRAR
+261|Victima|39|Neutral|trauma|Me caí de las escaleras y me golpeé la cabeza veo borroso
+262|Victima|46|Emocional|derrame_cerebral|Mi papá no puede hablar y tiene la cara torcida ayuda
+263|Victima|34|Slang|herida_balazo|No mames me dieron un balazo en la pierna
+264|Victima|53|Neutral|congelamiento|Mis dedos están negros por el frío y no los siento
+265|Victima|31|Caotico|hemorragia_grave|ME CORTÉ LA MANO SANGRE NO PARA AYUDA
+266|Victima|43|Emocional|anafilaxia|Me comí un marisco y se me hincha la garganta no puedo respirar
+267|Victima|50|Neutral|intoxicacion|Mi hija tomó algo que no debía y no despierta
+268|Victima|28|Slang|atragantamiento|Wey me atoré con la comida no respiro
+269|Victima|66|Formal|ataque_cardiaco|Dolor en el pecho que sube al brazo y mandíbula
+270|Victima|25|Caotico|ahogamiento|CASI ME AHOGO EN LA PLAYA AYUDA
+271|Victima|35|Neutral|trauma|Me caí de la bicicleta y me raspé todo el brazo está sangrando
+272|Victima|47|Emocional|derrame_cerebral|Mi abuelo no puede mover el lado izquierdo del cuerpo
+273|Victima|30|Slang|herida_balazo|Me chingaron wey me dieron un balazo
+274|Victima|54|Neutral|congelamiento|Tengo congelamiento en los dedos de los pies
+275|Victima|33|Caotico|hemorragia_grave|SANGRE MUCHA SANGRE AYUDA
+276|Victima|42|Emocional|anafilaxia|Me picó una abeja y no puedo respirar tengo miedo
+277|Victima|49|Neutral|intoxicacion|Mi hermano tomó pastillas y no despierta
+278|Victima|26|Slang|atragantamiento|No mames me atoré con un hueso
+279|Victima|64|Formal|ataque_cardiaco|Dolor en el pecho y dificultad para respirar
+280|Victima|23|Caotico|ahogamiento|ME AHOGUÉ EN EL RÍO AYUDA
+281|Victima|38|Neutral|trauma|Me caí de la moto y me fracturé la pierna
+282|Victima|45|Emocional|derrame_cerebral|Mi mamá tiene la boca torcida y no habla
+283|Victima|32|Slang|herida_balazo|Wey me dieron un balazo en el brazo
+284|Victima|55|Neutral|congelamiento|No siento los dedos por el frío
+285|Victima|34|Caotico|hemorragia_grave|ME CORTÉ Y NO PARA DE SANGRAR
+286|Victima|41|Emocional|anafilaxia|Se me cierra la garganta por una picadura
+287|Victima|50|Neutral|intoxicacion|Mi esposo tomó pastillas y no responde
+288|Victima|29|Slang|atragantamiento|Wey no puedo respirar me atoré
+289|Victima|67|Formal|ataque_cardiaco|Dolor torácico intenso y sudoración
+290|Victima|24|Caotico|ahogamiento|CASI ME AHOGO AYUDA
+291|Victima|37|Neutral|trauma|Me caí de un árbol y me fracturé el brazo
+292|Victima|48|Emocional|derrame_cerebral|Mi papá no puede hablar ni mover la cara
+293|Victima|31|Slang|herida_balazo|Me dieron un balazo wey
+294|Victima|56|Neutral|congelamiento|Tengo los dedos congelados y no los siento
+295|Victima|35|Caotico|hemorragia_grave|SANGRE NO PARA AYUDA
+296|Victima|43|Emocional|anafilaxia|No puedo respirar por una picadura
+297|Victima|51|Neutral|intoxicacion|Mi mamá tomó pastillas y no despierta
+298|Victima|28|Slang|atragantamiento|Wey no respiro me atoré
+299|Victima|69|Formal|ataque_cardiaco|Dolor en el pecho y el brazo izquierdo
+300|Victima|26|Caotico|ahogamiento|ME AHOGUÉ AYUDA
+301|Victima|44|Neutral|trauma|Me caí de la escalera y me fracturé la pierna
+302|Victima|49|Emocional|derrame_cerebral|Mi esposo no puede hablar ni mover la cara
+303|Victima|33|Slang|herida_balazo|No mames me dieron un balazo en la pierna
+304|Victima|58|Neutral|congelamiento|Mis dedos están blancos y no los siento
+305|Victima|36|Caotico|hemorragia_grave|ME CORTÉ EL BRAZO SANGRE AYUDA
+306|Victima|45|Emocional|anafilaxia|Se me está cerrando la garganta no puedo respirar
+307|Victima|52|Neutral|intoxicacion|Mi hijo tomó algo y no despierta
+308|Victima|30|Slang|atragantamiento|No mames me atoré con la comida
+309|Victima|70|Formal|ataque_cardiaco|Dolor en el pecho y falta de aire
+310|Victima|27|Caotico|ahogamiento|CASI ME AHOGO AYUDA AYUDA
+311|Victima|40|Neutral|trauma|Me caí de la bicicleta y me fracturé el brazo
+312|Victima|46|Emocional|derrame_cerebral|Mi mamá tiene la cara torcida no habla
+313|Victima|34|Slang|herida_balazo|Wey me dieron un balazo en la pierna
+314|Victima|55|Neutral|congelamiento|Tengo congelamiento en las manos
+315|Victima|32|Caotico|hemorragia_grave|SANGRE MUCHA SANGRE AYUDA RÁPIDO
+316|Victima|44|Emocional|anafilaxia|No puedo respirar por la picadura de una abeja
+317|Victima|53|Neutral|intoxicacion|Mi hermana tomó pastillas y no responde
+318|Victima|29|Slang|atragantamiento|Wey me atoré con un hueso no respiro
+319|Victima|68|Formal|ataque_cardiaco|Dolor intenso en el pecho y brazo izquierdo
+320|Victima|25|Caotico|ahogamiento|ME AHOGUÉ EN EL MAR AYUDA
+321|Victima|42|Neutral|trauma|Me caí de la moto y me fracturé la pierna
+322|Victima|47|Emocional|derrame_cerebral|Mi papá no puede mover el brazo ni hablar
+323|Victima|35|Slang|herida_balazo|No mames me dieron un balazo en la pierna
+324|Victima|57|Neutral|congelamiento|No siento los dedos de los pies
+325|Victima|33|Caotico|hemorragia_grave|ME CORTÉ Y NO PARA DE SANGRAR AYUDA
+326|Victima|46|Emocional|anafilaxia|Se me cierra la garganta por una picadura de avispa
+327|Victima|54|Neutral|intoxicacion|Mi esposo tomó algo y no despierta
+328|Victima|31|Slang|atragantamiento|Wey no puedo respirar me atoré
+329|Victima|66|Formal|ataque_cardiaco|Dolor en el pecho y sudoración fría
+330|Victima|28|Caotico|ahogamiento|CASI ME AHOGO EN EL RÍO AYUDA
+331|Victima|43|Neutral|trauma|Me caí de las escaleras y me fracturé la muñeca
+332|Victima|50|Emocional|derrame_cerebral|Mi hermana tiene la boca torcida no habla
+333|Victima|36|Slang|herida_balazo|Me chingaron me dieron un balazo en la pierna
+334|Victima|59|Neutral|congelamiento|Mis dedos están congelados y no los siento
+335|Victima|34|Caotico|hemorragia_grave|ME CORTÉ LA PIERNA Y NO PARA DE SANGRAR
+336|Victima|47|Emocional|anafilaxia|No puedo respirar por una picadura de abeja
+337|Victima|55|Neutral|intoxicacion|Mi hijo tomó pastillas y no despierta
+338|Victima|32|Slang|atragantamiento|No mames me atoré con la comida no respiro
+339|Victima|69|Formal|ataque_cardiaco|Dolor en el pecho que sube al brazo
+340|Victima|29|Caotico|ahogamiento|ME AHOGUÉ EN LA ALBERCA AYUDA
+341|Victima|45|Neutral|trauma|Me caí de un segundo piso y me fracturé la pierna
+342|Victima|51|Emocional|derrame_cerebral|Mi esposo no puede mover el lado izquierdo
+343|Victima|37|Slang|herida_balazo|Wey me dieron un balazo en la pierna
+344|Victima|60|Neutral|congelamiento|Tengo congelamiento en los dedos de las manos
+345|Victima|35|Caotico|hemorragia_grave|SANGRE NO PARA AYUDA AYUDA
+346|Victima|48|Emocional|anafilaxia|Se me está cerrando la garganta no puedo respirar
+347|Victima|56|Neutral|intoxicacion|Mi hermana tomó pastillas y no responde
+348|Victima|33|Slang|atragantamiento|Wey me atoré con un hueso no respiro
+349|Victima|70|Formal|ataque_cardiaco|Dolor torácico intenso y falta de aire
+350|Victima|30|Caotico|ahogamiento|CASI ME AHOGO EN LA PLAYA AYUDA
+351|Victima|41|Neutral|trauma|Me caí de la bicicleta y me fracturé el brazo
+352|Victima|49|Emocional|derrame_cerebral|Mi papá tiene la cara torcida no habla
+353|Victima|38|Slang|herida_balazo|No mames me dieron un balazo en el hombro
+354|Victima|54|Neutral|congelamiento|Mis manos están blancas y no las siento
+355|Victima|34|Caotico|hemorragia_grave|ME CORTÉ EL BRAZO Y NO PARA DE SANGRAR
+356|Victima|46|Emocional|anafilaxia|Me picó una avispa y no puedo respirar
+357|Victima|53|Neutral|intoxicacion|Mi hermano tomó algo y no despierta
+358|Victima|31|Slang|atragantamiento|Wey no respiro me atoré
+359|Victima|67|Formal|ataque_cardiaco|Dolor en el pecho y brazo izquierdo
+360|Victima|27|Caotico|ahogamiento|ME AHOGUÉ EN EL RÍO AYUDA
+361|Victima|44|Neutral|trauma|Me caí de la escalera y me fracturé la pierna
+362|Victima|50|Emocional|derrame_cerebral|Mi mamá no puede mover la cara ni hablar
+363|Victima|36|Slang|herida_balazo|Wey me dieron un balazo en la pierna
+364|Victima|58|Neutral|congelamiento|No siento los dedos de los pies
+365|Victima|33|Caotico|hemorragia_grave|SANGRE MUCHA SANGRE AYUDA
+366|Victima|47|Emocional|anafilaxia|No puedo respirar por una picadura de abeja
+367|Victima|55|Neutral|intoxicacion|Mi esposa tomó pastillas y no despierta
+368|Victima|32|Slang|atragantamiento|No mames me atoré con la comida
+369|Victima|68|Formal|ataque_cardiaco|Dolor en el pecho y sudoración
+370|Victima|29|Caotico|ahogamiento|CASI ME AHOGO AYUDA
+371|Victima|42|Neutral|trauma|Me caí de la moto y me fracturé la pierna
+372|Victima|48|Emocional|derrame_cerebral|Mi papá tiene la boca torcida no habla
+373|Victima|37|Slang|herida_balazo|No mames me dieron un balazo
+374|Victima|56|Neutral|congelamiento|Tengo congelamiento en los dedos
+375|Victima|34|Caotico|hemorragia_grave|ME CORTÉ Y NO PARA DE SANGRAR
+376|Victima|45|Emocional|anafilaxia|Se me cierra la garganta por una picadura
+377|Victima|52|Neutral|intoxicacion|Mi hijo tomó pastillas y no responde
+378|Victima|30|Slang|atragantamiento|Wey no puedo respirar me atoré
+379|Victima|66|Formal|ataque_cardiaco|Dolor en el pecho y brazo izquierdo
+380|Victima|28|Caotico|ahogamiento|ME AHOGUÉ EN LA PLAYA AYUDA
+381|Victima|43|Neutral|trauma|Me caí de las escaleras y me fracturé la muñeca
+382|Victima|49|Emocional|derrame_cerebral|Mi esposa no puede mover el lado izquierdo
+383|Victima|35|Slang|herida_balazo|Wey me dieron un balazo en la pierna
+384|Victima|57|Neutral|congelamiento|No siento mis manos por el frío
+385|Victima|32|Caotico|hemorragia_grave|ME CORTÉ LA PIERNA SANGRE AYUDA
+386|Victima|46|Emocional|anafilaxia|No puedo respirar por una picadura de avispa
+387|Victima|54|Neutral|intoxicacion|Mi hermana tomó pastillas y no despierta
+388|Victima|31|Slang|atragantamiento|Wey me atoré con un hueso
+389|Victima|69|Formal|ataque_cardiaco|Dolor torácico y falta de aire
+390|Victima|29|Caotico|ahogamiento|CASI ME AHOGO EN EL RÍO
+391|Victima|44|Neutral|trauma|Me caí de la bicicleta y me fracturé el brazo
+392|Victima|50|Emocional|derrame_cerebral|Mi papá tiene la cara torcida
+393|Victima|38|Slang|herida_balazo|No mames me dieron un balazo en el hombro
+394|Victima|55|Neutral|congelamiento|Mis dedos están congelados
+395|Victima|33|Caotico|hemorragia_grave|SANGRE NO PARA AYUDA
+396|Victima|47|Emocional|anafilaxia|Se me está cerrando la garganta
+397|Victima|53|Neutral|intoxicacion|Mi esposo tomó pastillas y no despierta
+398|Victima|32|Slang|atragantamiento|Wey no respiro me atoré
+399|Victima|67|Formal|ataque_cardiaco|Dolor en el pecho y brazo
+400|Victima|30|Caotico|ahogamiento|ME AHOGUÉ AYUDA

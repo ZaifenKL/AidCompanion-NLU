@@ -2,7 +2,7 @@ import json
 from collections import Counter
 import os
 #----Constant Values---------------
-merged_path_ES = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Merged_Dataset\ES\hierarchy1_ES.jsonl"
+merged_path_ES = r"/Dataset_Builder/Merged\ES\hierarchy1_ES.jsonl"
 
 #-----Functions--------------------
 def check_class_balance(jsonl_path):

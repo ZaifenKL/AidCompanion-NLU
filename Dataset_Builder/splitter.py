@@ -5,7 +5,7 @@ import random
 from Dataset_Builder.loader import out_path
 
 #----Constant Values---------------
-read_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Merged_Dataset\ES\hierarchy1_ES.jsonl"
+read_path = r"/Dataset_Builder/Merged\ES\hierarchy1_ES.jsonl"
 out_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Training"
 train_name="hierarchy1_es_train"
 val_name="hierarchy1_es_val"

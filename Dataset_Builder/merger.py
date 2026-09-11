@@ -2,7 +2,7 @@ import os
 import json
 #----Constant Values---------------
 clean_json_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Cleaned"
-ouput_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Merged_Dataset"
+ouput_path = r"/Dataset_Builder/Merged"
 merged_es = "hierarchy1_ES"
 
 #-----Functions---------------------

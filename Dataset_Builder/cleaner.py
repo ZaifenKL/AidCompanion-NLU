@@ -1,12 +1,10 @@
 import os
-import pandas as pd
 import re
 import json
-
+from pathlib import Path
 #----Constant Values---------------
-dataset_raw = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Dataset_Raw"
-jsonl_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Raw"
-out_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Cleaned"
+jsonl_path_ES = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Raw\ES"
+clean_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Cleaned"
 
 #-----Functions---------------------
 def clean_text(text):
@@ -73,13 +71,19 @@ def clean_text_in_all(read_path, save_path):
 
                         cleaned_lines.append(json.dumps(data, ensure_ascii=False))
 
-                # Convert to json and save
-                current_folder = os.path.basename(root)
-                os.makedirs(os.path.join(save_path, current_folder), exist_ok=True)
+                # === Detect ES and H1 from the folder structure ===
+                p = Path(root)
+                hierarchy = p.name  # H1
+                language = p.parent.name  # ES
 
-                out_path = os.path.join(save_path, current_folder, file)
+                # Build final output folder: save_path/ES/H1
+                out_folder = os.path.join(save_path, language, hierarchy)
+                os.makedirs(out_folder, exist_ok=True)
 
-                # Overwrite the jsonl file with the clean lines
+                # Final output file
+                out_path = os.path.join(out_folder, file)
+
+                # Save cleaned JSONL
                 with open(out_path, "w", encoding="utf-8") as writer:
                     for line in cleaned_lines:
                         writer.write(line + "\n")
@@ -88,4 +92,5 @@ def clean_text_in_all(read_path, save_path):
 
 #-----Sequence-----------
 if __name__ == "__main__":
-    clean_text_in_all(jsonl_path,out_path)
+
+    clean_text_in_all(jsonl_path_ES,clean_path)

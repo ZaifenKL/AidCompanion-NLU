@@ -1,12 +1,12 @@
 import os
 import csv
-import re
-import json
+from pathlib import Path
 import pandas as pd
 #----Constant Values---------------
-dataset_raw = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Dataset_Raw"
+read_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Dataset_Raw\ES\H1"
 out_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Raw"
 relevant_columns = ["text","label"]
+first_cat_labels = ["medical_emergency","other","survival"]
 
 #-----Functions---------------------
 
@@ -66,47 +66,61 @@ def add_label_to_dataset(path,label):
 
     return df
 
-def label_all_dataset(read_path,save_path,relevant_columns):
-
+def label_all_dataset(read_path, save_path, relevant_columns, labels):
     os.makedirs(save_path, exist_ok=True)
 
-    for root, dirs, files in os.walk(read_path):
-        for file in files:
-            if file.endswith(".csv") :
+    # 1. Get csv files and alphabetic order
+    files = [f for f in os.listdir(read_path) if f.endswith(".csv")]
+    files.sort()
 
-                #Full path to the file
-                full_path = os.path.join(root, file)
+    # 2. Alphabetical orden of labels
+    labels_sorted = sorted(labels)
 
-                #Automatically extract the filename and use the label
-                if file.endswith(".csv"):
-                    base_name = file.replace(".csv","")
+    # 3. Validar que haya tantas etiquetas como archivos
+    if len(files) != len(labels_sorted):
+        raise ValueError(
+            f"The number of labels ({len(labels_sorted)}) "
+            f"does not match the number of files ({len(files)})."
+        )
 
-                base_name = base_name.replace("Dataset_","")
+    # 4. Process every file with it's own label
+    for idx, file in enumerate(files):
+        full_path = os.path.join(read_path, file)
+        label = labels_sorted[idx]
 
-                base_name = re.sub(r'(?<!^)(?=[A-Z])', '_',base_name)
-                base_name = base_name.lower()
+        # Detect csv delimiter
+        with open(full_path, 'r', encoding='utf-8') as f:
+            dialect = csv.Sniffer().sniff(f.read(2048))
+            sep = dialect.delimiter
 
-                #Now add the label to all the dataset
-                df = add_label_to_dataset(full_path,base_name)
+        df = pd.read_csv(full_path, sep=sep)
 
-                #Convert to json and save
-                current_folder = os.path.basename(root)
-                out_path = os.path.join(save_path,current_folder)
+        # Assign label
+        df["label"] = label
 
-                # Make sure that the folder exists
-                os.makedirs(out_path, exist_ok=True)
+        # Filter relevant columns
+        df = df[relevant_columns]
 
-                out_path = os.path.join(out_path, f"{base_name}.jsonl")
-                df = df[relevant_columns]
-                df.to_json(out_path, orient="records", lines=True, force_ascii=False)
+        # Detect language and hierarchy from the path
+        p = Path(full_path)
+        hierarchy = p.parent.name  # H1 or H2
+        language = p.parent.parent.name  # ES or EN
+
+        # Build output folder: save_path / language / hierarchy
+        out_folder = os.path.join(save_path, language, hierarchy)
+        os.makedirs(out_folder, exist_ok=True)
+
+        # Final output file
+        out_file = os.path.join(out_folder, f"{label}.jsonl")
+        df.to_json(out_file, orient="records", lines=True, force_ascii=False)
+
+        print(f"✔ Proccesing file: {file} → label'{label}' (alphabetic order)")
 
 
 #-----Sequence-----------
 if __name__ == "__main__":
-    #Renamed column "usuario_input" to "text"
-    #rename_column_in_all(dataset_raw,"usuario_input","text")
-    #Added "text" to relevant columns to create clean and simple jsonl
-    label_all_dataset(dataset_raw,out_path,relevant_columns)
+
+    label_all_dataset(read_path,out_path,relevant_columns,first_cat_labels)
 
 
 

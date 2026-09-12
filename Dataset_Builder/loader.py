@@ -67,6 +67,7 @@ def add_label_to_dataset(path,label):
     return df
 
 def label_all_dataset(read_path, save_path, relevant_columns, labels):
+
     os.makedirs(save_path, exist_ok=True)
 
     # 1. Get csv files and alphabetic order

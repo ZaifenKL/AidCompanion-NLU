@@ -1,12 +1,14 @@
 import os
 import json
+from pathlib import Path
 #----Constant Values---------------
-clean_json_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Cleaned"
-ouput_path = r"/Dataset_Builder/Merged"
-merged_es = "hierarchy1_ES"
+clean_json_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Cleaned\ES\H1"
+ouput_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Merged"
+merged_es_h1 = "hierarchy1_ES"
 
 #-----Functions---------------------
 def merge_jsonl(read_path, save_path, output_name):
+
     os.makedirs(save_path, exist_ok=True)
 
     merged_lines = []
@@ -29,14 +31,19 @@ def merge_jsonl(read_path, save_path, output_name):
                             # Ignorar líneas corruptas
                             continue
 
-                print(f"✔ Procesado: {full_path}")
+                print(f"✔ Merging file: {full_path}")
 
-            # Save the merged file
-            current_folder = os.path.basename(root)
-            os.makedirs(os.path.join(save_path, current_folder), exist_ok=True)
-            out_path = os.path.join(save_path, current_folder)
+    # Detect language and hierarchy from the path
+    p = Path(root)
+    hierarchy = p.parent.name  # H1 or H2
+    language = p.parent.parent.name  # ES or EN
 
-    out_file = os.path.join(out_path, f"{output_name}.jsonl")
+    # Build output folder: save_path / language / hierarchy
+    out_folder = os.path.join(save_path, language, hierarchy)
+    os.makedirs(out_folder, exist_ok=True)
+
+    out_file = os.path.join(out_folder, f"{output_name}.jsonl")
+
     with open(out_file, "w", encoding="utf-8") as writer:
         for line in merged_lines:
             writer.write(line + "\n")
@@ -45,4 +52,5 @@ def merge_jsonl(read_path, save_path, output_name):
 
 #-----Sequence-----------
 if __name__ == "__main__":
-    merge_jsonl(clean_json_path, ouput_path, merged_es)
+
+    merge_jsonl(clean_json_path, ouput_path, merged_es_h1)

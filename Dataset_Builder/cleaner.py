@@ -94,3 +94,10 @@ def clean_text_in_all(read_path, save_path):
 if __name__ == "__main__":
 
     clean_text_in_all(jsonl_path_ES,clean_path)
+
+#Nota a mi misma: aqui esta bien ya asi la funcion con os.walk va a recorrer todas las carpetas
+#dentro de la ruta  r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Raw\ES" lo que significa
+#que va a limpiar tambien todos los archivos que encuestre en las subcarpetas de esa ruta y organizarlos
+#de la mims amanera en clean_path
+
+#PERO! hay que hacer despues una funcion para cuando entrenemos el modelo en ingles!

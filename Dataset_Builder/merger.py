@@ -2,23 +2,51 @@ import os
 import json
 from pathlib import Path
 #----Constant Values---------------
-clean_json_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Cleaned\ES"
+clean_json_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Cleaned"
 ouput_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Merged"
-merged_es_h1 = "hierarchy1_ES"
-
 #-----Functions---------------------
-def merge_jsonl_single_level(read_path, save_path, output_name):
-    #Merges just one level for example if path is ES/H1 it will merge all the jsonl files in ES/H1 into one
+def merge_all_levels(read_path, save_path):
 
-    os.makedirs(save_path, exist_ok=True)
+    print(f"\n🔍 Starting merge_all_levels in: {read_path}")
+
+    # Detect languages (ES, EN)
+    languages = [folder for folder in os.listdir(read_path)
+                 if os.path.isdir(os.path.join(read_path, folder))]
+
+    print(f"📁 Languages detected: {languages}\n")
+
+    for language in languages:
+        language_path = os.path.join(read_path, language)
+
+        print(f"🌐 Processing language: {language}")
+
+        # Detect hierarchies inside ES or EN
+        hierarchies = [folder for folder in os.listdir(language_path)
+                       if os.path.isdir(os.path.join(language_path, folder))]
+
+        print(f"   📂 Hierarchies found: {hierarchies}")
+
+        for hierarchy in hierarchies:
+            hierarchy_path = os.path.join(language_path, hierarchy)
+            output_name = f"{language}_{hierarchy}"
+
+            print(f"\n   🔎 Merging hierarchy: {hierarchy}")
+            merge_jsonl_single_level(hierarchy_path, save_path, output_name, language)
+
+
+def merge_jsonl_single_level(read_path, save_path, output_name, language):
+
+    print(f"📌 merge_jsonl_single_level called for: {read_path}")
 
     merged_lines = []
+    files_found = []
 
-    # Go through all the files in the folder
     for root, dirs, files in os.walk(read_path):
         for file in files:
             if file.endswith(".jsonl"):
                 full_path = os.path.join(root, file)
+                files_found.append(full_path)
+                print(f"   ✔ Found JSONL file: {full_path}")
 
                 with open(full_path, "r", encoding="utf-8") as reader:
                     for line in reader:
@@ -29,42 +57,29 @@ def merge_jsonl_single_level(read_path, save_path, output_name):
                             data = json.loads(line)
                             merged_lines.append(json.dumps(data, ensure_ascii=False))
                         except:
-                            # Ignorar líneas corruptas
+                            print(f"   ⚠ Corrupt line ignored in {full_path}")
                             continue
 
-                print(f"✔ Merging file: {full_path}")
+    if not files_found:
+        print(f"⚠ No JSONL files found inside {read_path}. Skipping.\n")
+        return
 
-    # Detect language and hierarchy from the path
-    p = Path(full_path)
-    hierarchy = p.parent.name  # H1 or H2
-    language = p.parent.parent.name  # ES or EN
+    # Detect hierarchy from read_path
+    hierarchy = Path(read_path).name
 
-    # Build output folder: save_path / language / hierarchy
+    # Build output folder: save_path / ES / H1
     out_folder = os.path.join(save_path, language, hierarchy)
     os.makedirs(out_folder, exist_ok=True)
 
     out_file = os.path.join(out_folder, f"{output_name}.jsonl")
 
+    print(f"💾 Saving merged file to: {out_file}")
+
     with open(out_file, "w", encoding="utf-8") as writer:
         for line in merged_lines:
             writer.write(line + "\n")
 
-    print(f"\n ===Successfully merged : {out_file}\n")
-
-def merge_all_levels(read_path, save_path):
-    ## Given a path like Cleaned/ES, automatically:
-    #finds H1, H2, H3...
-    #merges each one separately
-    #outputs ES/H1/*.jsonl and ES/H2/*.jsonl
-    # Example: read_path = Cleaned/ES
-
-    for level_folder in os.listdir(read_path):
-        full_level_path = os.path.join(read_path, level_folder)
-
-        if os.path.isdir(full_level_path):
-            output_name = f"hierarchy_{level_folder}"
-            print(f"\n🔎 Merging level: {level_folder}")
-            merge_jsonl_single_level(full_level_path, save_path, output_name)
+    print(f"🎉 Successfully merged {len(files_found)} files into {out_file}\n")
 
 #-----Sequence-----------
 if __name__ == "__main__":

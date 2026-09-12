@@ -12,8 +12,7 @@ JSON_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Raw"
 # Pair (2) : Cleaning and standarizing the input
 jsonl_path_ES = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Raw\ES"
 clean_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Cleaned"
-#Pair (3) : Merging all data into a single file for the model
-clean_path_h1 = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Cleaned\ES"
+# (3) : Merging all data into a single file for the model
 merged_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Merged"
 
 #----- Pipeline Phase (I)  ---------------------
@@ -24,5 +23,5 @@ label_all_dataset(origin_path_ES, JSON_path, relevant_columns,H1_cat_labels)
 clean_text_in_all(jsonl_path_ES,clean_path)
 
 #===Step 3: Merge all data ES H1 into a single file
-merge_all_levels(clean_path_h1,merged_path)
+merge_all_levels(clean_path,merged_path)
 

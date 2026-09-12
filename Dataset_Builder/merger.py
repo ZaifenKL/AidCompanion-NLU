@@ -2,12 +2,13 @@ import os
 import json
 from pathlib import Path
 #----Constant Values---------------
-clean_json_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Cleaned\ES\H1"
+clean_json_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Cleaned\ES"
 ouput_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Merged"
 merged_es_h1 = "hierarchy1_ES"
 
 #-----Functions---------------------
-def merge_jsonl(read_path, save_path, output_name):
+def merge_jsonl_single_level(read_path, save_path, output_name):
+    #Merges just one level for example if path is ES/H1 it will merge all the jsonl files in ES/H1 into one
 
     os.makedirs(save_path, exist_ok=True)
 
@@ -50,7 +51,22 @@ def merge_jsonl(read_path, save_path, output_name):
 
     print(f"\n ===Successfully merged : {out_file}\n")
 
+def merge_all_levels(read_path, save_path):
+    ## Given a path like Cleaned/ES, automatically:
+    #finds H1, H2, H3...
+    #merges each one separately
+    #outputs ES/H1/*.jsonl and ES/H2/*.jsonl
+    # Example: read_path = Cleaned/ES
+
+    for level_folder in os.listdir(read_path):
+        full_level_path = os.path.join(read_path, level_folder)
+
+        if os.path.isdir(full_level_path):
+            output_name = f"hierarchy_{level_folder}"
+            print(f"\n🔎 Merging level: {level_folder}")
+            merge_jsonl_single_level(full_level_path, save_path, output_name)
+
 #-----Sequence-----------
 if __name__ == "__main__":
 
-    merge_jsonl(clean_json_path, ouput_path, merged_es_h1)
+    merge_all_levels(clean_json_path, ouput_path)

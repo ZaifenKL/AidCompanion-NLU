@@ -34,7 +34,7 @@ def merge_jsonl(read_path, save_path, output_name):
                 print(f"✔ Merging file: {full_path}")
 
     # Detect language and hierarchy from the path
-    p = Path(root)
+    p = Path(full_path)
     hierarchy = p.parent.name  # H1 or H2
     language = p.parent.parent.name  # ES or EN
 

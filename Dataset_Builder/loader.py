@@ -117,6 +117,8 @@ def label_all_dataset(read_path, save_path, relevant_columns, labels):
 
         print(f"✔ Proccesing file: {file} → label'{label}' (alphabetic order)")
 
+    print(f"\n ===Completed dataset export\n")
+
 
 #-----Sequence-----------
 if __name__ == "__main__":

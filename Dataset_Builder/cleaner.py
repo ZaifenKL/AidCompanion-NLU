@@ -90,6 +90,7 @@ def clean_text_in_all(read_path, save_path):
 
                 print(f"✔ File cleaned and saved at: {out_path}")
 
+    print(f"\n ===Completed Cleaning Process\n")
 #-----Sequence-----------
 if __name__ == "__main__":
 

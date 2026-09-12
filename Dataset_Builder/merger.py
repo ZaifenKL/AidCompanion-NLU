@@ -48,7 +48,7 @@ def merge_jsonl(read_path, save_path, output_name):
         for line in merged_lines:
             writer.write(line + "\n")
 
-    print(f"\n ===Successfully merged : {out_file}")
+    print(f"\n ===Successfully merged : {out_file}\n")
 
 #-----Sequence-----------
 if __name__ == "__main__":

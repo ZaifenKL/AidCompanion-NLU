@@ -1,0 +1,426 @@
+id|rol|edad|emocion|categoria_x|text
+1|Victima|28|neutral|confuso|Me siento muy mal no sé qué me pasa
+2|Victima|32|neutral|confuso|Ayuda algo está pasando con mi papá
+3|Victima|25|neutral|confuso|No me siento bien tengo miedo
+4|Victima|30|neutral|confuso|Mi mamá no se siente bien no sé qué hacer
+5|Victima|27|neutral|confuso|Algo pasó no sé cómo explicarlo
+6|Victima|35|neutral|confuso|Necesito ayuda pero no sé con quién hablar
+7|Victima|29|neutral|confuso|Me siento extraño pero no sé qué es
+8|Victima|33|neutral|confuso|Mi hermano se puso raro no sé qué pasó
+9|Victima|26|neutral|confuso|Me pasó algo pero no sé cómo decirlo
+10|Victima|34|neutral|confuso|Alguien ayúdeme no sé qué está ocurriendo
+11|Victima|31|neutral|confuso|Estoy preocupado no sé qué está pasando
+12|Victima|27|neutral|confuso|Mi hijo está actuando extraño no sé si es grave
+13|Victima|36|neutral|confuso|No entiendo lo que está pasando
+14|Victima|24|neutral|confuso|Me siento extraño necesito ayuda
+15|Victima|38|miedo|confuso|No sé qué está pasando Estoy muy asustado
+16|Victima|29|miedo|confuso|Ayuda No sé qué hacer esto es muy extraño
+17|Victima|33|miedo|confuso|Mi mamá no se siente bien y no sé por qué
+18|Victima|31|miedo|confuso|Estoy muy preocupado No sé qué está ocurriendo
+19|Victima|27|miedo|confuso|Algo malo está pasando pero no sé qué
+20|Victima|35|miedo|confuso|No sé qué hacer esto es muy extraño
+21|Victima|30|miedo|confuso|Mi papá está muy raro tengo miedo y no sé qué pasa
+22|Victima|28|panico|confuso|NO SÉ QUÉ PASÓ NO ENTIENDO AYUDA
+23|Victima|32|panico|confuso|EXTRAÑO NO SÉ QUÉ HACER AYUDA AYUDA
+24|Victima|26|panico|confuso|NO ENTIENDO QUÉ PASA NO SÉ QUÉ HACER
+25|Victima|35|panico|confuso|ALGO PASA NO SÉ EXPLICAR AYUDA
+26|Victima|9|confusion|confuso|Algo raro está pasando no sé qué es tengo miedo
+27|Victima|10|confusion|confuso|Mi hermana se puso rara no sé qué le pasa ayudame
+28|Victima|8|confusion|confuso|No sé qué está pasando tengo miedo llamen a alguien
+29|Victima|11|confusion|confuso|Algo malo pasó no sé qué hacer ayudame porfa
+30|Victima|34|neutral|confuso|Me siento raro
+31|Victima|38|neutral|confuso|Algo está mal porfavor ayuda
+32|Victima|30|neutral|confuso|Necesito ayuda pero no sé que me pasa
+33|Victima|36|neutral|confuso|Necesito tu ayuda
+34|Victima|27|ansiedad|confuso|Wey no sé qué pasó pero algo está raro
+35|Victima|29|ansiedad|confuso|No mames no entiendo qué está pasando necesito tu ayuda
+36|Victima|25|confusion|confuso|No se que pasa esrtoy confundido y tengo miedo
+37|Victima|32|neutral|confuso|Mi esposa está rara no sé qué le pasa
+38|Victima|28|neutral|confuso|Algo me preocupa pero no sé explicar qué
+39|Victima|34|neutral|confuso|No entiendo qué está pasando con mi cuerpo
+40|Victima|30|neutral|confuso|Me estoy sitiendo un poco extraño
+41|Testigo|28|neutral|confuso|Mi amigo se puso raro de repente no sé qué pasó
+42|Testigo|32|neutral|confuso|Algo le pasó a mi hermano pero no sé qué
+43|Testigo|25|neutral|confuso|No sé qué pasó pero mi papá está muy extraño
+44|Testigo|29|neutral|confuso|Mi mamá se ve mal no sé qué tiene
+45|Testigo|35|miedo|confuso|Mi amigo se ve muy mal algo tiene
+46|Testigo|27|panico|confuso|NO SÉ QUÉ PASÓ PERO ALGO PASÓ AYUDA
+47|Testigo|10|confusion|confuso|Mi hermanito se puso raro no sé qué le pasa tengo miedo
+48|Testigo|36|neutral|confuso|Mi amiga se siente mal no sé que pasa
+49|Testigo|33|ansiedad|confuso|Wey no sé qué pasó pero algo está mal
+50|Testigo|28|confusion|confuso|No se que paso pero algo extraño pasa
+51|Testigo|30|neutral|confuso|No se que pasó pero mi amigo se siente mal
+52|Testigo|16|neutral|confuso|Mi amigo está pálido y se ve un poco mal
+53|Testigo|15|neutral|confuso|No sé que pasa mi amiga está tirada
+54|Testigo|18|neutral|confuso|Algo le pasa a mi hermana
+55|Victima|45|neutral|confuso|No sé qué está pasando pero algo no está bien
+56|Victima|52|miedo|confuso|Tengo un mal presentimiento pero no sé por qué
+57|Victima|22|ansiedad|confuso|Wey siento que algo está mal pero no sé qué
+58|Victima|60|neutral|confuso|No entiendo qué le pasa a mi esposo está muy callado
+59|Victima|41|miedo|confuso|Mi hijo está raro no me habla y no sé qué hacer
+60|Victima|29|panico|confuso|NO ENTIENDO NADA AYUDA
+61|Victima|33|neutral|confuso|Mi mamá se siente mal pero no dice qué tiene
+62|Testigo|24|ansiedad|confuso|Wey mi compa está bien raro no sé qué pedo
+63|Victima|38|neutral|confuso|Necesito asistencia pero no logro identificar el problema
+64|Victima|19|confusion|confuso|No sé qué pasa pero tengo miedo
+65|Victima|47|neutral|confuso|Mi hermana está llorando y no sé por qué
+66|Testigo|34|miedo|confuso|Mi amigo no responde bien no sé si está bien
+67|Victima|26|confusion|confuso|No see que pasa estoy confundido
+68|Victima|55|neutral|confuso|Algo me preocupa pero no sé qué es
+69|Victima|21|ansiedad|confuso|No mames no entiendo qué onda
+70|Testigo|30|panico|confuso|NO SÉ QUÉ HACER AYUDA AYUDA
+71|Victima|49|neutral|confuso|Mi esposa se comporta extraño no sé qué le ocurre
+72|Victima|18|miedo|confuso|Tengo mucho miedo no sé qué está pasando
+73|Testigo|27|neutral|confuso|Requiero ayuda pero no puedo precisar la naturaleza del problema
+74|Victima|62|neutral|confuso|No sé qué le pasa a mi cuerpo me siento débil
+75|Victima|35|ansiedad|confuso|Wey algo está raro no sé qué pedo
+76|Victima|12|confusion|confuso|Algo malo pasó y no sé qué hacer
+77|Testigo|45|miedo|confuso|Mi papá está muy extraño no sé qué tiene
+78|Victima|28|confusion|confuso|No se que me pasa siento algo raro
+79|Victima|33|neutral|confuso|No entiendo por qué mi hermano se puso así
+80|Testigo|22|panico|confuso|NO ENTIENDO QUÉ PASA CON MI AMIGO AYUDA
+81|Victima|40|neutral|confuso|Mi mamá dice que no se siente bien pero no me dice más
+82|Victima|26|ansiedad|confuso|Wey no sé qué onda con mi cuerpo
+83|Victima|50|neutral|confuso|Me encuentro desconcertado sin poder identificar la causa
+84|Testigo|19|confusion|confuso|Mi hermana está rara no sé qué le pasa
+85|Victima|34|miedo|confuso|Siento que algo malo va a pasar pero no sé qué
+86|Victima|29|panico|confuso|NO SÉ QUÉ ME PASA AYUDA
+87|Testigo|31|neutral|confuso|Mi novio se puso raro no sé qué le pasó
+88|Victima|44|ansiedad|confuso|Wey me siento bien extraño no sé qué es
+89|Victima|23|confusion|confuso|No se que pasa me siento mal
+90|Testigo|37|miedo|confuso|Mi mamá está muy angustiada y no sé por qué
+91|Victima|53|neutral|confuso|No sé qué le ocurre a mi marido está muy callado
+92|Victima|20|panico|confuso|NO ENTIENDO NADA DE LO QUE PASA
+93|Testigo|42|neutral|confuso|Observo un comportamiento inusual en mi acompañante sin causa aparente
+94|Victima|48|neutral|confuso|Mi hija está llorando y no sé qué le pasa
+95|Victima|17|ansiedad|confuso|No mames no sé qué está pasando
+96|Testigo|25|miedo|confuso|Mi amigo se ve mal pero no sé qué tiene
+97|Victima|56|neutral|confuso|Algo no está bien pero no sé qué es
+98|Victima|32|confusion|confuso|No se que pasa mi cuerpo esta raro
+99|Testigo|39|neutral|confuso|Mi compañero se comporta de forma extraña sin motivo
+100|Victima|46|panico|confuso|NO SÉ QUÉ HACER NO ENTIENDO NADA
+101|Victima|30|neutral|confuso|Mi mamá se...
+102|Victima|35|neutral|confuso|Ayuda, mi papá está...
+103|Testigo|28|neutral|confuso|Mi amigo no...
+104|Victima|22|miedo|confuso|Creo que algo...
+105|Victima|40|neutral|confuso|Mi esposa se cayó y...
+106|Testigo|33|miedo|confuso|¡Mi hermano está!
+107|Victima|27|panico|confuso|¡AYUDA! ¡NO PUEDO!
+108|Victima|50|neutral|confuso|El doctor dijo que...
+109|Testigo|45|ansiedad|confuso|Wey, mi compa se puso...
+110|Victima|31|neutral|confuso|Solicito asistencia porque...
+111|Victima|29|confusion|confuso|Mi mamá no...
+112|Testigo|26|confusion|confuso|Mi amigo se siente...
+113|Victima|38|miedo|confuso|¡No puedo!
+114|Victima|44|neutral|confuso|Mi papá se lastimó y...
+115|Testigo|34|panico|confuso|¡ELLA ESTÁ!
+116|Victima|52|ansiedad|confuso|Wey, mi vieja...
+117|Victima|23|neutral|confuso|No sé...
+118|Testigo|36|neutral|confuso|Observo que mi compañero...
+119|Victima|47|miedo|confuso|¡Ayuda por favor!
+120|Victima|19|confusion|confuso|Mi hermana...
+121|Testigo|29|confusion|confuso|Mi amigo esta...
+122|Victima|55|neutral|confuso|Mi marido dice que...
+123|Victima|25|panico|confuso|¡AYUDA CON!
+124|Testigo|41|ansiedad|confuso|Wey, mi compa...
+125|Victima|34|miedo|confuso|¡No sé qué hacer!
+126|Victima|60|neutral|confuso|Mi esposa se queja de...
+127|Testigo|32|neutral|confuso|Mi acompañante presenta...
+128|Victima|28|confusion|confuso|Mi papá me dijo...
+129|Victima|43|neutral|confuso|Mi hermana está con...
+130|Testigo|30|panico|confuso|¡NO PUEDO CON!
+131|Victima|37|ansiedad|confuso|Wey, mi jefe...
+132|Victima|21|confusion|confuso|No se que...
+133|Testigo|49|miedo|confuso|¡Mi mamá se!
+134|Victima|54|neutral|confuso|Mi hijo se cayó y...
+135|Victima|26|neutral|confuso|Necesito ayuda porque...
+136|Testigo|35|confusion|confuso|Mi amigo se puso...
+137|Victima|39|panico|confuso|¡AYUDA RÁPIDO!
+138|Victima|46|ansiedad|confuso|Wey, no mames...
+139|Testigo|28|miedo|confuso|¡Mi amigo está muy!
+140|Victima|33|neutral|confuso|Mi esposo no...
+141|Victima|24|confusion|confuso|No se que pasa...
+142|Testigo|42|neutral|confuso|Mi compañero se encuentra...
+143|Victima|51|confusion|confuso|Mi mamá se siente...
+144|Victima|30|panico|confuso|¡NO SÉ!
+145|Testigo|37|ansiedad|confuso|Wey, mi compa...
+146|Victima|44|neutral|confuso|Mi hija está...
+147|Testigo|29|miedo|confuso|¡Mi hermana no!
+148|Victima|58|neutral|confuso|Me encuentro en una situación...
+149|Victima|22|confusion|confuso|Mi papá...
+150|Testigo|34|confusion|confuso|Mi amigo se siente...
+151|Victima|40|ansiedad|confuso|Wey, mi morra...
+152|Testigo|31|neutral|confuso|Mi compañero dice que...
+153|Victima|27|miedo|confuso|¡Tengo miedo!
+154|Victima|53|panico|confuso|¡AYUDA YA!
+155|Testigo|46|neutral|confuso|Observo que mi colega...
+156|Victima|35|confusion|confuso|Mi mamá me dijo...
+157|Victima|29|ansiedad|confuso|Wey, no sé...
+158|Testigo|38|confusion|confuso|Mi amigo esta...
+159|Victima|48|neutral|confuso|Mi esposa está...
+160|Testigo|32|panico|confuso|¡NO ENTIENDO!
+161|Victima|25|neutral|confuso|Solicito ayuda para...
+162|Testigo|44|miedo|confuso|¡Mi amigo se!
+163|Victima|61|neutral|confuso|Mi marido se siente...
+164|Victima|23|confusion|confuso|Mi hermana...
+165|Testigo|29|ansiedad|confuso|Wey, mi compa...
+166|Victima|36|confusion|confuso|No se que pasa...
+167|Testigo|52|neutral|confuso|Mi esposo dice que...
+168|Victima|20|panico|confuso|¡AYUDA AYUDA!
+169|Testigo|41|neutral|confuso|Mi compañero necesita...
+170|Victima|57|miedo|confuso|¡No sé qué hacer!
+171|Victima|32|ansiedad|confuso|Wey, mi vieja...
+172|Testigo|27|confusion|confuso|Mi amigo se...
+173|Victima|45|neutral|confuso|Mi hija se queja de...
+174|Testigo|35|panico|confuso|¡NO PUEDO MÁS!
+175|Victima|49|neutral|confuso|Requiero asistencia porque...
+176|Victima|30|confusion|confuso|No se que me pasa...
+177|Testigo|39|ansiedad|confuso|Wey, mi compa está...
+178|Victima|55|miedo|confuso|¡Mi mamá no!
+179|Testigo|24|neutral|confuso|Mi amigo me dijo...
+180|Victima|34|confusion|confuso|Mi papá...
+181|Testigo|47|panico|confuso|¡ELLA ESTÁ MAL!
+182|Victima|28|ansiedad|confuso|Wey, no mames...
+183|Testigo|33|neutral|confuso|Mi colega parece...
+184|Victima|42|miedo|confuso|¡No sé qué pasa!
+185|Testigo|31|confusion|confuso|Mi amigo se...
+186|Victima|26|neutral|confuso|Mi esposo se...
+187|Testigo|43|ansiedad|confuso|Wey, mi compa se...
+188|Victima|53|panico|confuso|¡AYUDA CON ESTO!
+189|Testigo|22|miedo|confuso|¡Mi hermana está!
+190|Victima|36|neutral|confuso|Necesito que me ayuden...
+191|Testigo|50|confusion|confuso|Mi amigo...
+192|Victima|29|ansiedad|confuso|Wey, no sé qué...
+193|Testigo|37|neutral|confuso|Mi compañero se...
+194|Victima|44|panico|confuso|¡NO SÉ QUÉ HACER!
+195|Testigo|28|neutral|confuso|Observo que mi amigo...
+196|Victima|52|confusion|confuso|No se que me pasa...
+197|Testigo|34|miedo|confuso|¡Mi papá está!
+198|Victima|41|ansiedad|confuso|Wey, mi vieja...
+199|Testigo|39|confusion|confuso|Mi mamá...
+200|Victima|23|panico|confuso|¡AYUDA YA!
+201|Victima|30|neutral|confuso|No entiendo qué está pasando con mi cuerpo
+202|Victima|35|miedo|confuso|Estoy muy confundido no sé qué hacer
+203|Testigo|28|miedo|confuso|Mi amigo está confundido y no sabe qué decir
+204|Victima|22|panico|confuso|NO ENTIENDO NADA DE LO QUE ESTÁ PASANDO
+205|Victima|40|neutral|confuso|No logro entender lo que me está ocurriendo
+206|Testigo|33|neutral|confuso|Mi compañero se muestra desorientado y confundido
+207|Victima|27|ansiedad|confuso|Wey no entiendo qué onda con mi cuerpo
+208|Victima|50|miedo|confuso|Estoy desorientado no sé qué está pasando
+209|Testigo|45|confusion|confuso|No entiendo que le pasa a mi amigo
+210|Victima|31|confusion|confuso|No sé qué pasa estoy confundido
+211|Victima|29|neutral|confuso|Me siento confundido no sé qué hacer
+212|Testigo|26|panico|confuso|NO ENTIENDO QUÉ LE PASA A MI HERMANO
+213|Victima|38|miedo|confuso|Estoy muy confundido y asustado
+214|Testigo|44|ansiedad|confuso|Wey mi compa está bien confundido
+215|Victima|55|neutral|confuso|No logro entender qué le pasa a mi esposa
+216|Victima|24|neutral|confuso|Me encuentro confundido sin poder resolver la situación
+217|Testigo|34|miedo|confuso|Mi amigo está confundido y no sabe dónde está
+218|Victima|42|panico|confuso|NO ENTIENDO NADA AYUDA
+219|Testigo|49|confusion|confuso|Mi hermana está confundida no sé qué le pasa
+220|Victima|21|ansiedad|confuso|Wey no entiendo qué pedo
+221|Testigo|30|neutral|confuso|Mi compañero parece confundido
+222|Victima|58|miedo|confuso|No sé qué está pasando estoy muy confundido
+223|Testigo|37|confusion|confuso|No entiendo que le pasa a mi amigo
+224|Victima|32|panico|confuso|NO SÉ QUÉ PASA ESTOY CONFUNDIDO
+225|Testigo|41|neutral|confuso|Mi acompañante se muestra confuso y desorientado
+226|Victima|47|ansiedad|confuso|Wey no entiendo nada de lo que pasa
+227|Testigo|23|miedo|confuso|Mi amigo está muy confundido
+228|Victima|36|neutral|confuso|No entiendo por qué me siento así
+229|Testigo|52|confusion|confuso|Mi papá está confundido no sé qué le pasa
+230|Victima|25|panico|confuso|NO ENTIENDO QUÉ ME PASA
+231|Testigo|39|miedo|confuso|Mi hermano está confundido y no sabe qué hacer
+232|Victima|43|ansiedad|confuso|Wey no entiendo qué onda
+233|Testigo|29|neutral|confuso|Mi colega parece confundido sin motivo aparente
+234|Victima|54|neutral|confuso|No logro entender lo que está sucediendo
+235|Testigo|35|confusion|confuso|No entiendo que le pasa a mi amigo
+236|Victima|34|miedo|confuso|Estoy muy confundido con todo esto
+237|Testigo|48|panico|confuso|NO ENTIENDO QUÉ PASA CON ÉL
+238|Victima|27|confusion|confuso|Estoy confundido no sé qué hacer
+239|Testigo|31|ansiedad|confuso|Wey mi compa está bien confundido
+240|Victima|46|neutral|confuso|No entiendo por qué mi esposa está así
+241|Testigo|38|neutral|confuso|Mi compañero se muestra confundido
+242|Victima|53|miedo|confuso|No sé qué está pasando estoy confundido
+243|Testigo|24|panico|confuso|NO ENTIENDO NADA AYUDA
+244|Victima|28|ansiedad|confuso|Wey no entiendo qué pedo con mi cuerpo
+245|Testigo|44|neutral|confuso|Mi amigo parece confundido
+246|Victima|39|confusion|confuso|No entiendo que me pasa
+247|Testigo|22|miedo|confuso|Mi amigo está muy confundido
+248|Victima|57|neutral|confuso|Me encuentro confundido sin saber qué hacer
+249|Testigo|36|confusion|confuso|Mi hermano está confundido
+250|Victima|30|panico|confuso|NO SÉ QUÉ HACER ESTOY CONFUNDIDO
+251|Testigo|42|ansiedad|confuso|Wey mi compa está bien perdido
+252|Victima|49|neutral|confuso|No entiendo qué está pasando con mi hija
+253|Testigo|27|miedo|confuso|Mi amigo está confundido y asustado
+254|Victima|33|panico|confuso|NO ENTIENDO NADA DE ESTO
+255|Testigo|51|neutral|confuso|Mi acompañante se muestra desorientado
+256|Victima|45|confusion|confuso|No entiendo que pasa
+257|Testigo|34|ansiedad|confuso|Wey no sé qué onda con mi compa
+258|Victima|22|miedo|confuso|Estoy confundido y tengo miedo
+259|Testigo|40|neutral|confuso|Mi compañero parece confundido
+260|Victima|56|panico|confuso|NO ENTIENDO QUÉ ME PASA AYUDA
+261|Victima|29|miedo|emocional|Tengo mucho miedo pero no sé por qué
+262|Victima|35|miedo|emocional|Estoy muy asustado no sé qué hacer
+263|Testigo|28|miedo|emocional|Tengo miedo por mi amigo no sé qué le pasa
+264|Victima|22|panico|emocional|TENGO MUCHO MIEDO AYUDA
+265|Victima|40|neutral|emocional|Me siento muy angustiado sin motivo
+266|Testigo|33|neutral|emocional|Experimento una gran preocupación sin causa aparente
+267|Victima|27|ansiedad|emocional|Wey tengo un chingo de miedo
+268|Victima|50|miedo|emocional|Estoy muy angustiado no sé qué me pasa
+269|Testigo|45|confusion|emocional|Tengo miedo no se que pasa
+270|Victima|31|confusion|emocional|Tengo mucho miedo llamen a alguien
+271|Victima|29|neutral|emocional|Siento una gran preocupación sin razón aparente
+272|Testigo|26|panico|emocional|MIEDO MUCHO MIEDO AYUDA
+273|Victima|38|miedo|emocional|No puedo controlar mi miedo no sé qué hacer
+274|Testigo|44|ansiedad|emocional|Wey tengo un pinche miedo
+275|Victima|55|neutral|emocional|Me siento muy preocupado sin saber por qué
+276|Victima|24|neutral|emocional|Sufro de una ansiedad intensa sin causa identificable
+277|Testigo|34|miedo|emocional|Tengo mucho miedo por mi amigo
+278|Victima|42|panico|emocional|NO PUEDO CON EL MIEDO AYUDA
+279|Testigo|49|confusion|emocional|Tengo miedo no sé qué pasa
+280|Victima|21|ansiedad|emocional|Wey estoy bien asustado
+281|Testigo|30|neutral|emocional|Siento mucha preocupación sin motivo
+282|Victima|58|miedo|emocional|Estoy muy angustiado no sé qué hacer
+283|Testigo|37|confusion|emocional|Tengo miedo no se que pasa
+284|Victima|32|panico|emocional|MUCHO MIEDO AYUDA AYUDA
+285|Testigo|41|neutral|emocional|Presento un estado de ansiedad sin razón aparente
+286|Victima|47|ansiedad|emocional|Wey tengo un miedo cabrón
+287|Testigo|23|miedo|emocional|Tengo mucho miedo por mi amigo
+288|Victima|36|neutral|emocional|Siento una gran angustia sin saber por qué
+289|Testigo|52|confusion|emocional|Tengo miedo no sé qué hacer
+290|Victima|25|panico|emocional|MIEDO NO PUEDO MÁS AYUDA
+291|Testigo|39|miedo|emocional|Estoy muy preocupado sin razón
+292|Victima|43|ansiedad|emocional|Wey me está dando un chingo de miedo
+293|Testigo|29|neutral|emocional|Experimento una sensación de pánico sin causa clara
+294|Victima|54|neutral|emocional|Me siento muy mal emocionalmente sin motivo
+295|Testigo|35|confusion|emocional|Tengo miedo no se que pasa
+296|Victima|34|miedo|emocional|No puedo dejar de tener miedo
+297|Testigo|48|panico|emocional|MIEDO NO ENTIENDO AYUDA
+298|Victima|27|confusion|emocional|Tengo mucho miedo llamen a alguien
+299|Testigo|31|ansiedad|emocional|Wey tengo un miedo bien culero
+300|Victima|46|neutral|emocional|Siento una gran ansiedad sin motivo aparente
+301|Testigo|38|neutral|emocional|Presento un estado de angustia sin causa identificable
+302|Victima|53|miedo|emocional|Estoy muy asustado no sé qué hacer
+303|Testigo|24|panico|emocional|MIEDO MUCHO MIEDO AYUDA
+304|Victima|28|ansiedad|emocional|Wey tengo un miedo de la chingada
+305|Testigo|44|neutral|emocional|Siento mucha preocupación por mi amigo
+306|Victima|39|confusion|emocional|Tengo miedo no se que pasa
+307|Testigo|22|miedo|emocional|Estoy muy angustiado sin razón
+308|Victima|57|neutral|emocional|Sufro una crisis de ansiedad sin motivo aparente
+309|Testigo|36|confusion|emocional|Tengo miedo llamen a alguien
+310|Victima|30|panico|emocional|NO PUEDO CON EL MIEDO AYUDA
+311|Testigo|42|ansiedad|emocional|Wey tengo un miedo bien gacho
+312|Victima|49|neutral|emocional|Siento una gran angustia sin saber por qué
+313|Testigo|27|miedo|emocional|Tengo mucho miedo por mi hermano
+314|Victima|33|panico|emocional|MIEDO NO ENTIENDO AYUDA
+315|Testigo|51|neutral|emocional|Experimento un estado de pánico sin causa aparente
+316|Victima|45|confusion|emocional|Tengo miedo no se que hacer
+317|Testigo|34|ansiedad|emocional|Wey tengo un pinche miedo
+318|Victima|22|miedo|emocional|Estoy muy asustado sin razón
+319|Testigo|40|neutral|emocional|Siento preocupación sin motivo
+320|Victima|56|panico|emocional|MIEDO AYUDA AYUDA
+321|Victima|28|neutral|ambiguedad|No sé si esto es grave o no
+322|Victima|35|miedo|ambiguedad|No sé si debería preocuparme o no
+323|Testigo|30|neutral|ambiguedad|No sé si mi amigo está bien o mal
+324|Victima|22|panico|ambiguedad|NO SÉ SI ES GRAVE O NO AYUDA
+325|Victima|40|neutral|ambiguedad|No logro determinar la gravedad de la situación
+326|Testigo|33|ansiedad|ambiguedad|Wey no sé si está bien o está mal
+327|Victima|27|confusion|ambiguedad|No se si esto es grave
+328|Victima|50|neutral|ambiguedad|No sé si debo llamar a alguien o no
+329|Testigo|45|miedo|ambiguedad|No sé si mi amigo necesita ayuda o no
+330|Victima|31|confusion|ambiguedad|No sé si es malo o bueno
+331|Victima|29|neutral|ambiguedad|No estoy seguro de si esto es una emergencia
+332|Testigo|26|panico|ambiguedad|NO SÉ SI ES URGENTE O NO
+333|Victima|38|neutral|ambiguedad|No tengo certeza sobre la urgencia del caso
+334|Testigo|44|ansiedad|ambiguedad|Wey no sé si está grave o no
+335|Victima|55|neutral|ambiguedad|No sé si debo preocuparme o no
+336|Victima|24|miedo|ambiguedad|No sé si esto es algo serio
+337|Testigo|34|confusion|ambiguedad|No se si mi amigo esta bien
+338|Victima|42|panico|ambiguedad|NO SÉ SI ES GRAVE AYUDA
+339|Testigo|49|confusion|ambiguedad|No sé si está bien o mal
+340|Victima|21|ansiedad|ambiguedad|Wey no sé si esto es grave
+341|Testigo|30|neutral|ambiguedad|No sé si debo llamar a una ambulancia o no
+342|Victima|58|neutral|ambiguedad|No logro discernir la seriedad de la situación
+343|Testigo|37|miedo|ambiguedad|No sé si mi amigo está en peligro
+344|Victima|32|panico|ambiguedad|NO SÉ SI ES EMERGENCIA AYUDA
+345|Testigo|41|ansiedad|ambiguedad|Wey no sé si está bien o está mal
+346|Victima|47|neutral|ambiguedad|No sé si debo hacer algo o esperar
+347|Testigo|23|confusion|ambiguedad|No se si esto es grave
+348|Victima|36|miedo|ambiguedad|No sé si debo preocuparme o no
+349|Testigo|52|confusion|ambiguedad|No sé si es malo o bueno
+350|Victima|25|panico|ambiguedad|NO SÉ SI ES GRAVE O NO AYUDA
+351|Testigo|39|neutral|ambiguedad|No tengo certeza sobre la urgencia de la situación
+352|Victima|43|ansiedad|ambiguedad|Wey no sé si está grave o no
+353|Testigo|29|neutral|ambiguedad|No sé si debo llamar a alguien
+354|Victima|54|miedo|ambiguedad|No sé si esto es algo serio
+355|Testigo|35|confusion|ambiguedad|No se si mi amigo esta bien
+356|Victima|34|panico|ambiguedad|NO SÉ SI ES URGENTE AYUDA
+357|Testigo|48|ansiedad|ambiguedad|Wey no sé si está bien o no
+358|Victima|27|neutral|ambiguedad|No sé si debo preocuparme
+359|Testigo|31|miedo|ambiguedad|No sé si mi amigo necesita ayuda
+360|Victima|46|neutral|ambiguedad|No logro determinar la gravedad del asunto
+361|Testigo|38|confusion|ambiguedad|No sé si es malo o bueno
+362|Victima|53|panico|ambiguedad|NO SÉ SI ES GRAVE AYUDA
+363|Testigo|24|ansiedad|ambiguedad|Wey no sé si está bien o está mal
+364|Victima|28|neutral|ambiguedad|No sé si debo hacer algo
+365|Testigo|44|miedo|ambiguedad|No sé si mi amigo está en peligro
+366|Victima|39|confusion|ambiguedad|No se si esto es grave
+367|Testigo|22|neutral|ambiguedad|No tengo certeza sobre la urgencia del caso
+368|Victima|57|panico|ambiguedad|NO SÉ SI ES EMERGENCIA AYUDA
+369|Testigo|36|ansiedad|ambiguedad|Wey no sé si está grave o no
+370|Victima|30|neutral|ambiguedad|No sé si debo llamar a alguien
+371|Testigo|42|miedo|ambiguedad|No sé si mi amigo necesita ayuda
+372|Victima|49|neutral|ambiguedad|No logro determinar la gravedad de la situación
+373|Testigo|27|confusion|ambiguedad|No sé si es malo o bueno
+374|Victima|33|panico|ambiguedad|NO SÉ SI ES GRAVE AYUDA
+375|Testigo|51|ansiedad|ambiguedad|Wey no sé si está bien o no
+376|Victima|45|neutral|ambiguedad|No sé si debo preocuparme
+377|Testigo|34|confusion|ambiguedad|No se si mi amigo esta bien
+378|Victima|22|miedo|ambiguedad|No sé si esto es algo serio
+379|Testigo|40|neutral|ambiguedad|No tengo certeza sobre la urgencia del caso
+380|Victima|56|panico|ambiguedad|NO SÉ SI ES EMERGENCIA AYUDA
+381|Victima|29|neutral|confuso|No sé qué hacer con mi papá
+382|Victima|34|miedo|confuso|Estoy muy confundido y no sé qué hacer
+383|Testigo|28|ansiedad|confuso|Wey algo pasa pero no sé qué
+384|Victima|45|panico|confuso|NO SÉ QUÉ PASA AYUDA
+385|Victima|23|confusion|confuso|Algo malo pasa pero no sé qué
+386|Testigo|37|neutral|confuso|Mi amigo está raro no sé qué le pasa
+387|Victima|52|miedo|confuso|No sé qué hacer estoy desesperado
+388|Victima|33|confusion|confuso|No se que pasa con mi cuerpo
+389|Testigo|41|neutral|confuso|No logro identificar el problema
+390|Victima|26|ansiedad|confuso|Wey no sé qué onda con todo esto
+391|Victima|49|neutral|confuso|No sé qué está pasando con mi familia
+392|Testigo|31|panico|confuso|NO ENTIENDO NADA AYUDA AYUDA
+393|Victima|39|miedo|confuso|Estoy muy preocupado sin saber por qué
+394|Victima|55|neutral|confuso|Mi esposa está rara no sé qué le pasa
+395|Testigo|24|ansiedad|confuso|Wey mi compa se ve mal no sé qué tiene
+396|Victima|44|neutral|confuso|Necesito ayuda pero no sé para qué
+397|Testigo|30|confusion|confuso|No se que pasa con mi amigo
+398|Victima|60|miedo|confuso|No sé qué hacer con mi hijo
+399|Testigo|22|panico|confuso|NO SÉ QUÉ HACER AYUDA
+400|Victima|28|confusion|confuso|No sé qué pasa tengo miedo
+401|Victima|31|neutral|confuso|Mi mamá se ve rara no sé qué tiene
+402|Testigo|35|miedo|confuso|Mi amigo se puso pálido de repente no sé qué pasó
+403|Victima|42|ansiedad|confuso|No entiendo qué está pasando con mi hermana
+404|Testigo|29|panico|confuso|NO SÉ QUÉ HACER NO ENTIENDO
+405|Victima|48|neutral|confuso|Mi papá está muy callado no sé qué le pasa
+406|Victima|20|confusion|confuso|No se que pasa conmigo
+407|Testigo|43|miedo|confuso|Mi compañero se ve muy mal no sé qué tiene
+408|Victima|37|ansiedad|confuso|Wey no sé qué onda con mi mamá
+409|Testigo|27|panico|confuso|NO SÉ QUÉ PASÓ CON MI HERMANO
+410|Victima|56|neutral|confuso|Mi esposa no se siente bien no sé qué le pasa
+411|Victima|25|confusion|confuso|No se que pasa con mi cuerpo
+412|Testigo|38|miedo|confuso|Mi amigo está temblando no sé qué le pasa
+413|Victima|47|neutral|confuso|No sé qué hacer con mi hijo
+414|Testigo|34|ansiedad|confuso|Wey no sé qué onda con todo esto
+415|Victima|52|miedo|confuso|No sé qué está pasando estoy muy asustado
+416|Testigo|30|confusion|confuso|No se que pasa con mi amigo
+417|Victima|43|neutral|confuso|No logro entender lo que está sucediendo
+418|Testigo|36|panico|confuso|NO ENTIENDO NADA DE LO QUE PASA
+419|Victima|28|ansiedad|confuso|Wey no sé qué pedo con mi vida
+420|Testigo|46|miedo|confuso|Mi hermana está muy rara no sé qué le pasa
+421|Victima|32|confusion|confuso|No se que me pasa estoy confundido
+422|Testigo|25|neutral|confuso|Mi amigo se puso raro no sé qué le ocurre
+423|Victima|50|miedo|confuso|No sé qué hacer con mi esposa
+424|Victima|18|panico|confuso|NO ENTIENDO QUÉ PASA AYUDA
+425|Testigo|33|ansiedad|confuso|Wey no sé qué onda con mi compa

@@ -1,0 +1,11 @@
+[
+  "medical_emergency_critical",
+  "physical_injury",
+  "environmental_condition",
+  "survival_situation",
+  "dangerous_fauna",
+  "emotional_state",
+  "disorientation",
+  "intoxication",
+  "unknown"
+]

@@ -1,0 +1,1315 @@
+{"text": "me duele mucho el pecho como si alguien me estuviera apuñalando no puedo respirar qué hago", "label": "medical_emergency"}
+{"text": "iba manejando y un camión me chocó de frente el volante me aplastó el pecho tengo mucho dolor", "label": "medical_emergency"}
+{"text": "me caí de la moto en la carretera tengo raspado todo el brazo y veo la carne", "label": "medical_emergency"}
+{"text": "me cayó una lámina en la obra me aplastó la pierna y no la siento", "label": "medical_emergency"}
+{"text": "me picó una mantarraya en la playa no dejo de sangrar y me duele la pierna qué hago", "label": "medical_emergency"}
+{"text": "me dio un dolor en la panza bien gacho como si me explotara algo qué hago", "label": "medical_emergency"}
+{"text": "me corté la mano con una sierra no para de sangrar y me estoy mareando tengo mucho miedo", "label": "medical_emergency"}
+{"text": "me resbalé en el baño y me quebré la muñeca el hueso se ve atravesado qué hago", "label": "medical_emergency"}
+{"text": "me dispararon en la pierna en la colonia no para de sangrar y creo que me voy a desmayar por favor ayúdenme", "label": "medical_emergency"}
+{"text": "me cayó un block en la cabeza me duele muy fuerte y estoy sangrando un chingo qué hago", "label": "medical_emergency"}
+{"text": "tuve una pelea con mi esposa me golpeó y me cortó el brazo y no para de sangrar qué hago", "label": "medical_emergency"}
+{"text": "me dio un dolor muy fuerte en el pecho que me sube al brazo y la mandíbula qué hago", "label": "medical_emergency"}
+{"text": "iba en mi moto y un coche no me vio me estrellé contra la puerta", "label": "medical_emergency"}
+{"text": "estaba en mi casa y de repente me dio un dolor bien cabrón en el pecho tengo miedo", "label": "medical_emergency"}
+{"text": "me cayó una tabla con clavos en la pierna se me atravesó y no deja de sangrar", "label": "medical_emergency"}
+{"text": "iba manejando y se me metió un tráiler me estampé contra el muro me duele todo el cuerpo", "label": "medical_emergency"}
+{"text": "estaba cortando con un cuchillo y me corté no para la sangre y veo blanco tengo mucho miedo", "label": "medical_emergency"}
+{"text": "me caí de un segundo piso en la obra me duele la espalda y no siento mis piernas qué hago", "label": "medical_emergency"}
+{"text": "me picó un alacrán en el pie se me está hinchando la garganta no sé qué hacer", "label": "medical_emergency"}
+{"text": "traigo un dolor en la panza que no aguanto como si me estuvieran retorciendo las tripas qué hago", "label": "medical_emergency"}
+{"text": "ayuda me duele el pecho no puedo respirar siento que me voy a morir", "label": "medical_emergency"}
+{"text": "no mames chocamos no siento las piernas ayuda", "label": "medical_emergency"}
+{"text": "me caí de la moto y veo la carne no para de sangrar ayuda", "label": "medical_emergency"}
+{"text": "me dispararon no para de sangrar me voy a morir", "label": "medical_emergency"}
+{"text": "me picó una mantarraya y no dejo de sangrar tengo mucho dolor dios mío", "label": "medical_emergency"}
+{"text": "creo que me voy a morir me duele la panza horrible ayuda", "label": "medical_emergency"}
+{"text": "necesito ayuda me corté la mano y no para la sangre tengo mucho miedo", "label": "medical_emergency"}
+{"text": "ayúdame porfavor me quebré la muñeca el hueso se ve atravesado y sangra tengo miedo", "label": "medical_emergency"}
+{"text": "me cayó un block en la cabeza estoy sangrando cabrón ayuda", "label": "medical_emergency"}
+{"text": "necesito ayuda mi esposa me cortó el brazo no para de sangrar", "label": "medical_emergency"}
+{"text": "ayudame ayudame dolor en el pecho no puedo respirar apuñalando", "label": "medical_emergency"}
+{"text": "no mames tráiler estampé piernas ayudame", "label": "medical_emergency"}
+{"text": "me morir moto carne sangre ayuda", "label": "medical_emergency"}
+{"text": "disparo pierna sangre mareado ayuda", "label": "medical_emergency"}
+{"text": "necesito ayuda mantarraya sangre ayuda", "label": "medical_emergency"}
+{"text": "panza explota dolor sudor ayuda", "label": "medical_emergency"}
+{"text": "sangre mano no para ayuda", "label": "medical_emergency"}
+{"text": "muñeca quebrada hueso sangre ayuda", "label": "medical_emergency"}
+{"text": "hospital cabeza sangre desmayar ayuda", "label": "medical_emergency"}
+{"text": "cuchillo brazo sangre ayuda", "label": "medical_emergency"}
+{"text": "mi compa se cayó del andamio está en el suelo y no se mueve qué hago", "label": "medical_emergency"}
+{"text": "mi amigo no respira después del choque qué hago", "label": "medical_emergency"}
+{"text": "mi novia se desmayó y está convulsionando en el antro no sé que hacer estoy muy preocupado", "label": "medical_emergency"}
+{"text": "mi roomie se tomó pastillas y no despierta respira muy lento no sé qué hacer", "label": "medical_emergency"}
+{"text": "mi hermano voló de la moto y está en el suelo con el brazo doblado qué hago", "label": "medical_emergency"}
+{"text": "a mi compañero le cayó un tubo en la cabeza y está inconsciente", "label": "medical_emergency"}
+{"text": "mi amigo se metió al río y no salió ya van como 3 minutos no sé qué hacer", "label": "medical_emergency"}
+{"text": "mi cuate tomó mucho y no responde está pálido y vomita estoy muy preocupado", "label": "medical_emergency"}
+{"text": "siento como si me estuvieran acuchillando tengo mucho dolor en el pecho y me duele el estómago tengo miedo", "label": "medical_emergency"}
+{"text": "mi vecina se está poniendo morada por un camarón que comió no sé si llamar a una ambulancia", "label": "medical_emergency"}
+{"text": "mi carnal se cayó del segundo piso no respira ayuda", "label": "medical_emergency"}
+{"text": "mi morra quedó prensada no responde ayudame wey", "label": "medical_emergency"}
+{"text": "mi jefe se desmayó no respira tengo mucho miedo", "label": "medical_emergency"}
+{"text": "mi cuate se cayó con la barra en el cuello está morado ayuda", "label": "medical_emergency"}
+{"text": "mi roomie no despierta está tieso ambulancia", "label": "medical_emergency"}
+{"text": "mi compa se cayó en la obra sangra ayuda", "label": "medical_emergency"}
+{"text": "mi amigo no respira tiene sangre ayuda", "label": "medical_emergency"}
+{"text": "ayudame mi novia se desmayó convulsiona ayuda", "label": "medical_emergency"}
+{"text": "mi roomie no despierta respira lento se va a morir", "label": "medical_emergency"}
+{"text": "mi hermano voló de la moto sangra ayuda", "label": "medical_emergency"}
+{"text": "carnal segundo piso no respira sangre ayuda", "label": "medical_emergency"}
+{"text": "morra prensada fierro pierna no responde wey", "label": "medical_emergency"}
+{"text": "jefe desmayado no respira pálido ayuda", "label": "medical_emergency"}
+{"text": "carnal barra cuello morado ayuda", "label": "medical_emergency"}
+{"text": "se morir roomie tieso ambulancia ayuda", "label": "medical_emergency"}
+{"text": "compa obra sangre nariz ayuda", "label": "medical_emergency"}
+{"text": "amigo no respira sangre boca ayuda", "label": "medical_emergency"}
+{"text": "novia convulsiona espuma ayuda", "label": "medical_emergency"}
+{"text": "roomie no despierta respira lento ayuda", "label": "medical_emergency"}
+{"text": "hermano moto sangre brazo ayuda", "label": "medical_emergency"}
+{"text": "siento un dolor intenso en el pecho no puedo respirar qué hago", "label": "medical_emergency"}
+{"text": "tengo mucho dolor siento presión en el pecho no puedo respirar", "label": "medical_emergency"}
+{"text": "mi primo se cayó de la moto estaba bien y se desmayó de pronto no responde no sé qué hacer", "label": "medical_emergency"}
+{"text": "me comí un camarón en la playa y se me empezó a hinchar la garganta y la cara no puedo respirar bien y siento que me hormiguea el cuerpo qué hago", "label": "medical_emergency"}
+{"text": "me picó una abeja y siento que se me está cerrando la garganta me hormiguea todo el cuerpo y me duele mucho el pecho", "label": "medical_emergency"}
+{"text": "mi hijo comió algo se empezó a hinchar ahora tiene mucho dolor en el pecho y no para de vomitar", "label": "medical_emergency"}
+{"text": "me corté la mano con el cuchillo siento que no puedo respirar bien y la sangre no para tengo mucho miedo", "label": "medical_emergency"}
+{"text": "no mames mi primo se clavó un vidrio en el brazo y no para de sangrar está blanco qué hago", "label": "medical_emergency"}
+{"text": "mi compañero se cayó y se golpeó la cabeza está sangrando mucho se puso pálido y perdió el conocimiento", "label": "medical_emergency"}
+{"text": "mi amigo tomó demasiado alcohol en la fiesta ahora está inconsciente no responde cuando le hablo y respira muy lento", "label": "medical_emergency"}
+{"text": "me chingaron me dieron un balazo en la pata y no deja de sangrar ya estoy viendo borroso wey ayúdame", "label": "medical_emergency"}
+{"text": "no mames se me metió un tráiler y me estampé no siento las patas y veo bien borroso me voy a morir", "label": "medical_emergency"}
+{"text": "me caí de la moto y veo la carne del brazo está bien culero no para de sangrar duele", "label": "medical_emergency"}
+{"text": "me dieron un balazo en la pierna no deja de sangrar y ya me estoy mareando wey me duele", "label": "medical_emergency"}
+{"text": "me picó una mantarraya y no deja de sangrar me duele bien gacho la pierna no puedo caminar", "label": "medical_emergency"}
+{"text": "wey me duele la panza bien cabrón como si me acuchillaran estoy sudando frío y no me puedo parar", "label": "medical_emergency"}
+{"text": "wey me corté la mano y no para la sangre veo puntitos y me estoy mareando está bien gacho no sé qué hacer", "label": "medical_emergency"}
+{"text": "me quebré la muñeca el hueso se ve y sangra no puedo mover los dedos está bien culero", "label": "medical_emergency"}
+{"text": "me cayó un block en la cabeza estoy sangrando un chingo y creo que me voy a desmayar wey", "label": "medical_emergency"}
+{"text": "mi vieja me cortó el brazo con un cuchillo no para de sangrar y me estoy mareando", "label": "medical_emergency"}
+{"text": "me duele el pecho bien feo como si alguien me estubiera apuñalando no puedo respirar no entiendo qué pasa", "label": "medical_emergency"}
+{"text": "iba manejando y un camión me chocó de frente el volante me aplastó el pecho esto no tiene sentido", "label": "medical_emergency"}
+{"text": "me caí de la moto en la carretera tengo raspado todo el brazo y veo la carnee no sé qué hacer", "label": "medical_emergency"}
+{"text": "me cayó una lamina en la obra me aplastó la pierna y no la siento todo es muy confuso", "label": "medical_emergency"}
+{"text": "me picó una mantarraya en la playa no dejo de sangrar y me duele hasta la pierna no sé a quién creer", "label": "medical_emergency"}
+{"text": "me dio un dolor bien culero en la panza como si me explotara algo no sé qué está pasando", "label": "medical_emergency"}
+{"text": "me corté la mano con una sierra no para de sangrar y me estoy mareando todo es muy ambiguo", "label": "medical_emergency"}
+{"text": "me resbalé en el baño y me quebré la muñeca el hueso se ve atrabesado no entiendo nada", "label": "medical_emergency"}
+{"text": "me dispararon en la pierna en la colonia no para de sangrar y me voy a desmayar no sé si es real", "label": "medical_emergency"}
+{"text": "me cayó un block en la cabeza me duele bien feo y estoy sangrando un chingo estoy desorientado", "label": "medical_emergency"}
+{"text": "mi compa se cayó del andamio y no se mueve wey está bien grave le está sangrando mucho la nariz", "label": "medical_emergency"}
+{"text": "mi carnal voló en el choque no respira y tiene sangre en la boca qué pedo wey qué hago", "label": "medical_emergency"}
+{"text": "mi morra se desmayó y está convulsionando wey no sé qué hacer culero", "label": "medical_emergency"}
+{"text": "tengo miedo mi roomie no despierta wey respira bien lento y hace ruidos raros", "label": "medical_emergency"}
+{"text": "mi hermano voló de la moto y está en el suelo con el brazo doblado sangra un chingo", "label": "medical_emergency"}
+{"text": "a mi compa le cayó un tubo en la cabeza está inconsciente y está sangrando del oído", "label": "medical_emergency"}
+{"text": "mi cuate se metió al río y no salió wey ya van 3 minutos creo que se ahogó", "label": "medical_emergency"}
+{"text": "mi compa tomó mucho y no responde está pálido y vomita no lo puedo despertar qué pedo", "label": "medical_emergency"}
+{"text": "ayúdame por favor mi hermano se tomó toda una botella de tequila y ahora no despierta está pálido respira raro y no lo puedo mover tengo mucho miedo", "label": "medical_emergency"}
+{"text": "mi vecina se está poniendo morada no puede respirar wey se comió un camarón y se le hinchó la cara qué tengo que hacer", "label": "medical_emergency"}
+{"text": "mi compa se cayó del andamio está en el suelo y no se mueve no entiendo qué pasó", "label": "medical_emergency"}
+{"text": "mi amigo del copiloto no respira después del choque no sé si es real", "label": "medical_emergency"}
+{"text": "mi novia se desmayó y está convulsionando en el antro no sé qué hacer todo es muy confuso", "label": "medical_emergency"}
+{"text": "mi roomie se tomó pastillas y no despierta respira muy lento no entiendo nada", "label": "medical_emergency"}
+{"text": "mi hermano voló de la moto y está en el suelo con el brazo doblado no sé qué pensar", "label": "medical_emergency"}
+{"text": "a mi compañero le cayó un tubo en la cabeza y está inconsciente esto no tiene sentido", "label": "medical_emergency"}
+{"text": "ayuda mi amigo se metió al río y no salió ya van como 3 minutos no sé qué hacer", "label": "medical_emergency"}
+{"text": "mi cuate tomó mucho y no responde está pálido y vomita que hago no entiendo nada", "label": "medical_emergency"}
+{"text": "el gato aplastó a mi primo no puede respirar y está morado no sé qué está pasando", "label": "medical_emergency"}
+{"text": "por favor ayúdame mi vecina se está poniendo morada por un camarón que comió no sé a quién creer", "label": "medical_emergency"}
+{"text": "me dispararon en la pierna en la colonia no para de sangrar y me estoy mareando qué hago", "label": "medical_emergency"}
+{"text": "un carro chocó una persona está inconsciente no respira y a otro le duele el pecho", "label": "medical_emergency"}
+{"text": "una corriente arrastró a mi amigo mientras nadaba en la playa tiene tos y le cuesta trabajo respirar", "label": "medical_emergency"}
+{"text": "me cayó una lámina en la obra me aplastó la pierna y no la siento", "label": "medical_emergency"}
+{"text": "alguien le puso algo a mi bebida en la fiesta no controlo mi cuerpo", "label": "medical_emergency"}
+{"text": "creo que alguien le puso algo a la bebida de mi amigo en la fiesta ahora no controla su cuerpo y no responde tengo mucho miedo", "label": "medical_emergency"}
+{"text": "choqué jugando fútbol me golpeé la cabeza y veo borroso", "label": "medical_emergency"}
+{"text": "me resbalé en la regadera y me quebré la muñeca", "label": "medical_emergency"}
+{"text": "me picó un alacrán en el pie se me hincha la garganta", "label": "medical_emergency"}
+{"text": "me caí de una moto en la carretera tengo raspado todo el brazo", "label": "medical_emergency"}
+{"text": "ayúdame me dispararon no para de sangrar y me mareo creo que me voy a desmayar no sé qué hacer", "label": "medical_emergency"}
+{"text": "tengo miedo choqué en la carretera me duele el pecho y no puedo respirar", "label": "medical_emergency"}
+{"text": "creo que necesito ir al hospital casi me ahogo en la playa me cuesta trabajo respirar tengo miedo", "label": "medical_emergency"}
+{"text": "no mames me cayó una lámina en la pierna no la siento y veo el hueso me duele muchísimo", "label": "medical_emergency"}
+{"text": "alguien le puso algo a mi bebida no controlo mi cuerpo y me tiembla todo tengo mucho miedo", "label": "medical_emergency"}
+{"text": "me reventaron el tímpano sangra y no escucho nada me duele muchísimo", "label": "medical_emergency"}
+{"text": "wey choqué jugando fútbol veo borroso y no recuerdo nada me duele la cabeza", "label": "medical_emergency"}
+{"text": "me quebré la muñeca el hueso se ve y sangra no puedo mover los dedos tengo miedo", "label": "medical_emergency"}
+{"text": "me duele mucho ayúdame me picó un alacrán se me hincha la garganta y no puedo respirar no sé qué hacer", "label": "medical_emergency"}
+{"text": "me caí de la moto veo la carne del brazo y no para de sangrar me arde mucho", "label": "medical_emergency"}
+{"text": "disparo pierna sangre mareado ayuda", "label": "medical_emergency"}
+{"text": "choque carretera duele pecho ayuda", "label": "medical_emergency"}
+{"text": "ahogo playa tos sangre ayuda", "label": "medical_emergency"}
+{"text": "lámina pierna hueso sangre ayuda", "label": "medical_emergency"}
+{"text": "bebida alguien algo tiemblo ayuda", "label": "medical_emergency"}
+{"text": "tímpano roto sangre oído ayuda", "label": "medical_emergency"}
+{"text": "fútbol golpe cabeza borroso ayuda", "label": "medical_emergency"}
+{"text": "muñeca quebrada hueso sangre ayuda", "label": "medical_emergency"}
+{"text": "alacrán garganta hinchada ayuda", "label": "medical_emergency"}
+{"text": "moto carne brazo sangre ayuda", "label": "medical_emergency"}
+{"text": "me chingaron me dieron un balazo en la pata y no deja de sangrar ya me estoy desmayando wey", "label": "medical_emergency"}
+{"text": "no mames choqué bien feo en la carretera el volante me aplastó el pecho wey", "label": "medical_emergency"}
+{"text": "casi me ahogo en la playa tos con sangre y me duele todo qué mal pedo", "label": "medical_emergency"}
+{"text": "me cayó una lámina en la chamba me aplastó la pata la tengo doblada y veo el hueso", "label": "medical_emergency"}
+{"text": "en la peda alguien le puso algo a mi chela no controlo mi cuerpo y tiemblo bien cabrón", "label": "medical_emergency"}
+{"text": "mi morra me dio una cachetada y me reventó el oído tengo sangre y no escucho nada", "label": "medical_emergency"}
+{"text": "estaba jugando fútbol y choqué veo borroso y no recuerdo nada está bien feo", "label": "medical_emergency"}
+{"text": "me resbalé en la regadera y me quebré la muñeca el hueso se ve está bien culero", "label": "medical_emergency"}
+{"text": "me picó un alacrán se me hincha la garganta y no puedo respirar qué miedo wey", "label": "medical_emergency"}
+{"text": "me caí de la moto y veo la carne del brazo no para de sangrar está bien gacho", "label": "medical_emergency"}
+{"text": "mi compa se cayó en la obra sangra de la nariz y no se mueve", "label": "medical_emergency"}
+{"text": "mi amigo no respira después del choque tiene sangre en la boca", "label": "medical_emergency"}
+{"text": "mi novia se desmayó en el antro y está convulsionando", "label": "medical_emergency"}
+{"text": "mi roomie se tomó pastillas y no despierta respira lento", "label": "medical_emergency"}
+{"text": "mi hermano voló de la moto tiene el brazo doblado y sangra", "label": "medical_emergency"}
+{"text": "a mi compañero le cayó un tubo en la cabeza", "label": "medical_emergency"}
+{"text": "mi amigo se metió al río y no salió ya van 3 minutos", "label": "medical_emergency"}
+{"text": "mi cuate tomó mucho y no responde está pálido y vomita", "label": "medical_emergency"}
+{"text": "el gato aplastó a mi primo no puede respirar y está morado", "label": "medical_emergency"}
+{"text": "mi vecina se está poniendo morada y no puede respirar", "label": "medical_emergency"}
+{"text": "mi compa se cayó en la obra sangra de la nariz y no se mueve tengo mucho miedo", "label": "medical_emergency"}
+{"text": "mi amigo no respira tiene sangre en la boca después del choque no sé si está vivo", "label": "medical_emergency"}
+{"text": "mi novia se desmayó está convulsionando y echando espuma no sé qué hacer", "label": "medical_emergency"}
+{"text": "mi roomie no despierta respira muy lento y hace ruidos raros tengo mucho miedo", "label": "medical_emergency"}
+{"text": "mi hermano voló de la moto tiene el brazo doblado y sangra mucho ayuda", "label": "medical_emergency"}
+{"text": "a mi compañero le cayó un tubo está inconsciente y sangra del oído no reacciona", "label": "medical_emergency"}
+{"text": "mi amigo se ahogó en el río no sale ya van 3 minutos no lo encuentro", "label": "medical_emergency"}
+{"text": "mi cuate no responde tomó mucho y está pálido vomita y no lo despierto", "label": "medical_emergency"}
+{"text": "el gato aplastó a mi primo no puede respirar y está morado tose sangre", "label": "medical_emergency"}
+{"text": "mi vecina no respira tiene la cara hinchada y se puso morada se comió un camarón", "label": "medical_emergency"}
+{"text": "compa obra sangre nariz ayuda", "label": "medical_emergency"}
+{"text": "amigo no respira sangre boca ayuda", "label": "medical_emergency"}
+{"text": "novia convulsiona espuma ayuda", "label": "medical_emergency"}
+{"text": "roomie no despierta respira lento ayuda", "label": "medical_emergency"}
+{"text": "hermano moto sangre brazo ayuda", "label": "medical_emergency"}
+{"text": "tubo cabeza sangre oído ayuda", "label": "medical_emergency"}
+{"text": "río amigo no sale ayuda", "label": "medical_emergency"}
+{"text": "cuate vomita pálido ayuda", "label": "medical_emergency"}
+{"text": "primo gato morado ayuda", "label": "medical_emergency"}
+{"text": "vecina morada cara ayuda", "label": "medical_emergency"}
+{"text": "mi compa se cayó en la obra wey sangra de la nariz y no se mueve está bien grave", "label": "medical_emergency"}
+{"text": "mi amigo no respira después del choque tiene sangre en la boca qué pedo wey", "label": "medical_emergency"}
+{"text": "mi novia se desmayó en el antro y está convulsionando no sé qué hacer wey", "label": "medical_emergency"}
+{"text": "mi roomie se tomó pastillas y no despierta respira bien lento qué miedo wey", "label": "medical_emergency"}
+{"text": "mi hermano voló de la moto tiene el brazo doblado y sangra un chingo está bien culero", "label": "medical_emergency"}
+{"text": "a mi compa le cayó un tubo en la cabeza y no reacciona wey está canijo", "label": "medical_emergency"}
+{"text": "mi cuate se metió al río y no salió ya van 3 minutos creo que se ahogó qué mal pedo", "label": "medical_emergency"}
+{"text": "mi compa tomó mucho y no responde está pálido y vomita no lo puedo despertar wey", "label": "medical_emergency"}
+{"text": "wey wey wey el aplastó a mi primo no puede respirar y se está poniendo morado", "label": "medical_emergency"}
+{"text": "mi vecina se está poniendo morada wey se comió un camarón y se le hinchó la cara", "label": "medical_emergency"}
+{"text": "me dispararon en la pierna no para de sangrar y me estoy mareando no entiendo qué pasa", "label": "medical_emergency"}
+{"text": "voy manejando en la carretera y choqué me duele el pecho y no puedo respirar esto no tiene sentido", "label": "medical_emergency"}
+{"text": "me metí a nadar a la playa y una corriente me arrastró casi me ahogo no sé qué hacer", "label": "medical_emergency"}
+{"text": "me cayó una lámina en la obra me aplastó la pierna y no la siento todo es muy confuso", "label": "medical_emergency"}
+{"text": "alguien le puso algo a mi bebida en la fiesta no controlo mi cuerpo no sé si es real", "label": "medical_emergency"}
+{"text": "mi novia me reventó el tímpano tengo sangre en el oído y no escucho no entiendo nada", "label": "medical_emergency"}
+{"text": "choque jugando fútbol me golpeé la cabeza y veo borroso no sé dónde estoy", "label": "medical_emergency"}
+{"text": "me resbalé en la regadera y me quebré la muñeca todo es muy ambiguo", "label": "medical_emergency"}
+{"text": "me picó un alacrán en el pie se me hincha la garganta no sé qué está pasando", "label": "medical_emergency"}
+{"text": "me caí de una moto en la carretera tengo raspado todo el brazo no sé a quién creer", "label": "medical_emergency"}
+{"text": "me caí de una escalera de 3 metros y me fracturé la muñeca no puedo mover la mano qué hago", "label": "medical_emergency"}
+{"text": "mi esposo no puede hablar y tiene la boca torcida creo que está teniendo un derrame tengo mucho miedo", "label": "medical_emergency"}
+{"text": "wey me alcanzó una bala en el hombro no para de sangrar y me estoy mareando", "label": "medical_emergency"}
+{"text": "llevo 6 horas en el frío mis dedos están negros y no los siento", "label": "medical_emergency"}
+{"text": "me corté la pierna no para de sangrar ayuda", "label": "medical_emergency"}
+{"text": "me picó una abeja en el cuello y no puedo respirar se me está cerrando la garganta tengo miedo", "label": "medical_emergency"}
+{"text": "mi hijo se tomó el líquido de abajo del lavabo está vomitando y no responde", "label": "medical_emergency"}
+{"text": "no mames mi morro se atoró con una canica y no respira qué hago", "label": "medical_emergency"}
+{"text": "me duele el pecho y siento que me falta el aire el dolor me sube al brazo izquierdo", "label": "medical_emergency"}
+{"text": "casi me ahogo en la playa toso sangre ayuda", "label": "medical_emergency"}
+{"text": "me duele el pecho y se me sube al brazo izquierdo no puedo respirar bien", "label": "medical_emergency"}
+{"text": "mi papá no puede mover un lado de la cara y no habla bien necesito ayuda tengo miedo", "label": "medical_emergency"}
+{"text": "me corté la pierna con una motosierra no para de sangrar y me estoy mareando", "label": "medical_emergency"}
+{"text": "no mames me caí de la moto y me raspé todo el brazo veo la carne está bien culero", "label": "medical_emergency"}
+{"text": "no puedo parar de temblar convulsiones ayuda", "label": "medical_emergency"}
+{"text": "me picó una avispa y la garganta se me está cerrando requiero atención inmediata", "label": "medical_emergency"}
+{"text": "mi esposa tomó unas pastillas y no despierta respira muy lento no sé qué hacer", "label": "medical_emergency"}
+{"text": "wey me atoré con un hueso no puedo respirar me pongo morado", "label": "medical_emergency"}
+{"text": "dolor intenso en el pecho con irradiación al brazo izquierdo y sudoración fría", "label": "medical_emergency"}
+{"text": "me ahogué en el río toso sangre ayuda", "label": "medical_emergency"}
+{"text": "choqué en la carretera el volante me aplastó el pecho y no puedo respirar", "label": "medical_emergency"}
+{"text": "mi mamá no puede hablar y tiene la boca torcida está tirada en el suelo tengo mucho miedo", "label": "medical_emergency"}
+{"text": "me chingaron me dieron un balazo en la espalda no para de sangrar", "label": "medical_emergency"}
+{"text": "llevo horas en la nieve mis dedos están blancos y no los siento", "label": "medical_emergency"}
+{"text": "me corté la mano no para de sangrar ayuda", "label": "medical_emergency"}
+{"text": "me comí un camarón y se me está hinchando la garganta no puedo respirar tengo miedo", "label": "medical_emergency"}
+{"text": "mi hijo se tomó el líquido de abajo del lavabo no responde y está vomitando", "label": "medical_emergency"}
+{"text": "wey mi sobrino se atoró con un dulce y no respira", "label": "medical_emergency"}
+{"text": "dolor opresivo en el pecho que se extiende al brazo y mandíbula", "label": "medical_emergency"}
+{"text": "casi me ahogo en el mar toso sangre ayuda", "label": "medical_emergency"}
+{"text": "me caí de un andamio de 4 metros y me fracturé la pierna no puedo caminar", "label": "medical_emergency"}
+{"text": "mi tío no puede mover la mitad del cuerpo y no habla tengo miedo", "label": "medical_emergency"}
+{"text": "wey me dieron un balazo en la pierna no deja de sangrar", "label": "medical_emergency"}
+{"text": "mis dedos de los pies están morados y no los siento", "label": "medical_emergency"}
+{"text": "me corté el brazo no para de sangrar ayuda", "label": "medical_emergency"}
+{"text": "me picó una abeja y se me está cerrando la garganta tengo miedo", "label": "medical_emergency"}
+{"text": "mi hermana tomó demasiadas pastillas y no despierta", "label": "medical_emergency"}
+{"text": "no mames mi compa se atoró con un hueso y no respira", "label": "medical_emergency"}
+{"text": "dolor en el pecho acompañado de náuseas y sudoración", "label": "medical_emergency"}
+{"text": "casi me ahogo en la alberca toso sangre ayuda", "label": "medical_emergency"}
+{"text": "me cayó una tabla con clavos en la pierna se me atravesó y no deja de sangrar", "label": "medical_emergency"}
+{"text": "mi esposa no puede hablar y tiene la boca torcida tengo mucho miedo", "label": "medical_emergency"}
+{"text": "me dieron un balazo en la pierna wey no para de sangrar", "label": "medical_emergency"}
+{"text": "mis manos están blancas y no las siento por el frío", "label": "medical_emergency"}
+{"text": "me corté la pierna con una sierra sangre ayuda", "label": "medical_emergency"}
+{"text": "me picó una avispa y no puedo respirar se me cierra la garganta tengo miedo", "label": "medical_emergency"}
+{"text": "mi mamá se tomó unas pastillas y no responde", "label": "medical_emergency"}
+{"text": "wey mi niño se atoró con un juguete no respira", "label": "medical_emergency"}
+{"text": "dolor torácico con irradiación al brazo izquierdo y dificultad respiratoria", "label": "medical_emergency"}
+{"text": "me ahogué en el mar no puedo respirar ayuda", "label": "medical_emergency"}
+{"text": "me caí de las escaleras y me golpeé la cabeza veo borroso", "label": "medical_emergency"}
+{"text": "mi papá no puede hablar y tiene la cara torcida ayuda tengo miedo", "label": "medical_emergency"}
+{"text": "no mames me dieron un balazo en la pierna", "label": "medical_emergency"}
+{"text": "mis dedos están negros por el frío y no los siento", "label": "medical_emergency"}
+{"text": "me corté la mano sangre ayuda", "label": "medical_emergency"}
+{"text": "me comí un marisco y se me hincha la garganta no puedo respirar tengo miedo", "label": "medical_emergency"}
+{"text": "mi hija tomó algo que no debía y no despierta", "label": "medical_emergency"}
+{"text": "wey me atoré con la comida no respiro", "label": "medical_emergency"}
+{"text": "dolor en el pecho que sube al brazo y mandíbula", "label": "medical_emergency"}
+{"text": "casi me ahogo en la playa ayuda", "label": "medical_emergency"}
+{"text": "me caí de la bicicleta y me raspé todo el brazo está sangrando", "label": "medical_emergency"}
+{"text": "mi abuelo no puede mover el lado izquierdo del cuerpo tengo miedo", "label": "medical_emergency"}
+{"text": "me chingaron wey me dieron un balazo", "label": "medical_emergency"}
+{"text": "tengo congelamiento en los dedos de los pies", "label": "medical_emergency"}
+{"text": "sangre mucha sangre ayuda", "label": "medical_emergency"}
+{"text": "me picó una abeja y no puedo respirar tengo miedo", "label": "medical_emergency"}
+{"text": "mi hermano tomó pastillas y no despierta", "label": "medical_emergency"}
+{"text": "no mames me atoré con un hueso", "label": "medical_emergency"}
+{"text": "dolor en el pecho y dificultad para respirar", "label": "medical_emergency"}
+{"text": "me ahogué en el río ayuda", "label": "medical_emergency"}
+{"text": "me caí de la moto y me fracturé la pierna", "label": "medical_emergency"}
+{"text": "mi mamá tiene la boca torcida y no habla tengo mucho miedo", "label": "medical_emergency"}
+{"text": "wey me dieron un balazo en el brazo", "label": "medical_emergency"}
+{"text": "no siento los dedos por el frío", "label": "medical_emergency"}
+{"text": "me corté no para de sangrar ayuda", "label": "medical_emergency"}
+{"text": "se me cierra la garganta por una picadura tengo miedo", "label": "medical_emergency"}
+{"text": "mi esposo tomó pastillas y no responde", "label": "medical_emergency"}
+{"text": "wey no puedo respirar me atoré", "label": "medical_emergency"}
+{"text": "dolor torácico intenso y sudoración", "label": "medical_emergency"}
+{"text": "casi me ahogo ayuda", "label": "medical_emergency"}
+{"text": "me caí de un árbol y me fracturé el brazo", "label": "medical_emergency"}
+{"text": "mi papá no puede hablar ni mover la cara tengo miedo", "label": "medical_emergency"}
+{"text": "me dieron un balazo wey", "label": "medical_emergency"}
+{"text": "tengo los dedos congelados y no los siento", "label": "medical_emergency"}
+{"text": "sangre no para ayuda", "label": "medical_emergency"}
+{"text": "no puedo respirar por una picadura tengo miedo", "label": "medical_emergency"}
+{"text": "mi mamá tomó pastillas y no despierta", "label": "medical_emergency"}
+{"text": "wey no respiro me atoré", "label": "medical_emergency"}
+{"text": "dolor en el pecho y el brazo izquierdo", "label": "medical_emergency"}
+{"text": "me ahogué ayuda", "label": "medical_emergency"}
+{"text": "me caí de la escalera y me fracturé la pierna", "label": "medical_emergency"}
+{"text": "mi esposo no puede hablar ni mover la cara tengo mucho miedo", "label": "medical_emergency"}
+{"text": "no mames me dieron un balazo en la pierna", "label": "medical_emergency"}
+{"text": "mis dedos están blancos y no los siento", "label": "medical_emergency"}
+{"text": "me corté el brazo sangre ayuda", "label": "medical_emergency"}
+{"text": "se me está cerrando la garganta no puedo respirar tengo miedo", "label": "medical_emergency"}
+{"text": "mi hijo tomó algo y no despierta", "label": "medical_emergency"}
+{"text": "no mames me atoré con la comida", "label": "medical_emergency"}
+{"text": "dolor en el pecho y falta de aire", "label": "medical_emergency"}
+{"text": "casi me ahogo ayuda ayuda", "label": "medical_emergency"}
+{"text": "me caí de la bicicleta y me fracturé el brazo", "label": "medical_emergency"}
+{"text": "mi mamá tiene la cara torcida no habla tengo miedo", "label": "medical_emergency"}
+{"text": "wey me dieron un balazo en la pierna", "label": "medical_emergency"}
+{"text": "tengo congelamiento en las manos", "label": "medical_emergency"}
+{"text": "sangre mucha sangre ayuda rápido", "label": "medical_emergency"}
+{"text": "no puedo respirar por la picadura de una abeja tengo miedo", "label": "medical_emergency"}
+{"text": "mi hermana tomó pastillas y no responde", "label": "medical_emergency"}
+{"text": "wey me atoré con un hueso no respiro", "label": "medical_emergency"}
+{"text": "dolor intenso en el pecho y brazo izquierdo", "label": "medical_emergency"}
+{"text": "me ahogué en el mar ayuda", "label": "medical_emergency"}
+{"text": "me caí de la moto y me fracturé la pierna", "label": "medical_emergency"}
+{"text": "mi papá no puede mover el brazo ni hablar tengo miedo", "label": "medical_emergency"}
+{"text": "no mames me dieron un balazo en la pierna", "label": "medical_emergency"}
+{"text": "no siento los dedos de los pies", "label": "medical_emergency"}
+{"text": "me corté no para de sangrar ayuda", "label": "medical_emergency"}
+{"text": "se me cierra la garganta por una picadura de avispa tengo miedo", "label": "medical_emergency"}
+{"text": "mi esposo tomó algo y no despierta", "label": "medical_emergency"}
+{"text": "wey no puedo respirar me atoré", "label": "medical_emergency"}
+{"text": "dolor en el pecho y sudoración fría", "label": "medical_emergency"}
+{"text": "casi me ahogo en el río ayuda", "label": "medical_emergency"}
+{"text": "me caí de las escaleras y me fracturé la muñeca", "label": "medical_emergency"}
+{"text": "mi hermana tiene la boca torcida no habla tengo mucho miedo", "label": "medical_emergency"}
+{"text": "me chingaron me dieron un balazo en la pierna", "label": "medical_emergency"}
+{"text": "mis dedos están congelados y no los siento", "label": "medical_emergency"}
+{"text": "me corté la pierna no para de sangrar ayuda", "label": "medical_emergency"}
+{"text": "no puedo respirar por una picadura de abeja tengo miedo", "label": "medical_emergency"}
+{"text": "mi hijo tomó pastillas y no despierta", "label": "medical_emergency"}
+{"text": "no mames me atoré con la comida no respiro", "label": "medical_emergency"}
+{"text": "dolor en el pecho que sube al brazo", "label": "medical_emergency"}
+{"text": "me ahogué en la alberca ayuda", "label": "medical_emergency"}
+{"text": "me caí de un segundo piso y me fracturé la pierna", "label": "medical_emergency"}
+{"text": "mi esposo no puede mover el lado izquierdo tengo miedo", "label": "medical_emergency"}
+{"text": "wey me dieron un balazo en la pierna", "label": "medical_emergency"}
+{"text": "tengo congelamiento en los dedos de las manos", "label": "medical_emergency"}
+{"text": "sangre no para ayuda ayuda", "label": "medical_emergency"}
+{"text": "se me está cerrando la garganta no puedo respirar tengo miedo", "label": "medical_emergency"}
+{"text": "mi hermana tomó pastillas y no responde", "label": "medical_emergency"}
+{"text": "wey me atoré con un hueso no respiro", "label": "medical_emergency"}
+{"text": "dolor torácico intenso y falta de aire", "label": "medical_emergency"}
+{"text": "casi me ahogo en la playa ayuda", "label": "medical_emergency"}
+{"text": "me caí de la bicicleta y me fracturé el brazo", "label": "medical_emergency"}
+{"text": "mi papá tiene la cara torcida no habla tengo miedo", "label": "medical_emergency"}
+{"text": "no mames me dieron un balazo en el hombro", "label": "medical_emergency"}
+{"text": "mis manos están blancas y no las siento", "label": "medical_emergency"}
+{"text": "me corté el brazo no para de sangrar ayuda", "label": "medical_emergency"}
+{"text": "me picó una avispa y no puedo respirar tengo miedo", "label": "medical_emergency"}
+{"text": "mi hermano tomó algo y no despierta", "label": "medical_emergency"}
+{"text": "wey no respiro me atoré", "label": "medical_emergency"}
+{"text": "dolor en el pecho y brazo izquierdo", "label": "medical_emergency"}
+{"text": "me ahogué en el río ayuda", "label": "medical_emergency"}
+{"text": "me caí de la escalera y me fracturé la pierna", "label": "medical_emergency"}
+{"text": "mi mamá no puede mover la cara ni hablar tengo mucho miedo", "label": "medical_emergency"}
+{"text": "wey me dieron un balazo en la pierna", "label": "medical_emergency"}
+{"text": "no siento los dedos de los pies", "label": "medical_emergency"}
+{"text": "sangre mucha sangre ayuda", "label": "medical_emergency"}
+{"text": "no puedo respirar por una picadura de abeja tengo miedo", "label": "medical_emergency"}
+{"text": "mi esposa tomó pastillas y no despierta", "label": "medical_emergency"}
+{"text": "no mames me atoré con la comida", "label": "medical_emergency"}
+{"text": "dolor en el pecho y sudoración", "label": "medical_emergency"}
+{"text": "casi me ahogo ayuda", "label": "medical_emergency"}
+{"text": "me caí de la moto y me fracturé la pierna", "label": "medical_emergency"}
+{"text": "mi papá tiene la boca torcida no habla tengo miedo", "label": "medical_emergency"}
+{"text": "no mames me dieron un balazo", "label": "medical_emergency"}
+{"text": "tengo congelamiento en los dedos", "label": "medical_emergency"}
+{"text": "me corté no para de sangrar ayuda", "label": "medical_emergency"}
+{"text": "se me cierra la garganta por una picadura tengo miedo", "label": "medical_emergency"}
+{"text": "mi hijo tomó pastillas y no responde", "label": "medical_emergency"}
+{"text": "wey no puedo respirar me atoré", "label": "medical_emergency"}
+{"text": "dolor en el pecho y brazo izquierdo", "label": "medical_emergency"}
+{"text": "me ahogué en la playa ayuda", "label": "medical_emergency"}
+{"text": "me caí de las escaleras y me fracturé la muñeca", "label": "medical_emergency"}
+{"text": "mi esposa no puede mover el lado izquierdo tengo mucho miedo", "label": "medical_emergency"}
+{"text": "wey me dieron un balazo en la pierna", "label": "medical_emergency"}
+{"text": "no siento mis manos por el frío", "label": "medical_emergency"}
+{"text": "me corté la pierna sangre ayuda", "label": "medical_emergency"}
+{"text": "no puedo respirar por una picadura de avispa tengo miedo", "label": "medical_emergency"}
+{"text": "mi hermana tomó pastillas y no despierta", "label": "medical_emergency"}
+{"text": "wey me atoré con un hueso", "label": "medical_emergency"}
+{"text": "dolor torácico y falta de aire", "label": "medical_emergency"}
+{"text": "casi me ahogo en el río ayuda", "label": "medical_emergency"}
+{"text": "me caí de la bicicleta y me fracturé el brazo", "label": "medical_emergency"}
+{"text": "mi papá tiene la cara torcida tengo miedo", "label": "medical_emergency"}
+{"text": "no mames me dieron un balazo en el hombro", "label": "medical_emergency"}
+{"text": "mis dedos están congelados", "label": "medical_emergency"}
+{"text": "sangre no para ayuda", "label": "medical_emergency"}
+{"text": "se me está cerrando la garganta tengo miedo", "label": "medical_emergency"}
+{"text": "mi esposo tomó pastillas y no despierta", "label": "medical_emergency"}
+{"text": "wey no respiro me atoré", "label": "medical_emergency"}
+{"text": "me duele mucho el pecho y brazo", "label": "medical_emergency"}
+{"text": "me ahogué ayuda", "label": "medical_emergency"}
+{"text": "dios mío me duele el pecho no puedo respirar ayuda", "label": "medical_emergency"}
+{"text": "por favor dios no para de sangrar me voy a morir", "label": "medical_emergency"}
+{"text": "dios santo me caí de un andamio no siento las piernas", "label": "medical_emergency"}
+{"text": "dios mío ayúdame me dispararon sangra mucho", "label": "medical_emergency"}
+{"text": "dios mío casi me ahogo toso sangre", "label": "medical_emergency"}
+{"text": "por favor dios se me cierra la garganta no puedo respirar", "label": "medical_emergency"}
+{"text": "dios santo mi hijo está convulsionando ayuda", "label": "medical_emergency"}
+{"text": "dios mío ayúdame mi esposa tomó pastillas no despierta", "label": "medical_emergency"}
+{"text": "por favor dios me quebré la cadera no puedo moverme", "label": "medical_emergency"}
+{"text": "dios santo me corté la mano sangre por todos lados", "label": "medical_emergency"}
+{"text": "dios mío el dolor en el pecho es horrible no puedo respirar", "label": "medical_emergency"}
+{"text": "por favor dios me caí de un segundo piso no siento las piernas", "label": "medical_emergency"}
+{"text": "dios santo mi hermano tomó algo no responde", "label": "medical_emergency"}
+{"text": "dios mío ayúdame se me está cerrando la garganta no puedo respirar", "label": "medical_emergency"}
+{"text": "por favor dios no para de sangrar me estoy mareando", "label": "medical_emergency"}
+{"text": "dios mío me duele el pecho y se me sube al brazo tengo mucho miedo", "label": "medical_emergency"}
+{"text": "por favor dios me caí de la moto y veo el hueso no sé qué hacer", "label": "medical_emergency"}
+{"text": "dios santo mi papá no puede hablar ni mover la cara necesito ayuda", "label": "medical_emergency"}
+{"text": "dios mío ayúdame me picó una abeja y no puedo respirar", "label": "medical_emergency"}
+{"text": "por favor dios no para de sangrar y me estoy mareando", "label": "medical_emergency"}
+{"text": "dios mío mi hermana tomó pastillas y no despierta tengo mucho miedo", "label": "medical_emergency"}
+{"text": "dios santo casi me ahogo en el río y tos con sangre", "label": "medical_emergency"}
+{"text": "por favor dios mi hijo lleva 5 minutos convulsionando no sé qué hacer", "label": "medical_emergency"}
+{"text": "dios mío ayúdame me caí de la escalera y no puedo mover la pierna", "label": "medical_emergency"}
+{"text": "dios mío siento que me voy a morir el dolor en el pecho es horrible", "label": "medical_emergency"}
+{"text": "dios mío mi esposo chocó y está inconsciente no respira tengo mucho miedo", "label": "medical_emergency"}
+{"text": "por favor dios me dieron un balazo en la pierna y no para de sangrar", "label": "medical_emergency"}
+{"text": "dios santo mi mamá se tomó un frasco de pastillas y no despierta", "label": "medical_emergency"}
+{"text": "dios mío ayúdame me caí de un segundo piso y no siento las piernas", "label": "medical_emergency"}
+{"text": "por favor dios se me está cerrando la garganta por una picadura de avispa", "label": "medical_emergency"}
+{"text": "dios mío me duele el pecho y no sé si es grave o solo estoy nervioso no sé qué hacer", "label": "medical_emergency"}
+{"text": "por favor dios no para de sangrar pero no sé si es tan grave tengo miedo de exagerar", "label": "medical_emergency"}
+{"text": "dios santo me caí y me duele la cabeza no sé si ir al hospital o esperar", "label": "medical_emergency"}
+{"text": "dios mío ayúdame mi hijo tomó algo pero no sé qué fue estoy desesperado", "label": "medical_emergency"}
+{"text": "por favor dios me picó una abeja y se me está hinchando la mano no sé si es alergia", "label": "medical_emergency"}
+{"text": "dios mío mi hermano está temblando pero no sé si es convulsión o solo frío no sé qué hacer", "label": "medical_emergency"}
+{"text": "dios santo siento presión en el pecho pero no sé si es ansiedad o algo peor", "label": "medical_emergency"}
+{"text": "por favor dios me corté pero no sé si necesito puntos no dejo de pensar en eso", "label": "medical_emergency"}
+{"text": "dios mío ayúdame mi esposo se golpeó la cabeza y está mareado no sé si llevarlo al hospital", "label": "medical_emergency"}
+{"text": "dios mío mi amiga tomó pastillas y está dormida pero respira bien no sé si llamar a una ambulancia", "label": "medical_emergency"}
+{"text": "por favor dios se me está poniendo la piel roja y me pica pero no sé si es alergia grave", "label": "medical_emergency"}
+{"text": "dios santo me resbalé y me duele la muñeca no sé si está rota o solo es un esguince", "label": "medical_emergency"}
+{"text": "dios mío ayúdame mi bebé está raro y tiembla no sé si es una convulsión o solo fiebre", "label": "medical_emergency"}
+{"text": "por favor dios me duele la espalda y el pecho pero no sé si es el corazón o solo estrés", "label": "medical_emergency"}
+{"text": "dios mío mi hermana tomó algo y está confundida no sé qué hacer estoy muy angustiada", "label": "medical_emergency"}
+{"text": "me siento muy mal no sé qué me pasa", "label": "other"}
+{"text": "ayuda algo está pasando con mi papá", "label": "other"}
+{"text": "no me siento bien tengo miedo", "label": "other"}
+{"text": "mi mamá no se siente bien no sé qué hacer", "label": "other"}
+{"text": "algo pasó no sé cómo explicarlo", "label": "other"}
+{"text": "necesito ayuda pero no sé con quién hablar", "label": "other"}
+{"text": "me siento extraño pero no sé qué es", "label": "other"}
+{"text": "mi hermano se puso raro no sé qué pasó", "label": "other"}
+{"text": "me pasó algo pero no sé cómo decirlo", "label": "other"}
+{"text": "alguien ayúdeme no sé qué está ocurriendo", "label": "other"}
+{"text": "estoy preocupado no sé qué está pasando", "label": "other"}
+{"text": "mi hijo está actuando extraño no sé si es grave", "label": "other"}
+{"text": "no entiendo lo que está pasando", "label": "other"}
+{"text": "me siento extraño necesito ayuda", "label": "other"}
+{"text": "no sé qué está pasando estoy muy asustado", "label": "other"}
+{"text": "ayuda no sé qué hacer esto es muy extraño", "label": "other"}
+{"text": "mi mamá no se siente bien y no sé por qué", "label": "other"}
+{"text": "estoy muy preocupado no sé qué está ocurriendo", "label": "other"}
+{"text": "algo malo está pasando pero no sé qué", "label": "other"}
+{"text": "no sé qué hacer esto es muy extraño", "label": "other"}
+{"text": "mi papá está muy raro tengo miedo y no sé qué pasa", "label": "other"}
+{"text": "no sé qué pasó no entiendo ayuda", "label": "other"}
+{"text": "extraño no sé qué hacer ayuda ayuda", "label": "other"}
+{"text": "no entiendo qué pasa no sé qué hacer", "label": "other"}
+{"text": "algo pasa no sé explicar ayuda", "label": "other"}
+{"text": "algo raro está pasando no sé qué es tengo miedo", "label": "other"}
+{"text": "mi hermana se puso rara no sé qué le pasa ayudame", "label": "other"}
+{"text": "no sé qué está pasando tengo miedo llamen a alguien", "label": "other"}
+{"text": "algo malo pasó no sé qué hacer ayudame porfa", "label": "other"}
+{"text": "me siento raro", "label": "other"}
+{"text": "algo está mal porfavor ayuda", "label": "other"}
+{"text": "necesito ayuda pero no sé que me pasa", "label": "other"}
+{"text": "necesito tu ayuda", "label": "other"}
+{"text": "wey no sé qué pasó pero algo está raro", "label": "other"}
+{"text": "no mames no entiendo qué está pasando necesito tu ayuda", "label": "other"}
+{"text": "no se que pasa esrtoy confundido y tengo miedo", "label": "other"}
+{"text": "mi esposa está rara no sé qué le pasa", "label": "other"}
+{"text": "algo me preocupa pero no sé explicar qué", "label": "other"}
+{"text": "no entiendo qué está pasando con mi cuerpo", "label": "other"}
+{"text": "me estoy sitiendo un poco extraño", "label": "other"}
+{"text": "mi amigo se puso raro de repente no sé qué pasó", "label": "other"}
+{"text": "algo le pasó a mi hermano pero no sé qué", "label": "other"}
+{"text": "no sé qué pasó pero mi papá está muy extraño", "label": "other"}
+{"text": "mi mamá se ve mal no sé qué tiene", "label": "other"}
+{"text": "mi amigo se ve muy mal algo tiene", "label": "other"}
+{"text": "no sé qué pasó pero algo pasó ayuda", "label": "other"}
+{"text": "mi hermanito se puso raro no sé qué le pasa tengo miedo", "label": "other"}
+{"text": "mi amiga se siente mal no sé que pasa", "label": "other"}
+{"text": "wey no sé qué pasó pero algo está mal", "label": "other"}
+{"text": "no se que paso pero algo extraño pasa", "label": "other"}
+{"text": "no se que pasó pero mi amigo se siente mal", "label": "other"}
+{"text": "mi amigo está pálido y se ve un poco mal", "label": "other"}
+{"text": "no sé que pasa mi amiga está tirada", "label": "other"}
+{"text": "algo le pasa a mi hermana", "label": "other"}
+{"text": "no sé qué está pasando pero algo no está bien", "label": "other"}
+{"text": "tengo un mal presentimiento pero no sé por qué", "label": "other"}
+{"text": "wey siento que algo está mal pero no sé qué", "label": "other"}
+{"text": "no entiendo qué le pasa a mi esposo está muy callado", "label": "other"}
+{"text": "mi hijo está raro no me habla y no sé qué hacer", "label": "other"}
+{"text": "no entiendo nada ayuda", "label": "other"}
+{"text": "mi mamá se siente mal pero no dice qué tiene", "label": "other"}
+{"text": "wey mi compa está bien raro no sé qué pedo", "label": "other"}
+{"text": "necesito asistencia pero no logro identificar el problema", "label": "other"}
+{"text": "no sé qué pasa pero tengo miedo", "label": "other"}
+{"text": "mi hermana está llorando y no sé por qué", "label": "other"}
+{"text": "mi amigo no responde bien no sé si está bien", "label": "other"}
+{"text": "no see que pasa estoy confundido", "label": "other"}
+{"text": "algo me preocupa pero no sé qué es", "label": "other"}
+{"text": "no mames no entiendo qué onda", "label": "other"}
+{"text": "no sé qué hacer ayuda ayuda", "label": "other"}
+{"text": "mi esposa se comporta extraño no sé qué le ocurre", "label": "other"}
+{"text": "tengo mucho miedo no sé qué está pasando", "label": "other"}
+{"text": "requiero ayuda pero no puedo precisar la naturaleza del problema", "label": "other"}
+{"text": "no sé qué le pasa a mi cuerpo me siento débil", "label": "other"}
+{"text": "wey algo está raro no sé qué pedo", "label": "other"}
+{"text": "algo malo pasó y no sé qué hacer", "label": "other"}
+{"text": "mi papá está muy extraño no sé qué tiene", "label": "other"}
+{"text": "no se que me pasa siento algo raro", "label": "other"}
+{"text": "no entiendo por qué mi hermano se puso así", "label": "other"}
+{"text": "no entiendo qué pasa con mi amigo ayuda", "label": "other"}
+{"text": "mi mamá dice que no se siente bien pero no me dice más", "label": "other"}
+{"text": "wey no sé qué onda con mi cuerpo", "label": "other"}
+{"text": "me encuentro desconcertado sin poder identificar la causa", "label": "other"}
+{"text": "mi hermana está rara no sé qué le pasa", "label": "other"}
+{"text": "siento que algo malo va a pasar pero no sé qué", "label": "other"}
+{"text": "no sé qué me pasa ayuda", "label": "other"}
+{"text": "mi novio se puso raro no sé qué le pasó", "label": "other"}
+{"text": "wey me siento bien extraño no sé qué es", "label": "other"}
+{"text": "no se que pasa me siento mal", "label": "other"}
+{"text": "mi mamá está muy angustiada y no sé por qué", "label": "other"}
+{"text": "no sé qué le ocurre a mi marido está muy callado", "label": "other"}
+{"text": "no entiendo nada de lo que pasa", "label": "other"}
+{"text": "observo un comportamiento inusual en mi acompañante sin causa aparente", "label": "other"}
+{"text": "mi hija está llorando y no sé qué le pasa", "label": "other"}
+{"text": "no mames no sé qué está pasando", "label": "other"}
+{"text": "mi amigo se ve mal pero no sé qué tiene", "label": "other"}
+{"text": "algo no está bien pero no sé qué es", "label": "other"}
+{"text": "no se que pasa mi cuerpo esta raro", "label": "other"}
+{"text": "mi compañero se comporta de forma extraña sin motivo", "label": "other"}
+{"text": "no sé qué hacer no entiendo nada", "label": "other"}
+{"text": "mi mamá se", "label": "other"}
+{"text": "ayuda mi papá está", "label": "other"}
+{"text": "mi amigo no", "label": "other"}
+{"text": "creo que algo", "label": "other"}
+{"text": "mi esposa se cayó y", "label": "other"}
+{"text": "mi hermano está", "label": "other"}
+{"text": "ayuda no puedo", "label": "other"}
+{"text": "el doctor dijo que", "label": "other"}
+{"text": "wey mi compa se puso", "label": "other"}
+{"text": "solicito asistencia porque", "label": "other"}
+{"text": "mi mamá no", "label": "other"}
+{"text": "mi amigo se siente", "label": "other"}
+{"text": "no puedo", "label": "other"}
+{"text": "mi papá se lastimó y", "label": "other"}
+{"text": "ella está", "label": "other"}
+{"text": "wey mi vieja", "label": "other"}
+{"text": "no sé", "label": "other"}
+{"text": "observo que mi compañero", "label": "other"}
+{"text": "ayuda por favor", "label": "other"}
+{"text": "mi hermana", "label": "other"}
+{"text": "mi amigo esta", "label": "other"}
+{"text": "mi marido dice que", "label": "other"}
+{"text": "ayuda con", "label": "other"}
+{"text": "wey mi compa", "label": "other"}
+{"text": "no sé qué hacer", "label": "other"}
+{"text": "mi esposa se queja de", "label": "other"}
+{"text": "mi acompañante presenta", "label": "other"}
+{"text": "mi papá me dijo", "label": "other"}
+{"text": "mi hermana está con", "label": "other"}
+{"text": "no puedo con", "label": "other"}
+{"text": "wey mi jefe", "label": "other"}
+{"text": "no se que", "label": "other"}
+{"text": "mi mamá se", "label": "other"}
+{"text": "mi hijo se cayó y", "label": "other"}
+{"text": "necesito ayuda porque", "label": "other"}
+{"text": "mi amigo se puso", "label": "other"}
+{"text": "ayuda rápido", "label": "other"}
+{"text": "wey no mames", "label": "other"}
+{"text": "mi amigo está muy", "label": "other"}
+{"text": "mi esposo no", "label": "other"}
+{"text": "no se que pasa", "label": "other"}
+{"text": "mi compañero se encuentra", "label": "other"}
+{"text": "mi mamá se siente", "label": "other"}
+{"text": "no sé", "label": "other"}
+{"text": "wey mi compa", "label": "other"}
+{"text": "mi hija está", "label": "other"}
+{"text": "mi hermana no", "label": "other"}
+{"text": "me encuentro en una situación", "label": "other"}
+{"text": "mi papá", "label": "other"}
+{"text": "mi amigo se siente", "label": "other"}
+{"text": "wey mi morra", "label": "other"}
+{"text": "mi compañero dice que", "label": "other"}
+{"text": "tengo miedo", "label": "other"}
+{"text": "ayuda ya", "label": "other"}
+{"text": "observo que mi colega", "label": "other"}
+{"text": "mi mamá me dijo", "label": "other"}
+{"text": "wey no sé", "label": "other"}
+{"text": "mi amigo esta", "label": "other"}
+{"text": "mi esposa está", "label": "other"}
+{"text": "no entiendo", "label": "other"}
+{"text": "solicito ayuda para", "label": "other"}
+{"text": "mi amigo se", "label": "other"}
+{"text": "mi marido se siente", "label": "other"}
+{"text": "mi hermana", "label": "other"}
+{"text": "wey mi compa", "label": "other"}
+{"text": "no se que pasa", "label": "other"}
+{"text": "mi esposo dice que", "label": "other"}
+{"text": "ayuda ayuda", "label": "other"}
+{"text": "mi compañero necesita", "label": "other"}
+{"text": "no sé qué hacer", "label": "other"}
+{"text": "wey mi vieja", "label": "other"}
+{"text": "mi amigo se", "label": "other"}
+{"text": "mi hija se queja de", "label": "other"}
+{"text": "no puedo más", "label": "other"}
+{"text": "requiero asistencia porque", "label": "other"}
+{"text": "no se que me pasa", "label": "other"}
+{"text": "wey mi compa está", "label": "other"}
+{"text": "mi mamá no", "label": "other"}
+{"text": "mi amigo me dijo", "label": "other"}
+{"text": "mi papá", "label": "other"}
+{"text": "ella está mal", "label": "other"}
+{"text": "wey no mames", "label": "other"}
+{"text": "mi colega parece", "label": "other"}
+{"text": "no sé qué pasa", "label": "other"}
+{"text": "mi amigo se", "label": "other"}
+{"text": "mi esposo se", "label": "other"}
+{"text": "wey mi compa se", "label": "other"}
+{"text": "ayuda con esto", "label": "other"}
+{"text": "mi hermana está", "label": "other"}
+{"text": "necesito que me ayuden", "label": "other"}
+{"text": "mi amigo", "label": "other"}
+{"text": "wey no sé qué", "label": "other"}
+{"text": "mi compañero se", "label": "other"}
+{"text": "no sé qué hacer", "label": "other"}
+{"text": "observo que mi amigo", "label": "other"}
+{"text": "no se que me pasa", "label": "other"}
+{"text": "mi papá está", "label": "other"}
+{"text": "wey mi vieja", "label": "other"}
+{"text": "mi mamá", "label": "other"}
+{"text": "ayuda ya", "label": "other"}
+{"text": "no entiendo qué está pasando con mi cuerpo", "label": "other"}
+{"text": "estoy muy confundido no sé qué hacer", "label": "other"}
+{"text": "mi amigo está confundido y no sabe qué decir", "label": "other"}
+{"text": "no entiendo nada de lo que está pasando", "label": "other"}
+{"text": "no logro entender lo que me está ocurriendo", "label": "other"}
+{"text": "mi compañero se muestra desorientado y confundido", "label": "other"}
+{"text": "wey no entiendo qué onda con mi cuerpo", "label": "other"}
+{"text": "estoy desorientado no sé qué está pasando", "label": "other"}
+{"text": "no entiendo que le pasa a mi amigo", "label": "other"}
+{"text": "no sé qué pasa estoy confundido", "label": "other"}
+{"text": "me siento confundido no sé qué hacer", "label": "other"}
+{"text": "no entiendo qué le pasa a mi hermano", "label": "other"}
+{"text": "estoy muy confundido y asustado", "label": "other"}
+{"text": "wey mi compa está bien confundido", "label": "other"}
+{"text": "no logro entender qué le pasa a mi esposa", "label": "other"}
+{"text": "me encuentro confundido sin poder resolver la situación", "label": "other"}
+{"text": "mi amigo está confundido y no sabe dónde está", "label": "other"}
+{"text": "no entiendo nada ayuda", "label": "other"}
+{"text": "mi hermana está confundida no sé qué le pasa", "label": "other"}
+{"text": "wey no entiendo qué pedo", "label": "other"}
+{"text": "mi compañero parece confundido", "label": "other"}
+{"text": "no sé qué está pasando estoy muy confundido", "label": "other"}
+{"text": "no entiendo que le pasa a mi amigo", "label": "other"}
+{"text": "no sé qué pasa estoy confundido", "label": "other"}
+{"text": "mi acompañante se muestra confuso y desorientado", "label": "other"}
+{"text": "wey no entiendo nada de lo que pasa", "label": "other"}
+{"text": "mi amigo está muy confundido", "label": "other"}
+{"text": "no entiendo por qué me siento así", "label": "other"}
+{"text": "mi papá está confundido no sé qué le pasa", "label": "other"}
+{"text": "no entiendo qué me pasa", "label": "other"}
+{"text": "mi hermano está confundido y no sabe qué hacer", "label": "other"}
+{"text": "wey no entiendo qué onda", "label": "other"}
+{"text": "mi colega parece confundido sin motivo aparente", "label": "other"}
+{"text": "no logro entender lo que está sucediendo", "label": "other"}
+{"text": "no entiendo que le pasa a mi amigo", "label": "other"}
+{"text": "estoy muy confundido con todo esto", "label": "other"}
+{"text": "no entiendo qué pasa con él", "label": "other"}
+{"text": "estoy confundido no sé qué hacer", "label": "other"}
+{"text": "wey mi compa está bien confundido", "label": "other"}
+{"text": "no entiendo por qué mi esposa está así", "label": "other"}
+{"text": "mi compañero se muestra confundido", "label": "other"}
+{"text": "no sé qué está pasando estoy confundido", "label": "other"}
+{"text": "no entiendo nada ayuda", "label": "other"}
+{"text": "wey no entiendo qué pedo con mi cuerpo", "label": "other"}
+{"text": "mi amigo parece confundido", "label": "other"}
+{"text": "no entiendo que me pasa", "label": "other"}
+{"text": "mi amigo está muy confundido", "label": "other"}
+{"text": "me encuentro confundido sin saber qué hacer", "label": "other"}
+{"text": "mi hermano está confundido", "label": "other"}
+{"text": "no sé qué hacer estoy confundido", "label": "other"}
+{"text": "wey mi compa está bien perdido", "label": "other"}
+{"text": "no entiendo qué está pasando con mi hija", "label": "other"}
+{"text": "mi amigo está confundido y asustado", "label": "other"}
+{"text": "no entiendo nada de esto", "label": "other"}
+{"text": "mi acompañante se muestra desorientado", "label": "other"}
+{"text": "no entiendo que pasa", "label": "other"}
+{"text": "wey no sé qué onda con mi compa", "label": "other"}
+{"text": "estoy confundido y tengo miedo", "label": "other"}
+{"text": "mi compañero parece confundido", "label": "other"}
+{"text": "no entiendo qué me pasa ayuda", "label": "other"}
+{"text": "tengo mucho miedo pero no sé por qué", "label": "other"}
+{"text": "estoy muy asustado no sé qué hacer", "label": "other"}
+{"text": "tengo miedo por mi amigo no sé qué le pasa", "label": "other"}
+{"text": "tengo mucho miedo ayuda", "label": "other"}
+{"text": "me siento muy angustiado sin motivo", "label": "other"}
+{"text": "experimento una gran preocupación sin causa aparente", "label": "other"}
+{"text": "wey tengo un chingo de miedo", "label": "other"}
+{"text": "estoy muy angustiado no sé qué me pasa", "label": "other"}
+{"text": "tengo miedo no se que pasa", "label": "other"}
+{"text": "tengo mucho miedo llamen a alguien", "label": "other"}
+{"text": "siento una gran preocupación sin razón aparente", "label": "other"}
+{"text": "miedo mucho miedo ayuda", "label": "other"}
+{"text": "no puedo controlar mi miedo no sé qué hacer", "label": "other"}
+{"text": "wey tengo un pinche miedo", "label": "other"}
+{"text": "me siento muy preocupado sin saber por qué", "label": "other"}
+{"text": "sufro de una ansiedad intensa sin causa identificable", "label": "other"}
+{"text": "tengo mucho miedo por mi amigo", "label": "other"}
+{"text": "no puedo con el miedo ayuda", "label": "other"}
+{"text": "tengo miedo no sé qué pasa", "label": "other"}
+{"text": "wey estoy bien asustado", "label": "other"}
+{"text": "siento mucha preocupación sin motivo", "label": "other"}
+{"text": "estoy muy angustiado no sé qué hacer", "label": "other"}
+{"text": "tengo miedo no se que pasa", "label": "other"}
+{"text": "mucho miedo ayuda ayuda", "label": "other"}
+{"text": "presento un estado de ansiedad sin razón aparente", "label": "other"}
+{"text": "wey tengo un miedo cabrón", "label": "other"}
+{"text": "tengo mucho miedo por mi amigo", "label": "other"}
+{"text": "siento una gran angustia sin saber por qué", "label": "other"}
+{"text": "tengo miedo no sé qué hacer", "label": "other"}
+{"text": "miedo no puedo más ayuda", "label": "other"}
+{"text": "estoy muy preocupado sin razón", "label": "other"}
+{"text": "wey me está dando un chingo de miedo", "label": "other"}
+{"text": "experimento una sensación de pánico sin causa clara", "label": "other"}
+{"text": "me siento muy mal emocionalmente sin motivo", "label": "other"}
+{"text": "tengo miedo no se que pasa", "label": "other"}
+{"text": "no puedo dejar de tener miedo", "label": "other"}
+{"text": "miedo no entiendo ayuda", "label": "other"}
+{"text": "tengo mucho miedo llamen a alguien", "label": "other"}
+{"text": "wey tengo un miedo bien culero", "label": "other"}
+{"text": "siento una gran ansiedad sin motivo aparente", "label": "other"}
+{"text": "presento un estado de angustia sin causa identificable", "label": "other"}
+{"text": "estoy muy asustado no sé qué hacer", "label": "other"}
+{"text": "miedo mucho miedo ayuda", "label": "other"}
+{"text": "wey tengo un miedo de la chingada", "label": "other"}
+{"text": "siento mucha preocupación por mi amigo", "label": "other"}
+{"text": "tengo miedo no se que pasa", "label": "other"}
+{"text": "estoy muy angustiado sin razón", "label": "other"}
+{"text": "sufro una crisis de ansiedad sin motivo aparente", "label": "other"}
+{"text": "tengo miedo llamen a alguien", "label": "other"}
+{"text": "no puedo con el miedo ayuda", "label": "other"}
+{"text": "wey tengo un miedo bien gacho", "label": "other"}
+{"text": "siento una gran angustia sin saber por qué", "label": "other"}
+{"text": "tengo mucho miedo por mi hermano", "label": "other"}
+{"text": "miedo no entiendo ayuda", "label": "other"}
+{"text": "experimento un estado de pánico sin causa aparente", "label": "other"}
+{"text": "tengo miedo no se que hacer", "label": "other"}
+{"text": "wey tengo un pinche miedo", "label": "other"}
+{"text": "estoy muy asustado sin razón", "label": "other"}
+{"text": "siento preocupación sin motivo", "label": "other"}
+{"text": "miedo ayuda ayuda", "label": "other"}
+{"text": "no sé si esto es grave o no", "label": "other"}
+{"text": "no sé si debería preocuparme o no", "label": "other"}
+{"text": "no sé si mi amigo está bien o mal", "label": "other"}
+{"text": "no sé si es grave o no ayuda", "label": "other"}
+{"text": "no logro determinar la gravedad de la situación", "label": "other"}
+{"text": "wey no sé si está bien o está mal", "label": "other"}
+{"text": "no se si esto es grave", "label": "other"}
+{"text": "no sé si debo llamar a alguien o no", "label": "other"}
+{"text": "no sé si mi amigo necesita ayuda o no", "label": "other"}
+{"text": "no sé si es malo o bueno", "label": "other"}
+{"text": "no estoy seguro de si esto es una emergencia", "label": "other"}
+{"text": "no sé si es urgente o no", "label": "other"}
+{"text": "no tengo certeza sobre la urgencia del caso", "label": "other"}
+{"text": "wey no sé si está grave o no", "label": "other"}
+{"text": "no sé si debo preocuparme o no", "label": "other"}
+{"text": "no sé si esto es algo serio", "label": "other"}
+{"text": "no se si mi amigo esta bien", "label": "other"}
+{"text": "no sé si es grave ayuda", "label": "other"}
+{"text": "no sé si está bien o mal", "label": "other"}
+{"text": "wey no sé si esto es grave", "label": "other"}
+{"text": "no sé si debo llamar a una ambulancia o no", "label": "other"}
+{"text": "no logro discernir la seriedad de la situación", "label": "other"}
+{"text": "no sé si mi amigo está en peligro", "label": "other"}
+{"text": "no sé si es emergencia ayuda", "label": "other"}
+{"text": "wey no sé si está bien o está mal", "label": "other"}
+{"text": "no sé si debo hacer algo o esperar", "label": "other"}
+{"text": "no se si esto es grave", "label": "other"}
+{"text": "no sé si debo preocuparme o no", "label": "other"}
+{"text": "no sé si es malo o bueno", "label": "other"}
+{"text": "no sé si es grave o no ayuda", "label": "other"}
+{"text": "no tengo certeza sobre la urgencia de la situación", "label": "other"}
+{"text": "wey no sé si está grave o no", "label": "other"}
+{"text": "no sé si debo llamar a alguien", "label": "other"}
+{"text": "no sé si esto es algo serio", "label": "other"}
+{"text": "no se si mi amigo esta bien", "label": "other"}
+{"text": "no sé si es urgente ayuda", "label": "other"}
+{"text": "wey no sé si está bien o no", "label": "other"}
+{"text": "no sé si debo preocuparme", "label": "other"}
+{"text": "no sé si mi amigo necesita ayuda", "label": "other"}
+{"text": "no logro determinar la gravedad del asunto", "label": "other"}
+{"text": "no sé si es malo o bueno", "label": "other"}
+{"text": "no sé si es grave ayuda", "label": "other"}
+{"text": "wey no sé si está bien o está mal", "label": "other"}
+{"text": "no sé si debo hacer algo", "label": "other"}
+{"text": "no sé si mi amigo está en peligro", "label": "other"}
+{"text": "no se si esto es grave", "label": "other"}
+{"text": "no tengo certeza sobre la urgencia del caso", "label": "other"}
+{"text": "no sé si es emergencia ayuda", "label": "other"}
+{"text": "wey no sé si está grave o no", "label": "other"}
+{"text": "no sé si debo llamar a alguien", "label": "other"}
+{"text": "no sé si mi amigo necesita ayuda", "label": "other"}
+{"text": "no logro determinar la gravedad de la situación", "label": "other"}
+{"text": "no sé si es malo o bueno", "label": "other"}
+{"text": "no sé si es grave ayuda", "label": "other"}
+{"text": "wey no sé si está bien o no", "label": "other"}
+{"text": "no sé si debo preocuparme", "label": "other"}
+{"text": "no se si mi amigo esta bien", "label": "other"}
+{"text": "no sé si esto es algo serio", "label": "other"}
+{"text": "no tengo certeza sobre la urgencia del caso", "label": "other"}
+{"text": "no sé si es emergencia ayuda", "label": "other"}
+{"text": "no sé qué hacer con mi papá", "label": "other"}
+{"text": "estoy muy confundido y no sé qué hacer", "label": "other"}
+{"text": "wey algo pasa pero no sé qué", "label": "other"}
+{"text": "no sé qué pasa ayuda", "label": "other"}
+{"text": "algo malo pasa pero no sé qué", "label": "other"}
+{"text": "mi amigo está raro no sé qué le pasa", "label": "other"}
+{"text": "no sé qué hacer estoy desesperado", "label": "other"}
+{"text": "no se que pasa con mi cuerpo", "label": "other"}
+{"text": "no logro identificar el problema", "label": "other"}
+{"text": "wey no sé qué onda con todo esto", "label": "other"}
+{"text": "no sé qué está pasando con mi familia", "label": "other"}
+{"text": "no entiendo nada ayuda ayuda", "label": "other"}
+{"text": "estoy muy preocupado sin saber por qué", "label": "other"}
+{"text": "mi esposa está rara no sé qué le pasa", "label": "other"}
+{"text": "wey mi compa se ve mal no sé qué tiene", "label": "other"}
+{"text": "necesito ayuda pero no sé para qué", "label": "other"}
+{"text": "no se que pasa con mi amigo", "label": "other"}
+{"text": "no sé qué hacer con mi hijo", "label": "other"}
+{"text": "no sé qué hacer ayuda", "label": "other"}
+{"text": "no sé qué pasa tengo miedo", "label": "other"}
+{"text": "mi mamá se ve rara no sé qué tiene", "label": "other"}
+{"text": "mi amigo se puso pálido de repente no sé qué pasó", "label": "other"}
+{"text": "no entiendo qué está pasando con mi hermana", "label": "other"}
+{"text": "no sé qué hacer no entiendo", "label": "other"}
+{"text": "mi papá está muy callado no sé qué le pasa", "label": "other"}
+{"text": "no se que pasa conmigo", "label": "other"}
+{"text": "mi compañero se ve muy mal no sé qué tiene", "label": "other"}
+{"text": "wey no sé qué onda con mi mamá", "label": "other"}
+{"text": "no sé qué pasó con mi hermano", "label": "other"}
+{"text": "mi esposa no se siente bien no sé qué le pasa", "label": "other"}
+{"text": "no se que pasa con mi cuerpo", "label": "other"}
+{"text": "mi amigo está temblando no sé qué le pasa", "label": "other"}
+{"text": "no sé qué hacer con mi hijo", "label": "other"}
+{"text": "wey no sé qué onda con todo esto", "label": "other"}
+{"text": "no sé qué está pasando estoy muy asustado", "label": "other"}
+{"text": "no se que pasa con mi amigo", "label": "other"}
+{"text": "no logro entender lo que está sucediendo", "label": "other"}
+{"text": "no entiendo nada de lo que pasa", "label": "other"}
+{"text": "wey no sé qué pedo con mi vida", "label": "other"}
+{"text": "mi hermana está muy rara no sé qué le pasa", "label": "other"}
+{"text": "no se que me pasa estoy confundido", "label": "other"}
+{"text": "mi amigo se puso raro no sé qué le ocurre", "label": "other"}
+{"text": "no sé qué hacer con mi esposa", "label": "other"}
+{"text": "no entiendo qué pasa ayuda", "label": "other"}
+{"text": "wey no sé qué onda con mi compa", "label": "other"}
+{"text": "me perdí en el cerro ya no encuentro el sendero y está empezando a oscurecer no sé qué hacer", "label": "survival"}
+{"text": "no traigo agua y llevo horas caminando la botella está vacía y tengo mucha sed", "label": "survival"}
+{"text": "se está haciendo de noche y no encuentro el camino de regreso al campamento", "label": "survival"}
+{"text": "perdí la señal y no sé cómo llegar a la carretera no sé qué hacer", "label": "survival"}
+{"text": "la tormenta está llegando y no tengo dónde refugiarme qué hago", "label": "survival"}
+{"text": "perdí el sendero marcado llevo como 2 horas dando vueltas sin encontrar la salida", "label": "survival"}
+{"text": "no hay señal en el cerro y no puedo pedir ayuda el agua se me está acabando", "label": "survival"}
+{"text": "llevo varias horas perdido ya casi anochece y no traigo linterna", "label": "survival"}
+{"text": "el camino se cerró por un derrumbe no puedo seguir y no sé qué hacer", "label": "survival"}
+{"text": "me quedé sin agua y el sol está muy fuerte no sé si pueda llegar a la salida qué hago", "label": "survival"}
+{"text": "estoy atrapado en la montaña por la tormenta no puedo bajar ni subir", "label": "survival"}
+{"text": "la niebla está muy espesa y no veo el sendero me estoy desorientando", "label": "survival"}
+{"text": "se me acabó la comida y todavía me falta mucho para llegar a la civilización", "label": "survival"}
+{"text": "el río creció y no puedo cruzarlo estoy atrapado en esta orilla qué hago", "label": "survival"}
+{"text": "me perdí en el cerro y está oscureciendo tengo mucho miedo no sé qué hacer", "label": "survival"}
+{"text": "se me acabó el agua estoy desesperado el sol está muy fuerte y no tengo señal", "label": "survival"}
+{"text": "no encuentro el camino de regreso estoy asustado ya está oscureciendo y no traje linterna qué hago", "label": "survival"}
+{"text": "la tormenta me atrapó en el cerro no tengo dónde resguardarme tengo mucho miedo", "label": "survival"}
+{"text": "perdí el sendero y ya casi anochece estoy desesperado no sé si pueda salir de aquí", "label": "survival"}
+{"text": "se me acabó el agua y llevo horas perdido tengo mucha sed y me siento muy débil", "label": "survival"}
+{"text": "el río creció y no puedo cruzarlo estoy atrapado no sé qué hacer y está oscureciendo", "label": "survival"}
+{"text": "perdido cerro oscurece no señal ayuda ayuda", "label": "survival"}
+{"text": "agua se acabó sed no camino no salida ayuda", "label": "survival"}
+{"text": "tormenta llega no refugio atrapado ayuda rápido", "label": "survival"}
+{"text": "niebla espesa no veo sendero desorientado ayuda", "label": "survival"}
+{"text": "río crecido atrapado no cruzo oscurece ayuda", "label": "survival"}
+{"text": "me perdí en el cerro con mi papá no encuentro el camino y tengo miedo porque está oscuro", "label": "survival"}
+{"text": "se me acabó el agua y tengo mucha sed no sé dónde estoy ayudame porfavor", "label": "survival"}
+{"text": "está lloviendo mucho y no tengo dónde esconderme tengo frío y tengo miedo", "label": "survival"}
+{"text": "me perdí del grupo y no encuentro el sendero ya está oscureciendo y tengo miedo", "label": "survival"}
+{"text": "me perdí en el cerro y ya está oscureciendo no traje linterna y ya casi no tengo señal en el teléfono", "label": "survival"}
+{"text": "llevo varias horas sin agua y el sol está muy fuerte me siento muy débil y no encuentro la salida", "label": "survival"}
+{"text": "la tormenta me atrapó y no tengo dónde protegerme el agua está subiendo y no puedo avanzar no sé qué hacer", "label": "survival"}
+{"text": "el camino está bloqueado por un derrumbe no puedo regresar ni seguir adelante", "label": "survival"}
+{"text": "la niebla no me deja ver el sendero llevo horas perdido y el agua se está acabando no sé qué hacer", "label": "survival"}
+{"text": "wey me perdí en el cerro y ya está oscureciendo no traje ni linterna estoy bien asustado", "label": "survival"}
+{"text": "no mames se me acabó el agua y llevo horas caminando no veo salida por ningún lado", "label": "survival"}
+{"text": "me perdí en el cerro y ya está oscureciendo no tengo señal y el agua se me acabó", "label": "survival"}
+{"text": "la tormenta me sorprendió en el cerro el agua está subiendo y no puedo cruzar el río", "label": "survival"}
+{"text": "no tengo señal en el celular y no sé dónde estoy llevo horas caminando", "label": "survival"}
+{"text": "estoy perdido en el cerro con un grupo de personas ya casi no tenemos agua y está oscureciendo qué hago", "label": "survival"}
+{"text": "mi amigo se separó del grupo en el cerro ya no lo encuentro y creo que su teléfono no tiene señal", "label": "survival"}
+{"text": "un compañero se quedó atrapado por la tormenta no puede bajar y no tiene refugio", "label": "survival"}
+{"text": "mi amigo se perdió en el cerro está oscureciendo y no tiene agua ni señal tengo mucho miedo", "label": "survival"}
+{"text": "mi hermanito se perdió en el cerro no lo encuentro y ya está oscuro tengo miedo ayudame", "label": "survival"}
+{"text": "wey mi compa se perdió en el cerro ya está oscureciendo y no tiene señal no mames", "label": "survival"}
+{"text": "el grupo está atrapado por el río crecido no pueden cruzarlo y está empezando a llover", "label": "survival"}
+{"text": "hay una tormenta muy fuerte y varios senderistas no han regresado no tienen señal ni linternas", "label": "survival"}
+{"text": "mi novio se perdió en el cerro lleva horas sin agua y su teléfono no tiene señal ayuda", "label": "survival"}
+{"text": "un amigo se quedó sin agua y no encuentra el camino de regreso ya anocheció", "label": "survival"}
+{"text": "me torcí el tobillo en el cerro no puedo caminar no tengo agua ni señal y ya anocheció", "label": "survival"}
+{"text": "estoy en el cerro del tepozteco y empezó a llover muy fuerte el sendero está resbaloso y no puedo bajar hay piedras cayendo", "label": "survival"}
+{"text": "voy en el cerro del tepozteco y se está deslizando la tierra el camino está bloqueado por lodo y piedras no puedo seguir ni regresar", "label": "survival"}
+{"text": "lluvia fuerte sendero resbaloso deslave no bajo ayuda", "label": "survival"}
+{"text": "subí al cerro del bachoco y me desorienté con la neblina ya no veo el sendero y está empezando a oscurecer", "label": "survival"}
+{"text": "wey en el cerro del bachoco me perdí con la niebla no veo ni madres y ya está oscureciendo no traje ni linterna", "label": "survival"}
+{"text": "estoy en el desierto de los leones y el camino se cerró por un árbol caído no puedo pasar y ya está lloviendo", "label": "survival"}
+{"text": "me perdí en el desierto de los leones llevo horas caminando y no encuentro la salida no tengo señal en el teléfono", "label": "survival"}
+{"text": "en el sendero del iztaccíhuatl la tormenta de nieve nos sorprendió no vemos el camino y el frío está muy fuerte", "label": "survival"}
+{"text": "tormenta nieve izta no veo sendero frío extremo ayuda", "label": "survival"}
+{"text": "estoy en el iztaccíhuatl y la visibilidad es casi nula por la tormenta el frío está poniendo en riesgo a mi grupo", "label": "survival"}
+{"text": "subiendo al nevado de toluca el camino está cubierto de hielo no puedo avanzar ni regresar sin resbalarme", "label": "survival"}
+{"text": "el nevado de toluca está congelado resbalé varias veces y no puedo bajar el frío es insoportable", "label": "survival"}
+{"text": "en el pico de orizaba una tormenta eléctrica nos atrapó no tenemos dónde resguardarnos y el rayo cayó cerca", "label": "survival"}
+{"text": "no mames en el pico de orizaba cayó un rayo a 50 metros estamos bien expuestos y no hay refugio", "label": "survival"}
+{"text": "en el sendero de la sierra de guerrero encontré una zona con deslave no puedo pasar y el río está creciendo", "label": "survival"}
+{"text": "voy en la sierra gorda y me quedé sin agua el sol está bien fuerte me siento mareado y no encuentro el camino", "label": "survival"}
+{"text": "en la barranca del cobre el sendero se derrumbó por las lluvias estoy atrapado entre la pared y el precipicio", "label": "survival"}
+{"text": "barranca derrumbe sendero atrapado precipicio ayuda", "label": "survival"}
+{"text": "el río creció en el desierto de los leones y no puedo cruzarlo estoy atrapado en esta orilla y ya está oscureciendo", "label": "survival"}
+{"text": "me perdí en el bosque ya está oscuro y no encuentro a mi familia tengo mucho miedo y frío", "label": "survival"}
+{"text": "el cerro del tepozteco tiene deslaves por la lluvia estoy en una zona sin señal y no sé cómo bajar", "label": "survival"}
+{"text": "wey en el tepozteco hay un deslave bien culero no puedo bajar y ya se está haciendo de noche", "label": "survival"}
+{"text": "en el desierto de los leones el camino principal está bloqueado por un árbol de gran tamaño no puedo continuar", "label": "survival"}
+{"text": "en el nevado de toluca la niebla es tan espesa que no distingo el sendero llevo 3 horas perdido", "label": "survival"}
+{"text": "nevado toluca niebla espesa no veo sendero oras perdido tengo muxo frio", "label": "survival"}
+{"text": "el iztaccíhuatl está cubierto de hielo y todos los senderos están congelados no podemos bajar", "label": "survival"}
+{"text": "una tormenta eléctrica en el ajusco me sorprendió estoy en una zona abierta sin refugio", "label": "survival"}
+{"text": "no mames en el ajusco está cayendo un tormentón bien cabrón no hay dónde esconderse", "label": "survival"}
+{"text": "estoy en el cerro con mi papá y él se lastimó la pierna no puede caminar y está oscureciendo tengo miedo qué hago", "label": "survival"}
+{"text": "llevo horas perdido en las montañas la nieve está hasta la cintura y no encuentro el sendero no tengo señal y tengo mucho frío", "label": "survival"}
+{"text": "seguí una ruta que vi en una aplicación y ahora estoy perdido empapado y con hipotermia el sol ya se está poniendo", "label": "survival"}
+{"text": "caí por un acantilado tengo la pierna rota sin comida y sin agua a 4100 metros de altura ayuda", "label": "survival"}
+{"text": "wey seguí una ruta de una app y terminé en un terreno bien culero con acantilados llevo horas perdido y estoy empapado no mames", "label": "survival"}
+{"text": "pasé la noche en un barranco perdido y con hipotermia solo llevaba playera y shorts la temperatura bajó a 4 grados", "label": "survival"}
+{"text": "me caí en el monte williamson tengo una fractura expuesta en la pierna una tormenta eléctrica me alcanzó en el acantilado y no tengo mi mochila con comida ni agua", "label": "survival"}
+{"text": "viento patagonia tiró campamento tolda rota no refugio ayuda", "label": "survival"}
+{"text": "mi compañero se lastimó la rodilla en la montaña no puede caminar el sol está bajando y no tenemos agua suficiente ayudanos", "label": "survival"}
+{"text": "estoy subiendo el kilimanjaro y me dio un fuerte mal de altura no puedo continuar y bajar solo es muy difícil el guía se adelantó", "label": "survival"}
+{"text": "vamos tres subiendo el kilimanjaro mi compañero se quedó atrás con mal de altura tenemos que bajar juntos pero no puede caminar bien", "label": "survival"}
+{"text": "estoy en el campo base del everest y me dio un dolor de cabeza muy fuerte tengo náuseas y me falta el aire no puedo caminar bien", "label": "survival"}
+{"text": "subiendo los andes y me siento fatal la cabeza me explota todo me da vueltas y no puedo respirar creo que es el mal de altura", "label": "survival"}
+{"text": "mucho frio dolor cabeza vomitar falta aire no camino ayuda", "label": "survival"}
+{"text": "wey estoy en las montañas me pegó bien mal la altura no puedo respirar me duele la cabeza un chingo y todo me da vueltas", "label": "survival"}
+{"text": "mi compañero se empezó a sentir mal tiene náuseas y dolor de cabeza no puede continuar la expedición", "label": "survival"}
+{"text": "mi amigo está muy mal tiene un dolor de cabeza insoportable vomitó varias veces y está desorientado no sabe dónde está", "label": "survival"}
+{"text": "estoy en el iztaccíhuatl me siento fatal estoy mareado con náuseas y dolor de cabeza no puedo bajar solo", "label": "survival"}
+{"text": "mi compañero en el pico de orizaba está desorientado y vomitando claramente es mal de altura tenemos que bajar ya", "label": "survival"}
+{"text": "mi amigo en los alpes está muy confundido no reconoce el sendero y tiene alucinaciones", "label": "survival"}
+{"text": "wey estamos en la montaña mi compa está bien mal no sabe ni dónde está dice que ve cosas y se tropieza solo la altura le está pegando bien cabrón", "label": "survival"}
+{"text": "me picó un alacrán en el pie mientras caminaba siento un ardor fuerte y se me está hinchando la pierna qué hago", "label": "survival"}
+{"text": "una serpiente me mordió la mano en el sendero no sé si es venenosa pero me duele mucho y está sangrando", "label": "survival"}
+{"text": "una araña me picó en la pierna mientras dormía tengo una roncha grande y me duele mucho no sé qué hacer", "label": "survival"}
+{"text": "un perro callejero me mordió cuando pasaba tengo una herida profunda y está sangrando", "label": "survival"}
+{"text": "una abeja me picó en el cuello y se me está hinchando la garganta me cuesta un poco respirar", "label": "survival"}
+{"text": "me encontré con un puma en el cerro se quedó mirándome fijo y no sé si atacar estoy paralizado", "label": "survival"}
+{"text": "un jabalí me embistió en el bosque tengo una herida en la pierna y no puedo caminar bien", "label": "survival"}
+{"text": "una avispa me picó en el ojo está muy hinchado y no puedo abrirlo bien", "label": "survival"}
+{"text": "una serpiente de cascabel me mordió en el tobillo el veneno me está subiendo y siento hormigueo en la pierna no sé qué hacer", "label": "survival"}
+{"text": "un zorro me mordió la mano cuando intenté alimentarlo tengo una herida profunda que sangra", "label": "survival"}
+{"text": "una mantarraya me picó el pie en la playa tengo un dolor muy fuerte y está sangrando", "label": "survival"}
+{"text": "un alacrán me picó en la espalda cuando me acosté siento ardor y se me está entumeciendo el brazo", "label": "survival"}
+{"text": "una serpiente coral me mordió en el dedo no puedo mover bien la mano y me siento mareado", "label": "survival"}
+{"text": "un perro me mordió la pierna en el parque la herida es profunda y no para de sangrar", "label": "survival"}
+{"text": "una araña violinista me picó en la pierna la piel se está poniendo negra y me duele mucho", "label": "survival"}
+{"text": "una serpiente me mordió en la mano y no sé si es venenosa me duele muchísimo y se me está hinchando el brazo", "label": "survival"}
+{"text": "un perro me persiguió y me mordió la pierna la herida está sangrando mucho y tengo miedo de que esté infectada", "label": "survival"}
+{"text": "me picó una abeja en la cara y no puedo respirar bien tengo miedo de ser alérgica ayuda", "label": "survival"}
+{"text": "un alacrán me picó en la espalda y siento que me voy a desmayar el dolor es insoportable", "label": "survival"}
+{"text": "vi una serpiente y me mordió en el pie antes de que pudiera correr estoy sangrando mucho y tengo miedo", "label": "survival"}
+{"text": "una araña me picó en el brazo y la piel se está poniendo negra me duele horrible y me siento mareado", "label": "survival"}
+{"text": "un jabalí me atacó en el cerro tengo una herida profunda en la pierna y no puedo caminar ayuda", "label": "survival"}
+{"text": "una mantarraya me picó y no para de sangrar me duele muchísimo y no puedo caminar", "label": "survival"}
+{"text": "serpiente mordió mano veneno sube no respondo ayuda", "label": "survival"}
+{"text": "alacrán picó pie ardor hinchazón pierna ayuda ayuda", "label": "survival"}
+{"text": "araña picó pierna piel negra duele no camino ayuda", "label": "survival"}
+{"text": "puma encerrado mirándome fijo no me muevo ayuda", "label": "survival"}
+{"text": "una serpiente me mordió el pie en el campo y me duele mucho tengo miedo ayudame porfa", "label": "survival"}
+{"text": "un perro me mordió la mano y sangra mucho me duele y tengo miedo de los perros", "label": "survival"}
+{"text": "una abeja me picó en el brazo y me duele mucho se me está poniendo rojo y grande", "label": "survival"}
+{"text": "un alacrán me picó en la pierna y me duele mucho no puedo caminar ayudame porfa", "label": "survival"}
+{"text": "sufrí una mordedura de serpiente en el tobillo presento dolor agudo y signos de envenenamiento en la extremidad", "label": "survival"}
+{"text": "una araña me picó en la pierna la herida presenta necrosis y dolor intenso requiero atención médica", "label": "survival"}
+{"text": "un perro me mordió el brazo la herida es profunda y presenta sangrado activo necesito atención médica urgente", "label": "survival"}
+{"text": "sufrí una picadura de alacrán con síntomas de neurotoxicidad requiero evaluación médica inmediata", "label": "survival"}
+{"text": "wey una serpiente me mordió la mano en el cerro el veneno ya me está subiendo y no siento el brazo está bien culero", "label": "survival"}
+{"text": "no mames un alacrán me picó en el pie y siento que me voy a desmayar el dolor está bien cabrón", "label": "survival"}
+{"text": "me pico una serpiente en la mano me duele mucho y no siento el brazo estoy asustado", "label": "survival"}
+{"text": "un mapache me atacó en el campamento me mordió la mano y tengo una herida profunda", "label": "survival"}
+{"text": "una garrapata me picó en la cabeza tengo una roncha grande y me duele mucho", "label": "survival"}
+{"text": "vi a mi amigo ser mordido por una serpiente en el sendero la herida sangra y su brazo se está hinchando", "label": "survival"}
+{"text": "mi hermano fue picado por un alacrán no puede caminar y se está poniendo pálido", "label": "survival"}
+{"text": "mi compañero fue atacado por un perro tiene una herida profunda en la pierna y no para de sangrar", "label": "survival"}
+{"text": "vi a un turista ser picado por una mantarraya en la playa su pie está sangrando y no puede caminar", "label": "survival"}
+{"text": "mi prima fue mordida por una araña la herida se está poniendo negra y le duele mucho", "label": "survival"}
+{"text": "una serpiente mordió a mi amigo su brazo se está hinchando y está muy pálido ayuda", "label": "survival"}
+{"text": "un jabalí atacó a mi compañero en el bosque tiene una herida profunda en la pierna y no puede caminar", "label": "survival"}
+{"text": "serpiente mordió amigo brazo hinchado no responde ayuda", "label": "survival"}
+{"text": "un alacrán le pico a mi hermanito se puso muy pálido y no puede caminar tengo miedo", "label": "survival"}
+{"text": "wey una serpiente le pico a mi amigo en el cerro el brazo se le puso morado y no siente nada no mames", "label": "survival"}
+{"text": "un puma me atacó por la espalda en el sendero tengo heridas profundas en el hombro", "label": "survival"}
+{"text": "hay un puma acechándonos se quedó quieto mirándonos fijo no sabemos si atacar o correr estamos paralizados", "label": "survival"}
+{"text": "vi a un puma cruzar el camino y luego se quedó mirando a unos excursionistas se escuchaban ruidos", "label": "survival"}
+{"text": "wey me encontré a un puma en el cerro y se me quedó viendo", "label": "survival"}
+{"text": "puma en el sendero se acerca no podemos huir ayuda rápido", "label": "survival"}
+{"text": "nos encontramos un puma en el sendero y nos está siguiendo", "label": "survival"}
+{"text": "un oso se acercó al campamento y comenzó a destrozar la tienda tuvimos que huir", "label": "survival"}
+{"text": "un oso está husmeando alrededor de nuestra tienda no podemos salir está muy cerca", "label": "survival"}
+{"text": "wey un oso nos robó la comida mientras acampábamos", "label": "survival"}
+{"text": "un oso atacó a un excursionista en el sendero lo vi todo desde lejos fue horrible", "label": "survival"}
+{"text": "un oso polar se acercó a la carpa no pudimos hacer nada tuvimos que refugiarnos en el auto", "label": "survival"}
+{"text": "un oso polar está merodeando el campamento no podemos salir es muy peligroso", "label": "survival"}
+{"text": "no mames un oso polar nos estuvo siguiendo por horas no nos dejaba avanzar", "label": "survival"}
+{"text": "he sufrido un ataque de un oso durante una expedición estoy sangrando mucho", "label": "survival"}
+{"text": "oso atacó en el campamento heridas en el brazo ayuda", "label": "survival"}
+{"text": "un tiburón me mordió la pierna mientras surfeaba no sentí dolor al principio pero ahora sangra mucho", "label": "survival"}
+{"text": "un tiburón está rodeando nuestra tabla no podemos remar hacia la orilla tengo mucho miedo", "label": "survival"}
+{"text": "wey un tiburón me mordió la pierna en la playa", "label": "survival"}
+{"text": "un cocodrilo me arrastró al agua mientras cruzaba un río logré soltarme pero tengo heridas profundas", "label": "survival"}
+{"text": "un cocodrilo atacó nuestra lancha estamos volcando y no podemos salir del agua", "label": "survival"}
+{"text": "wey un cocodrilo se llevó a mi perro mientras caminábamos por el río", "label": "survival"}
+{"text": "un caimán nos persiguió en el pantano tuvimos que subirnos a un árbol para escapar", "label": "survival"}
+{"text": "cocodrilo nos persigue en el río atrapados ayuda", "label": "survival"}
+{"text": "he sido atacado por un cocodrilo mientras nadaba un río me duele el abdomen", "label": "survival"}
+{"text": "una manada de lobos nos rodeó en el bosque", "label": "survival"}
+{"text": "lobos aullando muy cerca del campamento no podemos dormir están rodeando la tienda", "label": "survival"}
+{"text": "no mames un lobo nos siguió todo el camino de regreso no nos quitaba la mirada", "label": "survival"}
+{"text": "un jabalí me embistió mientras caminaba tengo una herida abierta en la pierna", "label": "survival"}
+{"text": "un jabalí salvaje nos atacó en el campo está muy agresivo y no podemos huir", "label": "survival"}
+{"text": "wey un jabalí nos embistió y nos rompió la carpa qué hacemos", "label": "survival"}
+{"text": "un alce me atacó y me hirió en el pecho tuve que refugiarme detrás de un árbol", "label": "survival"}
+{"text": "un alce está embistiendo el coche no podemos salir estamos atrapados", "label": "survival"}
+{"text": "alce embistió coche atrapados ayuda rápido", "label": "survival"}
+{"text": "he sufrido un ataque de un alce durante una caminata me duele mucho el pecho y las costillas", "label": "survival"}
+{"text": "un bisonte cargó contra mí logré esquivarlo pero tengo moretones en el costado", "label": "survival"}
+{"text": "un bisonte nos impide el paso está en medio del sendero y no podemos pasar", "label": "survival"}
+{"text": "no mames un bisonte nos persiguió por el campo", "label": "survival"}
+{"text": "un león marino atacó a mi amigo cuando nadaba le mordió la pierna y lo arrastró", "label": "survival"}
+{"text": "un león marino me mordió la mano ayuda", "label": "survival"}
+{"text": "león marino me arrastró al agua no puedo salir ayuda", "label": "survival"}
+{"text": "una medusa me picó en el brazo el dolor es insoportable y tengo una bola enorme", "label": "survival"}
+{"text": "una medusa me picó en el pecho me cuesta respirar y me siento muy mareado", "label": "survival"}
+{"text": "no mames una medusa me picó y sentí que me moría el dolor era fatal", "label": "survival"}
+{"text": "me picó una medusa", "label": "survival"}
+{"text": "una mantarraya me picó el pie el dolor es tan intenso que no puedo apoyar la pierna", "label": "survival"}
+{"text": "una mantarraya me picó y el dolor no se va no puedo caminar", "label": "survival"}
+{"text": "wey una mantarraya me picó mientras caminaba en la orilla qué dolor tan culero", "label": "survival"}
+{"text": "un jabalí me embistió mientras acampaba la herida es superficial pero duele mucho", "label": "survival"}
+{"text": "un elefante está destrozando el campamento no tenemos dónde escondernos", "label": "survival"}
+{"text": "elefante destrozó campamento atrapados ayuda", "label": "survival"}
+{"text": "un jabalí me embistió en la pierna cuando salía del río tengo un corte profundo que no para de sangrar", "label": "survival"}
+{"text": "una manada de jabalíes está rodeando nuestra carpa no podemos salir se escuchan gruñidos", "label": "survival"}
+{"text": "wey un jabalí me embistió y volé como 3 metros me duele la espalda bien cabrón", "label": "survival"}
+{"text": "he sido atacado por un jabalí en el campo presento una herida abierta en el muslo de aproximadamente 10 centímetros", "label": "survival"}
+{"text": "un alce me persiguió por el bosque tuve que esconderme detrás de unas rocas", "label": "survival"}
+{"text": "un alce enorme está parado en medio del sendero no nos deja pasar y resopla fuerte", "label": "survival"}
+{"text": "no mames un alce casi me aplasta en el bosque no vi por dónde salir corriendo", "label": "survival"}
+{"text": "alce embistió carro ventana rota atrapados ayuda", "label": "survival"}
+{"text": "un bisonte se paró frente a nosotros y comenzó a golpear el suelo tuvimos que retroceder muy lento", "label": "survival"}
+{"text": "un bisonte cargó contra nuestro coche el capó quedó abollado y tenemos miedo de salir", "label": "survival"}
+{"text": "wey un bisonte nos persiguió por la pradera no mames fue como estar en una película del oeste", "label": "survival"}
+{"text": "he tenido un encuentro con un bisonte que bloqueaba el paso el animal mostró comportamiento agresivo", "label": "survival"}
+{"text": "un león marino me mordió la pierna mientras nadaba siento que el agua se tiñó de rojo", "label": "survival"}
+{"text": "un león marino agarró a mi amigo del brazo y lo arrastró bajo el agua no sale necesito ayuda", "label": "survival"}
+{"text": "wey un león marino me atacó en el muelle y me tiró al agua qué miedo", "label": "survival"}
+{"text": "un hipopótamo volcó nuestra lancha en el río estamos nadando y no vemos la orilla", "label": "survival"}
+{"text": "un hipopótamo está atacando nuestra canoa nos va a voltear no podemos remar", "label": "survival"}
+{"text": "hipopótamo volcó bote en el río no llegamos a la orilla ayuda", "label": "survival"}
+{"text": "he sufrido un ataque de hipopótamo en el río presento contusiones y posible fractura en el brazo", "label": "survival"}
+{"text": "un elefante destrozó nuestra tienda mientras buscaba comida tuvimos que correr al auto", "label": "survival"}
+{"text": "un elefante está embistiendo nuestro vehículo el techo está abollado vamos a morir", "label": "survival"}
+{"text": "no mames un elefante nos persiguió por la sabana pensé que nos iba a aplastar", "label": "survival"}
+{"text": "un rinoceronte cargó contra nuestro auto tuvimos que acelerar para escapar", "label": "survival"}
+{"text": "un rinoceronte está a punto de embestirnos no podemos huir está muy cerca", "label": "survival"}
+{"text": "una jauría de perros salvajes nos acorraló en el campo tuvimos que subirnos a un árbol", "label": "survival"}
+{"text": "los perros salvajes están devorando nuestras provisiones estamos rodeados y no podemos bajar del auto", "label": "survival"}
+{"text": "wey una jauría de perros salvajes nos persiguió por horas no mames no podíamos parar", "label": "survival"}
+{"text": "he sufrido el acoso de una jauría de perros salvajes que bloqueaba nuestro camino", "label": "survival"}
+{"text": "un mono me arrebató la mochila y me arañó el brazo tengo una herida superficial", "label": "survival"}
+{"text": "una horda de monos nos está atacando en el campamento tiran piedras y nos quieren morder", "label": "survival"}
+{"text": "wey un mono se me subió encima y me agarró del pelo no me soltaba qué susto", "label": "survival"}
+{"text": "un gorila me embistió en el santuario tengo moretones en el pecho y el brazo", "label": "survival"}
+{"text": "un gorila me agarró del brazo y me lanzó contra el suelo no puedo mover el hombro", "label": "survival"}
+{"text": "un murciélago me mordió la mano mientras dormía tengo una pequeña herida y me preocupa la rabia", "label": "survival"}
+{"text": "un murciélago voló dentro de la tienda y me mordió la pierna tengo miedo de tener rabia", "label": "survival"}
+{"text": "no mames un murciélago me mordió la mano y ahora me duele la cabeza qué miedo", "label": "survival"}
+{"text": "sufrí una mordedura de murciélago durante la noche requiero evaluación por riesgo de rabia", "label": "survival"}
+{"text": "un mapache rabioso me persiguió y me mordió el tobillo estoy muy asustado", "label": "survival"}
+{"text": "un mapache me atacó en el campamento está espumando y me mordió la mano", "label": "survival"}
+{"text": "wey un mapache me saltó encima en la basura y me arañó la pierna qué pedo", "label": "survival"}
+{"text": "un zorro se acercó a nuestra carpa y mordió la mochila de mi amigo", "label": "survival"}
+{"text": "un zorro estaba dentro de nuestra tienda gruñía y no nos dejaba entrar", "label": "survival"}
+{"text": "zorro dentro de la tienda agresivo no podemos entrar ayuda", "label": "survival"}
+{"text": "un castor me mordió la mano mientras intentaba fotografiar su presa", "label": "survival"}
+{"text": "una nutria me persiguió por el muelle y me mordió el pie está sangrando", "label": "survival"}
+{"text": "una foca me mordió la mano cuando intenté alimentarla en el muelle", "label": "survival"}
+{"text": "una foca me agarró el brazo y me arrastró al agua logré soltarme pero estoy muy asustada", "label": "survival"}
+{"text": "wey una foca se me acercó y me mordió el dedo no mames qué dolor", "label": "survival"}
+{"text": "un caimán nos persiguió en el pantano tuvimos que subirnos a una roca", "label": "survival"}
+{"text": "un caimán está bloqueando el sendero no podemos pasar y está mostrando los dientes", "label": "survival"}
+{"text": "caimán bloquea el paso atrapados ayuda rápido", "label": "survival"}
+{"text": "una iguana me mordió la mano cuando intenté agarrarla tengo una herida que sangra", "label": "survival"}
+{"text": "una iguana me arañó la cara con la cola tengo una cortada profunda en la mejilla", "label": "survival"}
+{"text": "wey una iguana se me tiró encima y me dejó bien rasguñado el brazo", "label": "survival"}
+{"text": "he sufrido una mordedura de iguana presento una herida cortante en el antebrazo", "label": "survival"}
+{"text": "un camaleón me mordió el dedo en el jardín la herida es pequeña pero se infectó", "label": "survival"}
+{"text": "una tarántula me picó en la espalda me arde mucho y me siento mareado", "label": "survival"}
+{"text": "un escorpión me picó en la mano mientras recogía leña el dolor sube por el brazo", "label": "survival"}
+{"text": "un escorpión me picó en la pierna y ya no la siento el veneno está subiendo rápido", "label": "survival"}
+{"text": "no mames un ciempiés me picó en el pie y se me hinchó la pata está bien culero", "label": "survival"}
+{"text": "un ciempiés me mordió en el cuello mientras dormía la zona está muy inflamada", "label": "survival"}
+{"text": "una avispa me picó en la lengua se me está hinchando la boca y no puedo hablar", "label": "survival"}
+{"text": "un enjambre de abejas nos atacó en el sendero tenemos múltiples picaduras en todo el cuerpo", "label": "survival"}
+{"text": "me picaron más de 20 abejas estoy mareado y me cuesta respirar soy alérgico", "label": "survival"}
+{"text": "enjambre de abejas nos atacó picaduras en todo el cuerpo ayuda", "label": "survival"}
+{"text": "he sufrido múltiples picaduras de abejas y presento signos de reacción alérgica", "label": "survival"}
+{"text": "una avispa me picó en la cabeza ahora tengo dolor de cabeza y visión borrosa", "label": "survival"}
+{"text": "una avispa me picó en el ojo no puedo abrirlo está muy hinchado y me duele mucho", "label": "survival"}
+{"text": "una garrapata me picó en el cuello la extraje pero tengo fiebre y escalofríos", "label": "survival"}
+{"text": "tengo una garrapata incrustada en mi espalda no puedo alcanzarla y me da miedo", "label": "survival"}
+{"text": "wey tengo una garrapata en la pierna que no sale ya se me está poniendo la piel roja", "label": "survival"}
+{"text": "una araña lobo me picó en el pie la herida está enrojecida y me duele al caminar", "label": "survival"}
+{"text": "una araña me picó en el brazo y ahora tengo calentura me tiembla todo el cuerpo", "label": "survival"}
+{"text": "no mames una araña se escondió en mi zapato y me picó ahora no siento bien la pata", "label": "survival"}
+{"text": "un pulpo me mordió en el brazo mientras buceaba dejó una marca redonda y duele", "label": "survival"}
+{"text": "un pulpo me atacó en el agua me enredó el brazo y no podía respirar del susto", "label": "survival"}
+{"text": "un erizo de mar me pisó el pie tengo múltiples púas clavadas y dolor intenso", "label": "survival"}
+{"text": "un pez león me picó la mano mientras buceaba el dolor es insoportable y la mano se está poniendo morada", "label": "survival"}
+{"text": "pez león picó mano morada duele mucho ayuda rápido", "label": "survival"}
+{"text": "he sufrido una picadura de pez león presento edema y decoloración en la extremidad", "label": "survival"}
+{"text": "un caracol cono me picó en la playa sentí un pinchazo y ahora el brazo está entumecido", "label": "survival"}
+{"text": "un caracol me picó y no puedo mover el brazo el veneno me está subiendo", "label": "survival"}
+{"text": "wey un caracol me picó y no sentí nada hasta que me empezó a arder bien cabrón", "label": "survival"}
+{"text": "un cocodrilo de agua salada nos persiguió en la lancha tuvimos que acelerar a fondo", "label": "survival"}
+{"text": "un cocodrilo saltó del agua y casi atrapa a mi amigo estamos en la orilla y no podemos acercarnos", "label": "survival"}
+{"text": "no mames un cocodrilo nos estuvo siguiendo por el río no nos quitaba la mirada", "label": "survival"}
+{"text": "un puma estaba en el árbol sobre nosotros bajó la cabeza y se quedó viéndonos", "label": "survival"}
+{"text": "un puma se paró en medio del camino y nos rugió no sabemos si correr o quedarnos quietos", "label": "survival"}
+{"text": "wey en el sendero nos encontramos con un puma se quedó viéndonos y luego se fue lento", "label": "survival"}
+{"text": "he tenido un avistamiento de un puma en el sendero el animal mostró comportamiento de acecho", "label": "survival"}
+{"text": "puma nos sigue en el sendero mucho miedo ayuda ayuda", "label": "survival"}
+{"text": "un lince me mordió la mano cuando intenté acariciarlo la herida es profunda", "label": "survival"}
+{"text": "un lince saltó sobre mí tengo arañazos en la cara y el pecho", "label": "survival"}
+{"text": "wey un lince me atacó por la espalda no lo vi venir me dejó bien rasguñado", "label": "survival"}
+{"text": "un ciervo me embistió en el bosque tengo un moretón en el costado y me duele al respirar", "label": "survival"}
+{"text": "un ciervo se paró frente al coche y no se mueve no podemos pasar y está muy cerca", "label": "survival"}
+{"text": "un alce me pisó la pierna mientras caminaba en el bosque no puedo apoyar el pie", "label": "survival"}
+{"text": "un oso negro está en la cocina de la cabaña destrozó la nevera y no podemos entrar", "label": "survival"}
+{"text": "wey un oso negro entró a la cabaña y se comió toda la comida qué miedo", "label": "survival"}
+{"text": "he tenido un encuentro con un oso negro que accedió a la vivienda requiero asistencia", "label": "survival"}
+{"text": "oso dentro de la cabina destrozó todo atrapados ayuda", "label": "survival"}
+{"text": "un zorro salvaje me mordió la pierna cuando intenté ahuyentarlo de la basura", "label": "survival"}
+{"text": "un zorro se metió a la tienda y me mordió la mano está sangrando y me preocupa la rabia", "label": "survival"}
+{"text": "wey un zorro se llevó mi zapato y me mordió el pie no mames", "label": "survival"}
+{"text": "una serpiente verde me picó en la pierna en el jardín el área está enrojecida y duele", "label": "survival"}
+{"text": "una serpiente me picó en la mano mientras trabajaba en el campo siento hormigueo y mareo", "label": "survival"}
+{"text": "un ave rapaz me atacó en la cabeza tengo arañazos profundos en el cuero cabelludo", "label": "survival"}
+{"text": "un buitre me picoteó el brazo y me dejó una herida abierta tengo miedo de que se infecte", "label": "survival"}
+{"text": "wey un pájaro enorme me atacó en la cabeza casi me saca un ojo", "label": "survival"}
+{"text": "he sufrido una agresión por parte de un ave rapaz presento laceraciones en el cuero cabelludo", "label": "survival"}
+{"text": "una tormenta de arena nos envolvió en el desierto no veo nada y me cuesta respirar", "label": "survival"}
+{"text": "el viento levantó una nube de polvo y no puedo ver a mi grupo estoy perdido en medio del desierto", "label": "survival"}
+{"text": "tormenta de arena sin visibilidad no respirar atrapado ayuda", "label": "survival"}
+{"text": "el terremoto derrumbó la casa quedé atrapado entre los escombros y no puedo moverme", "label": "survival"}
+{"text": "el techo se cayó encima de nosotros mi hijo está atrapado y no puedo sacarlo necesito ayuda", "label": "survival"}
+{"text": "terremoto atrapado en escombros no puedo salir ayuda ayuda", "label": "survival"}
+{"text": "me caí por un barranco en el cerro y quedé atrapado en una grieta no puedo subir y está oscureciendo", "label": "survival"}
+{"text": "me resbalé y caí por un acantilado estoy colgado de una rama y no puedo subir me estoy cansando", "label": "survival"}
+{"text": "wey me caí por la pendiente y rodé como 20 metros no puedo mover la pierna y estoy solo", "label": "survival"}
+{"text": "vi a mi amigo caer por el barranco quedó al fondo y no responde cuando le grito", "label": "survival"}
+{"text": "el río creció y el agua me arrastró logré agarrarme de una roca pero la corriente es muy fuerte", "label": "survival"}
+{"text": "no puedo salir del río el agua me está jalando y estoy perdiendo fuerza", "label": "survival"}
+{"text": "río crecido me arrastró atrapado en roca ayuda ayuda", "label": "survival"}
+{"text": "entré a la cueva y perdí la linterna ya no veo la salida y estoy rodeado de oscuridad", "label": "survival"}
+{"text": "mi compañero se adelantó y perdí la luz en la cueva estoy solo sin linterna ni señal", "label": "survival"}
+{"text": "wey la cueva se puso bien oscura y no encuentro la salida no hay señal en el celular", "label": "survival"}
+{"text": "el lahar nos alcanzó en la montaña el lodo nos cubrió hasta la cintura y mi hermano quedó atrapado", "label": "survival"}
+{"text": "el lodo nos está alcanzando el volcán hizo erupción y no podemos correr más rápido", "label": "survival"}
+{"text": "lahar de lodo bajando de la montaña nos atrapó ayuda", "label": "survival"}
+{"text": "el fuego del campamento se extendió y quemó toda nuestra comida estamos en medio del bosque sin provisiones", "label": "survival"}
+{"text": "el fuego se salió de control y quemó mi tienda y mi mochila perdí todo no tengo agua ni comida", "label": "survival"}
+{"text": "wey se nos quemó todo en el campamento no tenemos ni para comer y está anocheciendo", "label": "survival"}
+{"text": "estoy escalando y quedé atascado en la cuerda no puedo subir ni bajar y estoy colgando desde hace horas", "label": "survival"}
+{"text": "no puedo moverme en la cuerda estoy colgado y mis brazos ya no me responden", "label": "survival"}
+{"text": "escalada cuerda atrapado colgando brazos sin fuerza ayuda", "label": "survival"}
+{"text": "un alacrán me picó en el pie mientras caminaba en la noche y ahora siento que mi pierna se entumece", "label": "survival"}
+{"text": "la ola de calor nos ha dejado sin agua y estamos deshidratados no podemos caminar más", "label": "survival"}
+{"text": "no mames el calor está tan fuerte que no podemos ni respirar el sol nos está quemando la piel", "label": "survival"}
+{"text": "el frío es tan extremo que mis dedos están blancos y no los siento llevo horas buscando refugio", "label": "survival"}
+{"text": "hipotermia extrema no puedo dejar de temblar dedos morados ayuda", "label": "survival"}
+{"text": "la niebla es tan densa que no puedo ver más allá de mi mano estoy completamente desorientado", "label": "survival"}
+{"text": "la niebla nos envolvió y no sabemos hacia dónde ir el frío está empeorando y estamos perdidos", "label": "survival"}
+{"text": "wey la niebla está tan espesa que no veo a mi compa nos separamos y no sé dónde está", "label": "survival"}
+{"text": "el camino de regreso se inundó y ahora estamos atrapados en esta orilla sin poder cruzar", "label": "survival"}
+{"text": "el agua está subiendo y no podemos subir a la montaña el río nos cortó el paso", "label": "survival"}
+{"text": "inundación atrapados agua sube no hay salida ayuda", "label": "survival"}
+{"text": "no tengo señal en el teléfono y no tengo forma de pedir ayuda estoy solo en el bosque", "label": "survival"}
+{"text": "no tengo señal en el teléfono llevo horas caminando y no encuentro a nadie", "label": "survival"}
+{"text": "wey no tengo señal en el celular y no tengo ni idea de dónde estoy ya está oscureciendo", "label": "survival"}
+{"text": "el auto se quedó sin gasolina en medio de la carretera y no hay paso estoy varado", "label": "survival"}
+{"text": "el coche se quedó sin gasolina y estamos en una zona desértica no vienen autos", "label": "survival"}
+{"text": "auto varado desierto sin agua sin comida ayuda", "label": "survival"}
+{"text": "el sol está tan fuerte que la piel se me está quemando no encuentro sombra en ningún lado", "label": "survival"}
+{"text": "el calor es insoportable y me estoy deshidratando no tengo agua desde hace horas", "label": "survival"}
+{"text": "no mames el sol está bien cabrón me siento mareado y no puedo seguir caminando", "label": "survival"}
+{"text": "la tormenta de nieve nos sorprendió en el paso montañoso no vemos nada y el frío es extremo", "label": "survival"}
+{"text": "una tormenta de nieve nos atrapó en la montaña no encontramos refugio y el frío es insoportable", "label": "survival"}
+{"text": "tormenta de nieve no veo el sendero frío extremo ayuda", "label": "survival"}
+{"text": "el viento es tan fuerte que no podemos avanzar la tormenta nos obligó a detenernos", "label": "survival"}
+{"text": "el viento está tan fuerte que casi nos tumba no podemos caminar y estamos expuestos", "label": "survival"}
+{"text": "wey el viento está bien cabrón no podemos ni pararnos pinche tormenta nos agarró", "label": "survival"}
+{"text": "el río creció de forma repentina y cortó nuestro camino de regreso estamos atrapados", "label": "survival"}
+{"text": "el agua está subiendo rápido y no tenemos dónde ir el río se desbordó", "label": "survival"}
+{"text": "desborde de río nos arrastró atrapados ayuda", "label": "survival"}
+{"text": "la tormenta eléctrica nos sorprendió en el sendero los rayos están cayendo muy cerca", "label": "survival"}
+{"text": "los rayos están cayendo muy cerca estamos en una zona abierta y no hay refugio", "label": "survival"}
+{"text": "no mames se vino un tormentón y empezaron a caer rayos no hay ni un árbol donde esconderse", "label": "survival"}
+{"text": "el camino está cubierto de hielo no podemos bajar ni subir sin resbalar", "label": "survival"}
+{"text": "el sendero está congelado no podemos dar un paso sin resbalarnos", "label": "survival"}
+{"text": "hielo en el sendero no podemos avanzar atrapados ayuda", "label": "survival"}
+{"text": "la avalancha de nieve nos arrastró montaña abajo quedé sepultado hasta la cintura", "label": "survival"}
+{"text": "una avalancha nos cayó encima mi amigo quedó enterrado y no puedo sacarlo", "label": "survival"}
+{"text": "avalancha de nieve nos sepultó ayuda no puedo respirar", "label": "survival"}
+{"text": "el incendio forestal avanzó más rápido de lo que esperaba el humo no me deja ver", "label": "survival"}
+{"text": "hay un incendio forestal y nos cortó el camino de regreso el humo es muy espeso", "label": "survival"}
+{"text": "incendio forestal nos rodea humo no respirar atrapados ayuda", "label": "survival"}
+{"text": "el deslizamiento de tierra bloqueó el camino no podemos pasar y está lloviendo muy fuerte", "label": "survival"}
+{"text": "el deslave nos atrapó en el sendero hay lodo y piedras por todas partes", "label": "survival"}
+{"text": "wey el deslave nos cerró el paso no podemos regresar ni seguir qué hacemos", "label": "survival"}
+{"text": "el árbol cayó sobre el camino y bloqueó la salida estamos atrapados", "label": "survival"}
+{"text": "un árbol gigante cayó y cerró el paso no podemos ir ni adelante ni atrás", "label": "survival"}
+{"text": "árbol caído bloquea el paso atrapados ayuda", "label": "survival"}
+{"text": "la tormenta de granizo nos sorprendió en el cerro no tenemos dónde protegernos", "label": "survival"}
+{"text": "el granizo está cayendo muy fuerte nos está golpeando y no hay refugio", "label": "survival"}
+{"text": "no mames está cayendo un granizo bien cabrón nos está lastimando", "label": "survival"}
+{"text": "el alud de lodo nos alcanzó en la montaña quedé atrapado hasta la cintura", "label": "survival"}
+{"text": "el lahar está bajando rápido y no podemos escapar el lodo nos cubre", "label": "survival"}
+{"text": "lahar de lodo nos alcanzó atrapados ayuda", "label": "survival"}
+{"text": "perdí mi mochila con toda la comida y el agua en el río estoy sin provisiones", "label": "survival"}
+{"text": "el río se llevó mi mochila perdí la comida el agua y el teléfono estoy perdido", "label": "survival"}
+{"text": "wey se me cayó la mochila al río perdí todo no tengo ni agua ni comida", "label": "survival"}
+{"text": "el sendero está completamente cubierto de nieve no puedo encontrar el camino", "label": "survival"}
+{"text": "la nieve cubrió el sendero y no sé por dónde ir estoy desorientado", "label": "survival"}
+{"text": "nieve cubrió el sendero no encuentro la salida ayuda", "label": "survival"}
+{"text": "el puente colgante se rompió y no podemos cruzar estamos atrapados en esta orilla", "label": "survival"}
+{"text": "el puente se cayó no podemos pasar al otro lado y el río está crecido", "label": "survival"}
+{"text": "puente roto atrapados sin paso ayuda", "label": "survival"}
+{"text": "la lluvia torrencial arruinó nuestro campamento todo está mojado y no tenemos refugio", "label": "survival"}
+{"text": "la lluvia no para y nuestra tienda se inundó estamos empapados y con frío", "label": "survival"}
+{"text": "wey está lloviendo un chingo y nuestra tienda se cayó no tenemos dónde dormir", "label": "survival"}
+{"text": "un jabalí me embistió cuando estaba recogiendo leña tengo un corte en la pierna que no para de sangrar", "label": "survival"}
+{"text": "un jabalí me persiguió y me mordió la pierna la herida es profunda y duele mucho", "label": "survival"}
+{"text": "wey un jabalí se nos puso enfrente y no nos dejaba pasar tuvimos que desviarnos", "label": "survival"}
+{"text": "vi a un jabalí atacar a mi amigo en el bosque lo tiró al suelo y lo mordió", "label": "survival"}
+{"text": "un alce me embistió en el bosque y me fracturó una costilla no puedo respirar bien", "label": "survival"}
+{"text": "un alce nos cargó y mi esposo quedó herido en el pecho no se puede mover", "label": "survival"}
+{"text": "no mames un alce se puso a embestir nuestro coche nos rompió el espejo", "label": "survival"}
+{"text": "un bisonte nos persiguió por la pradera tuvimos que correr a toda velocidad", "label": "survival"}
+{"text": "el bisonte se puso agresivo y nos embistió tuvimos que escondernos detrás de un árbol", "label": "survival"}
+{"text": "bisonte nos persegue praadera atrapados ayuda", "label": "survival"}
+{"text": "vi a un turista ser mordido por un león marino en el muelle la sangre era mucha", "label": "survival"}
+{"text": "un león marino me mordió la mano cuando intentaba sacar una foto necesito atención médica", "label": "survival"}
+{"text": "wey un león marino casi me arranca el brazo no mames", "label": "survival"}
+{"text": "un hipopótamo volcó nuestra lancha en el río tuvimos que nadar hasta la orilla", "label": "survival"}
+{"text": "el hipopótamo estaba muy agresivo y nos atacó la lancha se hundió", "label": "survival"}
+{"text": "hipopótamo atacó lancha hundida atrapados en el río ayuda", "label": "survival"}
+{"text": "un elefante entró al campamento y destrozó todo tuvimos que huir", "label": "survival"}
+{"text": "el elefante se puso furioso y empezó a embestir árboles casi nos pisa", "label": "survival"}
+{"text": "wey un elefante nos persiguió pensé que nos iba a aplastar", "label": "survival"}
+{"text": "un rinoceronte cargó contra nuestro safari el guía nos dijo que nos escondiéramos", "label": "survival"}
+{"text": "el rinoceronte embistió nuestro vehículo el choque fue muy fuerte y nos golpeamos", "label": "survival"}
+{"text": "rinoceronte embistió auto atrapados ayuda", "label": "survival"}
+{"text": "vi a un león atacar a un antílope fue impresionante pero aterrador", "label": "survival"}
+{"text": "un león se acercó a nuestro campamento tuvimos que encender una fogata para ahuyentarlo", "label": "survival"}
+{"text": "wey un león estuvo rondando toda la noche no dormimos nada", "label": "survival"}
+{"text": "un cocodrilo nos siguió en el río tuvimos que remar rápido para escapar", "label": "survival"}
+{"text": "el cocodrilo atacó nuestra canoa casi nos volca", "label": "survival"}
+{"text": "cocodrilo atacó canoa atrapados en el río ayuda", "label": "survival"}
+{"text": "un puma estaba en el árbol sobre nosotros nos quedamos quietos y se fue", "label": "survival"}
+{"text": "el puma nos siguió por más de un kilómetro fue muy aterrador", "label": "survival"}
+{"text": "wey un puma se nos quedó viendo fijo nos quedamos paralizados del miedo", "label": "survival"}
+{"text": "un zorro nos robó la comida del campamento tuvimos que irnos antes de lo planeado", "label": "survival"}
+{"text": "el zorro estaba rabioso y nos mordió a mi compañero tuvimos que ir al hospital", "label": "survival"}
+{"text": "wey un zorro se metió a la tienda y nos mordió qué pedo", "label": "survival"}
+{"text": "un alacrán me picó mientras dormía en el campamento desperté con un dolor terrible", "label": "survival"}
+{"text": "el alacrán me picó en el pie y no puedo caminar el dolor es muy fuerte", "label": "survival"}
+{"text": "no mames un alacrán me picó en el dedo y se me está hinchando la mano", "label": "survival"}
+{"text": "una serpiente me mordió la pierna mientras caminaba en la hierba alta no la vi", "label": "survival"}
+{"text": "la serpiente me mordió y siento que el veneno me sube por la pierna tengo miedo", "label": "survival"}
+{"text": "serpiente mordió pierna veneno sube rápido ayuda", "label": "survival"}
+{"text": "vi a un cocodrilo atacar a un perro en la orilla del río fue terrible", "label": "survival"}
+{"text": "un cocodrilo casi me atrapa cuando estaba pescando fue muy cercano", "label": "survival"}
+{"text": "wey el cocodrilo se acercó mucho a la orilla casi nos muerde", "label": "survival"}
+{"text": "un ave rapaz me atacó y me arañó la cabeza tengo rasguños profundos", "label": "survival"}
+{"text": "el ave rapaz me picoteó la cabeza y me lastimó necesito ayuda", "label": "survival"}

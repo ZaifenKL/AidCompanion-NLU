@@ -25,3 +25,5 @@ clean_text_in_all(jsonl_path_ES,clean_path)
 #===Step 3: Merge all data ES H1 into a single file
 merge_all_levels(clean_path,merged_path)
 
+#===Step 4: Split the merged dataset into training/validation/test
+

@@ -156,52 +156,10 @@ def split_all_levels(merged_path, save_path, mode, special_ratio= small_dataset_
             hierarchy_path = os.path.join(lang_path, hierarchy)
             split_single_level(hierarchy_path, save_path, mode, report_data)
 
-    # ---------------------------------------------------------
-    # MARKDOWN REPORT
-    # ---------------------------------------------------------
-    report_path = os.path.join(save_path, "Reports")
-    os.makedirs(report_path, exist_ok=True)
-    report_path = os.path.join(report_path, "report.md")
-    with open(report_path, "w", encoding="utf-8") as md:
-
-        md.write(f"# Dataset Split Report\n\n")
-        md.write(f"**Date:** {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
-        md.write(f"**Mode:** {mode.upper()}\n")
-        md.write(f"**Special Ratio:** {special_ratio}\n\n---\n\n")
-
-        # Per hierarchy
-        for item in report_data:
-            md.write(f"## {item['language']} / {item['hierarchy']}\n")
-            md.write(f"- Total: {item['total']}\n")
-            md.write(f"- Train: {item['train']}\n")
-            md.write(f"- Val:   {item['val']}\n")
-            md.write(f"- Test:  {item['test']}\n")
-            if item["warning"]:
-                md.write(f"⚠ Small hierarchy detected (<120 ejemplos). Special Ratio applied.\n")
-            md.write("\n---\n\n")
-
-        # Global summary
-        md.write("# Global Summary\n\n")
-        md.write("| Language | Total | Train | Val | Test |\n")
-        md.write("|--------|-------|--------|------|-------|\n")
-
-        summary = {}
-        for item in report_data:
-            lang = item["language"]
-            if lang not in summary:
-                summary[lang] = {"total": 0, "train": 0, "val": 0, "test": 0}
-            summary[lang]["total"] += item["total"]
-            summary[lang]["train"] += item["train"]
-            summary[lang]["val"] += item["val"]
-            summary[lang]["test"] += item["test"]
-
-        for lang, stats in summary.items():
-            md.write(f"| {lang} | {stats['total']} | {stats['train']} | {stats['val']} | {stats['test']} |\n")
-
-    print(f"\n📄 Report saved at: {report_path}\n")
 #-----Sequence-----------
 if __name__ == "__main__":
 
+#===Step 5: split in test, validation and training sets
     split_all_levels(merged_path,save_path,mode="a",special_ratio=small_dataset_ratio)
 
    #Returns train/val/test ratios based on mode:

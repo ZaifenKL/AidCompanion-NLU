@@ -5,8 +5,8 @@ import random
 from datetime import datetime
 
 #----Constant Values---------------
-merged_path = r"/Dataset_Builder/Merged"
-save_path = r"C:/AI Stuff/AidCompanion-NLU/Dataset_Builder/Training"
+merged_path = r"C:/AI Stuff/AidCompanion-NLU/Dataset_Builder/Merged"
+save_path = r"C:/AI Stuff/AidCompanion-NLU/Data_Splitter"
 small_dataset_ratio = [0.90, 0.05, 0.05]
 
 #-----Functions--------------------
@@ -49,7 +49,15 @@ def split_single_level(read_path, save_path, mode, report):
 
     print(f"\n📌 Splitting level: {read_path}")
 
-    merged_file = os.path.join(read_path, "merged.jsonl")
+    # Detect ANY .jsonl file inside the hierarchy folder
+    jsonl_files = [f for f in os.listdir(read_path) if f.endswith(".jsonl")]
+
+    if not jsonl_files:
+        print(f"⚠ No JSONL files found in {read_path}. Skipping.")
+        return
+
+    merged_file = os.path.join(read_path, jsonl_files[0])  # use first file
+
     if not os.path.exists(merged_file):
         print(f"⚠ No merged.jsonl found in {read_path}. Skipping.")
         return
@@ -149,14 +157,16 @@ def split_all_levels(merged_path, save_path, mode, special_ratio= small_dataset_
             split_single_level(hierarchy_path, save_path, mode, report_data)
 
     # ---------------------------------------------------------
-    # GENERAR REPORTE FINAL EN MARKDOWN
+    # MARKDOWN REPORT
     # ---------------------------------------------------------
-    report_path = os.path.join(save_path, "report.md")
+    report_path = os.path.join(save_path, "Reports")
+    os.makedirs(report_path, exist_ok=True)
+    report_path = os.path.join(report_path, "report.md")
     with open(report_path, "w", encoding="utf-8") as md:
 
         md.write(f"# Dataset Split Report\n\n")
-        md.write(f"**Fecha:** {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
-        md.write(f"**Modo:** {mode.upper()}\n")
+        md.write(f"**Date:** {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
+        md.write(f"**Mode:** {mode.upper()}\n")
         md.write(f"**Special Ratio:** {special_ratio}\n\n---\n\n")
 
         # Per hierarchy
@@ -167,12 +177,12 @@ def split_all_levels(merged_path, save_path, mode, special_ratio= small_dataset_
             md.write(f"- Val:   {item['val']}\n")
             md.write(f"- Test:  {item['test']}\n")
             if item["warning"]:
-                md.write(f"⚠ Jerarquía pequeña detectada (<120 ejemplos). Ratio especial aplicado.\n")
+                md.write(f"⚠ Small hierarchy detected (<120 ejemplos). Special Ratio applied.\n")
             md.write("\n---\n\n")
 
         # Global summary
-        md.write("# Resumen Global\n\n")
-        md.write("| Idioma | Total | Train | Val | Test |\n")
+        md.write("# Global Summary\n\n")
+        md.write("| Language | Total | Train | Val | Test |\n")
         md.write("|--------|-------|--------|------|-------|\n")
 
         summary = {}
@@ -188,10 +198,11 @@ def split_all_levels(merged_path, save_path, mode, special_ratio= small_dataset_
         for lang, stats in summary.items():
             md.write(f"| {lang} | {stats['total']} | {stats['train']} | {stats['val']} | {stats['test']} |\n")
 
-    print(f"\n📄 Reporte generado en: {report_path}\n")
+    print(f"\n📄 Report saved at: {report_path}\n")
 #-----Sequence-----------
 if __name__ == "__main__":
-    split_all_levels(merged_path,save_path,mode="c",special_ratio=small_dataset_ratio)
+
+    split_all_levels(merged_path,save_path,mode="a",special_ratio=small_dataset_ratio)
 
    #Returns train/val/test ratios based on mode:
     #A → 70/15/15

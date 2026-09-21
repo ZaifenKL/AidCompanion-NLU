@@ -3,8 +3,8 @@ import csv
 from pathlib import Path
 import pandas as pd
 #----Constant Values---------------
-read_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Dataset_Raw\ES\H1"
-out_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Raw"
+read_path = r"C:\AI Stuff\AidCompanion-NLU\Data_Builder\Dataset_Raw\ES\H1"
+out_path = r"C:\AI Stuff\AidCompanion-NLU\Data_Builder\JSON_Raw"
 relevant_columns = ["text","label"]
 first_cat_labels = ["medical_emergency","other","survival"]
 

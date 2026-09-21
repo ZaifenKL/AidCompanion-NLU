@@ -2,8 +2,8 @@ import os
 import json
 from pathlib import Path
 #----Constant Values---------------
-clean_json_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Cleaned"
-ouput_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Merged"
+clean_json_path = r"C:\AI Stuff\AidCompanion-NLU\Data_Builder\Cleaned"
+ouput_path = r"C:\AI Stuff\AidCompanion-NLU\Data_Builder\Merged"
 #-----Functions---------------------
 def merge_all_levels(read_path, save_path):
 

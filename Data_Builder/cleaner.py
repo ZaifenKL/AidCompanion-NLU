@@ -3,8 +3,8 @@ import re
 import json
 from pathlib import Path
 #----Constant Values---------------
-jsonl_path_ES = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\JSON_Raw\ES"
-clean_path = r"C:\AI Stuff\AidCompanion-NLU\Dataset_Builder\Cleaned"
+jsonl_path_ES = r"C:\AI Stuff\AidCompanion-NLU\Data_Builder\JSON_Raw\ES"
+clean_path = r"C:\AI Stuff\AidCompanion-NLU\Data_Builder\Cleaned"
 
 #-----Functions---------------------
 def clean_text(text):

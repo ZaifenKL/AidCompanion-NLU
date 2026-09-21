@@ -3,7 +3,7 @@ import json
 import hashlib
 import os
 #----Constant Values---------------
-json_merged_H1 = r"C:\AI Stuff\AidCompanion-NLU\Data_Builder\Merged\ES\H1"
+json_merged = r"C:\AI Stuff\AidCompanion-NLU\Data_Builder\Merged"
 model_name = "all-MiniLM-L6-v2"
 output_path = r"C:\AI Stuff\AidCompanion-NLU\Data_Quality"
 #-----Functions--------------------
@@ -37,8 +37,7 @@ def generate_embeddings_from_jsonl(jsonl_path, model_name="all-MiniLM-L6-v2"):
     return texts, embeddings
 
 
-def save_embeddings_with_structure(
-        texts,
+def save_embeddings_to_jsonl(texts,
         embeddings,
         source_jsonl_path,
         base_output_path):
@@ -94,8 +93,84 @@ def save_embeddings_with_structure(
 
     return output_file
 
+def process_all_merged_files(source_root, output_root,model_name="all-MiniLM-L6-v2"):
+    """
+    Recorre todas las carpetas dentro de source_root.
+    Detecta archivos merged.jsonl en cualquier jerarquía.
+    Genera embeddings y guarda un JSONL respetando la estructura original.
+    """
+
+    model = SentenceTransformer(model_name)
+
+    for root, dirs, files in os.walk(source_root):
+        for file in files:
+            if file.lower().endswith(".jsonl"):
+
+                source_jsonl_path = os.path.join(root, file)
+
+                # PRINT: archivo detectado
+                print(f"[PROCESSING] {source_jsonl_path}")
+
+                # -----------------------------
+                # Step 1: Load texts
+                # -----------------------------
+                texts = []
+                with open(source_jsonl_path, "r", encoding="utf-8") as f:
+                    for line in f:
+                        try:
+                            obj = json.loads(line)
+                            if "text" in obj:
+                                texts.append(obj["text"])
+                        except json.JSONDecodeError:
+                            continue
+
+                if not texts:
+                    print(f"[WARN] No texts found in {source_jsonl_path}")
+                    continue
+
+                # -----------------------------
+                # Step 2: Generate embeddings
+                # -----------------------------
+                embeddings = model.encode(texts, normalize_embeddings=True)
+
+                # -----------------------------
+                # Step 3: Build relative path
+                # -----------------------------
+                # Example:
+                # source_root = C:\AI Stuff\AidCompanion-NLU\Dataset_Raw
+                # root = C:\AI Stuff\AidCompanion-NLU\Dataset_Raw\ES\H1
+                #
+                # relative_path = ES\H1
+                relative_path = os.path.relpath(root, source_root)
+
+                # -----------------------------
+                # Step 4: Build output directory
+                # -----------------------------
+                output_dir = os.path.join(output_root, relative_path)
+                os.makedirs(output_dir, exist_ok=True)
+
+                output_file = os.path.join(output_dir, "embeddings.jsonl")
+
+                # -----------------------------
+                # Step 5: Save enriched JSONL
+                # -----------------------------
+                with open(output_file, "w", encoding="utf-8") as out:
+                    for text, emb in zip(texts, embeddings):
+                        text_hash = hashlib.sha256(text.encode("utf-8")).hexdigest()
+
+                        record = {
+                            "id": text_hash,
+                            "text": text,
+                            "embedding": emb.tolist()
+                        }
+
+                        out.write(json.dumps(record) + "\n")
+
+                print(f"[OK] Saved at: {output_file}")
+
+    print("\n[FINISHED] All merged.jsonl were processed")
+
 
 #-----Sequence-----------
 if __name__ == "__main__":
-    texts_H1, embeddings_H1 = generate_embeddings_from_jsonl(json_merged_H1,model_name)
-    save_embeddings_to_jsonl(texts_H1,embeddings_H1,output_path)
+    process_all_merged_files(json_merged,output_path,model_name="all-MiniLM-L6-v2")

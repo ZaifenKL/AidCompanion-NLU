@@ -173,4 +173,5 @@ def process_all_merged_files(source_root, output_root,model_name="all-MiniLM-L6-
 
 #-----Sequence-----------
 if __name__ == "__main__":
+    
     process_all_merged_files(json_merged,output_path,model_name="all-MiniLM-L6-v2")

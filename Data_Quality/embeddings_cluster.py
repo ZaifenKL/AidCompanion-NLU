@@ -2,6 +2,7 @@ from sentence_transformers import SentenceTransformer
 import json
 import hashlib
 import os
+
 #----Constant Values---------------
 json_merged = r"C:\AI Stuff\AidCompanion-NLU\Data_Builder\Merged"
 model_name = "all-MiniLM-L6-v2"
@@ -131,7 +132,7 @@ def process_all_merged_files(source_root, output_root,model_name="all-MiniLM-L6-
                 # -----------------------------
                 # Step 2: Generate embeddings
                 # -----------------------------
-                embeddings = model.encode(texts, normalize_embeddings=True)
+                embeddings = model.encode(texts, normalize_embeddings=False)
 
                 # -----------------------------
                 # Step 3: Build relative path

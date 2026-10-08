@@ -2,7 +2,9 @@ import os
 import json
 import numpy as np
 from sklearn.cluster import DBSCAN
+import numpy as np
 from sklearn.metrics.pairwise import cosine_distances
+import matplotlib.pyplot as plt
 
 #----Constant Values---------------
 embeddings_path = r"C:\AI Stuff\AidCompanion-NLU\Data_Quality"
@@ -25,11 +27,7 @@ def load_embeddings_jsonl(path):
 
 
 def detect_near_duplicates(texts, embeddings, eps=0.35, min_samples=2):
-    clustering = DBSCAN(
-        eps=eps,
-        min_samples=min_samples,
-        metric="cosine"
-    ).fit(embeddings)
+    clustering = DBSCAN(eps=eps,min_samples=min_samples,metric="cosine").fit(embeddings)
 
     labels = clustering.labels_
 
@@ -99,8 +97,64 @@ def generate_near_duplicate_report(texts, embeddings, clusters, save_path, lang,
 
     return report_path
 
+def plot_elbow_from_jsonl(jsonl_path):
+    """
+    Carga embeddings desde un archivo .jsonl y grafica el elbow
+    para elegir el mejor eps para DBSCAN.
+    Detecta automáticamente lang y hierarchy desde el path.
+    """
 
-def process_all_embeddings(base_path,eps,min_samples):
+    # Detectar lang y hierarchy desde el path
+    parts = os.path.normpath(jsonl_path).split(os.sep)
+    lang = parts[-3]
+    hierarchy = parts[-2]
+
+    print(f"[INFO] Detectado lang={lang}, hierarchy={hierarchy}")
+    print(f"[INFO] Cargando embeddings desde: {jsonl_path}")
+
+    texts, embeddings = load_embeddings_jsonl(jsonl_path)
+    print(f"[INFO] Total embeddings: {len(embeddings)}")
+
+    # Valores de eps a probar
+    eps_values = np.linspace(0.05, 0.40, 30)
+    cluster_counts = []
+
+    print("[INFO] Calculando clusters para distintos eps...")
+
+    for eps in eps_values:
+        clustering = DBSCAN(
+            eps=eps,
+            min_samples=2,
+            metric="cosine"
+        ).fit(embeddings)
+
+        labels = clustering.labels_
+        n_clusters = len(set(labels)) - (1 if -1 in labels else 0)
+        cluster_counts.append(n_clusters)
+
+        print(f"  eps={eps:.3f} → clusters={n_clusters}")
+
+    # Graficar el elbow
+    plt.figure(figsize=(10, 6))
+    plt.plot(eps_values, cluster_counts, marker="o", color="purple")
+    plt.title(f"Elbow Plot — {lang}/{hierarchy}")
+    plt.xlabel("eps (distancia máxima)")
+    plt.ylabel("Número de clusters detectados")
+    plt.grid(alpha=0.3)
+    plt.show()
+
+    # Detectar el "codo" automáticamente
+    diffs = np.diff(cluster_counts)
+    elbow_idx = np.argmin(diffs)  # donde la curva deja de crecer
+    eps_recommended = eps_values[elbow_idx]
+
+    print("\n[RESULTADO] EPS recomendado:")
+    print(f"  → {eps_recommended:.3f} para {lang}/{hierarchy}")
+
+    return eps_recommended
+
+
+def near_duplicates(base_path,eps,min_samples):
     """
     Recibe el path base (ej: Data_Quality)
     Recorre idiomas y jerarquías
@@ -153,7 +207,78 @@ def process_all_embeddings(base_path,eps,min_samples):
 
                 print(f"[OK] Report saved: {report}")
 
+def load_embeddings_jsonl(path):
+    texts = []
+    embeddings = []
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            obj = json.loads(line)
+            texts.append(obj["text"])
+            embeddings.append(obj["embedding"])
+    return texts, np.array(embeddings)
+
+
+def plot_embedding_density_from_jsonl(jsonl_path):
+    """
+    Carga embeddings desde un archivo .jsonl y grafica la densidad
+    usando distancias coseno (histograma).
+    Detecta automáticamente lang y hierarchy desde el path.
+    """
+
+    # Detectar lang y hierarchy desde el path
+    # Ejemplo:
+    # C:/.../Data_Quality/ES/H1/embeddings.jsonl
+    parts = os.path.normpath(jsonl_path).split(os.sep)
+
+    # Buscamos los dos últimos directorios antes del archivo
+    # [..., Data_Quality, ES, H1, embeddings.jsonl]
+    lang = parts[-3]
+    hierarchy = parts[-2]
+
+    print(f"[INFO] Detectado lang={lang}, hierarchy={hierarchy}")
+    print(f"[INFO] Cargando embeddings desde: {jsonl_path}")
+
+    texts, embeddings = load_embeddings_jsonl(jsonl_path)
+
+    print(f"[INFO] Total embeddings: {len(embeddings)}")
+
+    # Matriz NxN de distancias coseno
+    dist_matrix = cosine_distances(embeddings)
+
+    # Extraer solo la parte superior (sin diagonal)
+    flat_distances = dist_matrix[np.triu_indices(len(embeddings), k=1)]
+
+    print(f"[INFO] Total de distancias analizadas: {len(flat_distances)}")
+
+    # Graficar histograma
+    plt.figure(figsize=(10, 6))
+    plt.hist(flat_distances, bins=50, color="steelblue", edgecolor="black")
+    plt.title(f"Densidad de Embeddings — {lang}/{hierarchy}")
+    plt.xlabel("Distancia coseno")
+    plt.ylabel("Frecuencia")
+    plt.grid(alpha=0.3)
+    plt.show()
+
+    # Estadísticas útiles
+    stats = {
+        "min": float(np.min(flat_distances)),
+        "max": float(np.max(flat_distances)),
+        "mean": float(np.mean(flat_distances)),
+        "median": float(np.median(flat_distances)),
+        "p10": float(np.percentile(flat_distances, 10)),
+        "p90": float(np.percentile(flat_distances, 90)),
+    }
+
+    print("\n[STATS] Distribución de distancias:")
+    for k, v in stats.items():
+        print(f"  {k}: {v:.4f}")
+
+    return stats
+
 # -----Sequence-----------
 if __name__ == "__main__":
 
-    process_all_embeddings(embeddings_path,eps,min_samples)
+    #plot_embedding_density_from_jsonl(r"C:\AI Stuff\AidCompanion-NLU\Data_Quality\ES\H1\embeddings.jsonl")
+    plot_elbow_from_jsonl(r"C:\AI Stuff\AidCompanion-NLU\Data_Quality\ES\H1\embeddings.jsonl")
+    #near_duplicates(embeddings_path,eps,min_samples)
+
